@@ -5,9 +5,9 @@ type: index
 
 ---
 {% for subject in site.data.subjects %}
-## {{ subject | capitalize }}
+## {{ subject.label }}
 {% for page in site.pages %}
-{% if page.subjects contains subject and page.type contains 'standard'  %}
+{% if page.subjects contains subject.value and page.type contains 'standard'  %}
 <!-- Liquid can't provide a relative URL -->
 [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
 :  {{ page.description }}

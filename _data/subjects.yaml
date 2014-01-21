@@ -1,6 +1,12 @@
-- biology
-- earth science
-- humanities
-- general
-- physical science
-- social science
+- value: biology
+  label: Biology
+- value: earth science
+  label: Earth Science
+- value: humanities
+  label: Humanities
+- value: general
+  label: General
+- value: physical science
+  label: Physical Science
+- value: social science
+  label: Social Science

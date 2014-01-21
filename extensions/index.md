@@ -5,12 +5,11 @@ type: index
 
 ---
 {% for subject in site.data.subjects %}
-<!-- Can't capitalize -->
-## {{ subject | capitalize }}
+## {{ subject.label }}
 {% for page in site.pages %}
-{% if page.subjects contains subject and page.type contains 'extension'  %}
-<!-- Liquid can't provide a relative URL -->
+{% if page.subjects contains subject.value and page.type contains 'extension' %}
 [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
+:  {{ page.description }}
 {% endif %}
 {% endfor %}
 {% endfor %}
