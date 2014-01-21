@@ -1,13 +1,6 @@
 metadata-directory
 ==================
 
----
-title: Metadata Directory
-type: home
-layout: base
-
----
-
 [Prototype metadata directory]({{ site.baseurl }}/) for the Research Data Alliance.
 
 
