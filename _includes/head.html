@@ -6,6 +6,14 @@
         {% assign css = 'css/bootstrap.min.css' %}
       {% elsif page.type contains 'standard' %}
         {% assign css = '../css/bootstrap.min.css' %}
+      {% elsif page.type contains 'use_case' %}
+        {% assign css = '../css/bootstrap.min.css' %}
+      {% elsif page.type contains 'index' %}
+        {% assign css = '../css/bootstrap.min.css' %}
+      {% elsif page.type contains 'extension' %}
+        {% assign css = '../css/bootstrap.min.css' %}
+      {% elsif page.type contains 'tool' %}
+        {% assign css = '../css/bootstrap.min.css' %}
       {% else %}
         {% assign css = 'css/bootstrap.min.css' %}
       {% endif %}

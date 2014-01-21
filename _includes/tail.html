@@ -4,6 +4,14 @@
         {% assign js = 'js/' %}
       {% elsif page.type contains 'standard' %}
         {% assign js = '../js/' %}
+      {% elsif page.type contains 'extension' %}
+        {% assign js = '../js/' %}
+      {% elsif page.type contains 'use_case' %}
+        {% assign js = '../js/' %}
+      {% elsif page.type contains 'tool' %}
+        {% assign js = '../js/' %}
+      {% elsif page.type contains 'index' %}
+        {% assign js = '../js/' %}
       {% else %}
         {% assign js = 'js/' %}
       {% endif %}
