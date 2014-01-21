@@ -1,0 +1,15 @@
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    {% if page.type %}
+      {% if page.type contains 'home' %}
+        {% assign js = 'js/' %}
+      {% elsif page.type contains 'standard' %}
+        {% assign js = '../js/' %}
+      {% else %}
+        {% assign js = 'js/' %}
+      {% endif %}
+    {% else %}
+        {% assign js = 'js/' %}
+    {% endif %}
+    <script src="{{ js }}jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{{ js }}bootstrap.min.js"></script>
