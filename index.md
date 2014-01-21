@@ -5,6 +5,8 @@ layout: base
 
 ---
 
+Prototype metadata directory for the Research Data Alliance
+
 ## Instructions
 
 ## Standards
