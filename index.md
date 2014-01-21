@@ -5,7 +5,7 @@ layout: base
 
 ---
 
-Prototype metadata directory for the Research Data Alliance
+[Prototype metadata directory]({{ site.baseurl }}/) for the Research Data Alliance.
 
 ## Instructions
 
@@ -39,17 +39,17 @@ Data should be laid out in a
     specification_url: http://url.to.specification
     website: http://url.to.project.website
     related_vocabularies:
-      -
+      - # vocabulary 1
         name: {name of related vocabulary}
         url: {url of related vocabulary}
-      -
+      - # vocabulary 2
         name: {second name of related vocabulary}
         url: {url of second related vocabulary}
     mappings:
-      -
+      - # mapping 1
         name: {name of metadata mapping}
         url: {url of mapping}
-      -
+      - # mapping 2
         name: {second name of metadata mapping}
         url: {second url of mappings}
     sponsor: {Sponsoring organization}
