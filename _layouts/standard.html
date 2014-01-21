@@ -32,11 +32,15 @@
         {% endif %}
         {% if page.related_vocabularies %}
         <dt>Related Vocabularies</dt>
-        <dd>{{ page.related_vocabularies | join: '; '}}</dd>
+        {% for vocabulary in page.related_vocabularies %}
+        <dd><a href="{{ vocabulary.url }}">{{ vocabulary.name }}</a></dd>
+        {% endfor %}
         {% endif %}
         {% if page.mappings %}
         <dt>Mappings</dt>
-        <dd>{{ page.mappings | join: '; '}}</dd>
+        {% for mapping in page.mappings %}
+        <dd><a href="{{ mapping.url }}">{{ mapping.name }}</a></dd>
+        {% endfor %}
         {% endif %}
         {% if page.subjects %}
         <dt>Subjects</dt>

@@ -8,10 +8,16 @@ subjects:
 specification_url: http://www.ddialliance.org/Specification/
 website: http://www.ddialliance.org/
 related_vocabularies:
-  - DDI Controlled Vocabularies
+  -
+    name: DDI Controlled Vocabularies
+    url: http://www.ddialliance.org/controlled-vocabularies
 mappings:
-  - DataCite Metadata Schema
-  - Dublin Core
+  -
+    name: DataCite Metadata Schema
+    url: http://schema.datacite.org/
+  -
+    name: Dublin Core
+    url: http://www.ddialliance.org/resources/tools/dc
 sponsor: Sponsored by the DDI Alliance
 update: 2009
 version: DDI version 3.1
