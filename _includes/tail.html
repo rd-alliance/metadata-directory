@@ -12,6 +12,8 @@
         {% assign js = '../js/' %}
       {% elsif page.type contains 'index' %}
         {% assign js = '../js/' %}
+      {% elsif page.type contains 'action' %}
+        {% assign js = '../js/' %}
       {% else %}
         {% assign js = 'js/' %}
       {% endif %}

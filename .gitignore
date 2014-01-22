@@ -1,5 +1,6 @@
 *.py[cod]
 _site
+\#*.*#
 
 # C extensions
 *.so

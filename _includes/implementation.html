@@ -1,0 +1,6 @@
+<div id="{{ include.type }}_text">
+{% highlight yaml %}
+{% assign yaml_file = include.type | append: '.yml' %}
+{% include {{yaml_file}} %}
+{% endhighlight %}
+</div>
