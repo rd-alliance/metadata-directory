@@ -8,16 +8,38 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{ site.baseurl }}/">RDA Metadata Directory</a>
+          <a class="navbar-brand" href="{{ site.baseurl }}/">
+            RDA Metadata Directory</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="{{ site.baseurl }}/">Home</a></li>
             <li><a href="{{ site.baseurl }}/standards/">Standards</a></li>
             <li><a href="{{ site.baseurl }}/extensions/">Extensions</a></li>
             <li><a href="{{ site.baseurl }}/tools/">Tools</a></li>
             <li><a href="{{ site.baseurl }}/use_cases/">Use Cases</a></li>
-            <li><a href="https://github.com/gugek/metadata-directory">View on Github</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle"
+                 data-toggle="dropdown">Add<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/standards/add.html">
+                    Standard</a></li>
+                <li><a href="{{ site.baseurl }}/extensions/add.html">
+                    Extension</a></li>
+                <li><a href="{{ site.baseurl }}/use_cases/add.html">
+                    Use Case</a></li>
+                <li><a href="{{ site.baseurl }}/tools/add.html">
+                    Tool</a></li>
+              </ul>
+            </li>
+            {% if page.type %}
+            <li><a href="{{site.repourl}}/edit/gh-pages/{{page.type}}s/{{page.name}}.md">Edit</a></li>
+            {% endif %}
+            <li>
+              <a href="https://github.com/gugek/metadata-directory">
+                View on Github</a>
+            </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
