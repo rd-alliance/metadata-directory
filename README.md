@@ -1,7 +1,8 @@
 metadata-directory
 ==================
 
-[Prototype metadata directory]({{ site.baseurl }}/) for the Research Data Alliance.
+[Prototype metadata directory](http://gugek.github.io/metadata-directory/) for
+the Research Data Alliance.
 
 
 ## Instructions
@@ -17,7 +18,7 @@ editing a file
 
 ## Standards
 
-[Visit the standards]({{ site.baseurl }}/standards/)
+[Visit the standards](http://gugek.github.io/metadata-directory/standards/)
 
 adding a new standard:
 :  https://github.com/{user}/{project}/new/{branch}{/directory}?filename={filename}.md
@@ -58,15 +59,15 @@ Data should be laid out in a
 
 ## Extensions
 
-[Visit the extensions]({{ site.baseurl }}/extensions/)
+[Visit the extensions](http://gugek.github.io/metadata-directory/extensions/)
 
 ## Tools
 
-[Visit the tools]({{ site.baseurl }}/tools/)
+[Visit the tools](http://gugek.github.io/metadata-directory/tools/)
 
 ## Use Cases
 
-[Visit the use cases]({{ site.baseurl}}/use_cases/)
+[Visit the use cases](http://gugek.github.io/metadata-directory/use_cases/)
 
 ## Directory Structure
 
