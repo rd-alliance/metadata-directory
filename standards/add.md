@@ -17,7 +17,7 @@ yaml: standard.yml
                          data-clipboard-text="{% include {{page.yaml}} %}">
     Copy to Clipboard</button>
 </li>
-<li>Goto GitHub: <a href="({{ site.repourl }}/new/gh-pages/standards">Add a
+<li>Goto GitHub: <a href="{{ site.repourl }}/new/gh-pages/standards">Add a
     new file</a>
   <ol>
     <li>This will fork a copy of the site's repository and allow you to edit a
