@@ -52,46 +52,64 @@
         {% endif %}
       </dl>
 
-      <h2>Extensions</h2>
-      <!-- Scaling here? It might be problematic if a lot of files to build-->
+      <h2>Extensions
+        <a href="../extensions/add.html" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Add</a>
+      </h2>
       <dl>
       {% for implementation in site.pages %}
       {% if implementation.type contains 'extension' %}
       {% if implementation.standards contains page.name %}
-      <dt><a href="{{ implementation.website }}">{{ implementation.title }}</a></dt>
+      <dt>
+        <a href="{{ implementation.website }}">{{ implementation.title }}</a>
+        <a href="{{site.repourl}}/edit/gh-pages/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </dt>
       <dd>{{ implementation.description }}</dd>
       {% endif %}
       {% endif %}
       {% endfor %}
       </dl>
-      <h2>Tools</h2>
-      <!-- Scaling here? It might be problematic if a lot of files to build-->
+
+      <h2>Tools
+        <a href="../tools/add.html" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Add</a>
+      </h2>
       <dl>
       {% for implementation in site.pages %}
       {% if implementation.type contains 'tool' %}
       {% if implementation.standards contains page.name %}
-      <dt><a href="{{ implementation.website }}">{{ implementation.title }}</a></dt>
+      <dt>
+        <a href="{{ implementation.website }}">{{ implementation.title }}</a>
+        <a href="{{site.repourl}}/edit/gh-pages/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </dt>
       <dd>{{ implementation.description }}</dd>
       {% endif %}
       {% endif %}
       {% endfor %}
       </dl>
-      <h2>Use Cases</h2>
-      <!-- Scaling here? It might be problematic if a lot of files to build-->
+      
+      <h2>Use Cases
+        <a href="../use_cases/add.html" class="btn btn-default btn-xs" role="button">
+           <span class="glyphicon glyphicon-edit"></span> Add</a>
+      </h2>
       <dl>
       {% for implementation in site.pages %}
       {% if implementation.type contains 'use_case' %}
       {% if implementation.standards contains page.name %}
-      <dt><a href="{{ implementation.website }}">{{ implementation.title }}</a></dt>
+      <dt>
+        <a href="{{ implementation.website }}">{{ implementation.title }}</a>
+        <a href="{{site.repourl}}/edit/gh-pages/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </dt>
       <dd>{{ implementation.description }}</dd>
       {% endif %}
       {% endif %}
       {% endfor %}
       </dl>
-
 {% include footer.html %}
     </div>
-
 {% include tail.html %}
   </body>
 </html>

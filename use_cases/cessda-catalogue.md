@@ -1,6 +1,6 @@
 ---
 title: CESSDA Catalogue
-name: cessda-catalogueshort-name
+name: cessda-catalogue
 website: http://website.of.use.case
 description: | 
   Provides a seamless interface to datasets from social science data archives

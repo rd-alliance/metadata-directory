@@ -1,5 +1,6 @@
 ---
 title: Geodoc Metadata Editor
+name: geodoc-metadata-editor
 website: http://bluenetdev.its.utas.edu.au/download/bluenetmest.html
 description: | 
   The Geodoc metadata editor tool allows users to create, validate, edit and

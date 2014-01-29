@@ -1,5 +1,6 @@
 ---
 title: Cruise Summary Reports
+name: cruise-summary-reports
 website: http://www.seadatanet.org/Metadata/CSR
 type: extension
 layout: extension

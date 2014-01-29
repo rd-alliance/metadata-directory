@@ -1,6 +1,7 @@
 ---
 title: ANZLIC Metadata Profile
 website: http://spatial.gov.au/resources/home
+name: anzlic-metadata-profile
 type: extension
 layout: extension
 subjects:

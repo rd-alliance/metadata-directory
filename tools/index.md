@@ -5,15 +5,20 @@ type: index
 
 ---
 {% for subject in site.data.subjects %}
-<!-- Can't capitalize -->
 ## {{ subject.label }}
+<dl>
 {% for page in site.pages %}
-{% if page.subjects contains subject.value and page.type contains 'tool'  %}
-<!-- Liquid can't provide a relative URL -->
-[{{ page.title }}]({{ site.baseurl }}{{ page.url }})
-:  {{ page.description }}
+{% if page.subjects contains subject.value and page.type contains 'tool' %}
+<dt>
+  <a href="{{ page.website }}">{{ page.title }}</a>
+  <a href="{{site.repourl}}/edit/gh-pages/tools/{{page.name}}.md"
+     class="btn btn-default btn-xs" role="button">
+    <span class="glyphicon glyphicon-edit"></span> Edit</a>
+</dt>
+<dd>{{ page.description }}</dd>
 {% endif %}
 {% endfor %}
+</dl>
 {% endfor %}
 
     

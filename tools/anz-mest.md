@@ -1,5 +1,6 @@
 ---
 title: ANZ-MEST Metadata Entry and Search Tool
+name: anz-mest
 website: http://bluenetdev.its.utas.edu.au/download/bluenetmest.html
 description: | 
   A GeoNetwork web application for metadata management and searching, with

@@ -12,8 +12,8 @@ additional functionality or meet other functional requirements.</p>
 <h3>Instructions</h3>
 <ol>
 <li>
-  Copy template: <button class="clip-button btn btn-primary" title="copy to
-                         clipboard" type="button" 
+  Copy template: <button class="btn btn-sm btn-primary"
+                         title="Copy to clipboard" type="button" 
                          data-clipboard-text="{% include {{page.yaml}} %}">
     Copy to Clipboard</button>
 </li>
