@@ -11,7 +11,7 @@ type: index
 {% if page.subjects contains subject.value and page.type contains 'use_case' %}
 <dt>
   <a href="{{ page.website }}">{{ page.title }}</a>
-  <a href="{{site.repourl}}/edit/gh-pages/use_cases
+  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases
   /{{page.name}}.md"
      class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>

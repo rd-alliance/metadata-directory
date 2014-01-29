@@ -62,7 +62,7 @@
       {% if implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/gh-pages/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -81,7 +81,7 @@
       {% if implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/gh-pages/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -100,7 +100,7 @@
       {% if implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/gh-pages/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>

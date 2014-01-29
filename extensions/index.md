@@ -11,7 +11,7 @@ type: index
 {% if page.subjects contains subject.value and page.type contains 'extension' %}
 <dt>
   <a href="{{ page.website }}">{{ page.title }}</a>
-  <a href="{{site.repourl}}/edit/gh-pages/extensions/{{page.name}}.md"
+  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{page.name}}.md"
      class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>
 </dt>

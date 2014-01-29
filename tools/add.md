@@ -17,8 +17,8 @@ yaml: tool.yml
                            type="button" 
                            data-clipboard-target="{% include {{page.yaml}} %}">
     Copy to Clipboard</button></li>
-<li>Goto GitHub: <a href="{{ site.repourl }}/new/gh-pages/tools">Add a
-    new file</a>
+<li>Goto GitHub: <a href="{{ site.repourl }}/new/{{ site.repobranch }}/tools">
+    Add a new file</a>
   <ol>
     <li>This will fork a copy of the site's repository and allow you to edit a
         page.</li>
