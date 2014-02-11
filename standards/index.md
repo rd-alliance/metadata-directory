@@ -10,7 +10,7 @@ type: index
 {% for page in site.pages %}
 {% if page.subjects contains subject.value and page.type contains 'standard' %}
 <dt>
-  <a href="{{ page.website }}">{{ page.title }}</a>
+  <a href="{{ page.url }}">{{ page.title }}</a>
   <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}.md"
      class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>
