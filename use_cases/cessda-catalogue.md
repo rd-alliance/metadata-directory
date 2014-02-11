@@ -1,7 +1,7 @@
 ---
 title: CESSDA Catalogue
 name: cessda-catalogue
-website: http://website.of.use.case
+website: http://www.cessda.net/catalogue/
 description: | 
   Provides a seamless interface to datasets from social science data archives
   across Europe using the CESSDA MLI profile of DDI.

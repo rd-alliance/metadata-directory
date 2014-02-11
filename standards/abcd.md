@@ -17,20 +17,20 @@ specification_url: http://www.tdwg.org/standards/115/
 website: http://wiki.tdwg.org/ABCD
 related_vocabularies:
   - # vocabulary
-  name: LSID Vocabularies
-  url: http://wiki.tdwg.org/twiki/bin/view/TAG/LsidVocs
+    name: LSID Vocabularies
+    url: http://wiki.tdwg.org/twiki/bin/view/TAG/LsidVocs
 mappings:
   - #mapping
-  name: Darwin Core
-  url: http://www.bgbm.org/TDWG/CODATA/Schema/Mappings/DwCAndExtensions.htm
+    name: Darwin Core
+    url: http://www.bgbm.org/TDWG/CODATA/Schema/Mappings/DwCAndExtensions.htm
   - # mapping
-  name: Eurisco Descriptors (Draft)
-  url: http://www.bgbm.org/tdwg/codata/Schema/Mappings/EURISCO-2-ABCD.pdf
+    name: Eurisco Descriptors (Draft)
+    url: http://www.bgbm.org/tdwg/codata/Schema/Mappings/EURISCO-2-ABCD.pdf
   - # mapping
-  name: OECD Minimum Data Set
-  url: http://www.bgbm.org/tdwg/codata/Schema/ABCD_1.30/OECD-MDS-2-ABCD130.pdf
+    name: OECD Minimum Data Set
+    url: http://www.bgbm.org/tdwg/codata/Schema/ABCD_1.30/OECD-MDS-2-ABCD130.pdf
 sponsor: Boidiversity Information Standards TDWG (Taxonomic Databases Working Group)
-update: 2007
+standard_update_date: 2007
 description: |
   The Access to Biological Collections Data (ABCD) Schema is an evolving
   comprehensive standard for the access to and exchange of data about specimens
@@ -40,3 +40,4 @@ description: |
   standards. Parallel structures exist so that either (or both) atomised data
   and free-text can be accommodated.
 ---
+
