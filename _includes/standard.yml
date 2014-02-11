@@ -6,6 +6,10 @@ type: standard
 subjects:
   - Subject 1
   - Subject 2
+disciplines:
+  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
+  - Discipline 1
+  - Discipline 2
 specification_url: http://url.to.specification
 website: http://url.to.project.website
 related_vocabularies:
