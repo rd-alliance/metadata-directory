@@ -1,7 +1,4 @@
 [Prototype metadata directory](http://rd-alliance.github.io/metadata-directory/) for the Research Data Alliance.
-=======
-
-[Prototype metadata directory](http://gugek.github.io/metadata-directory/) for the Research Data Alliance.
 
 ## Instructions
 
