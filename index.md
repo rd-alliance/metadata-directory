@@ -41,6 +41,7 @@ requests can be generated using the existing GitHub and git workflows.
 ### Additional Help
 
 [Creating and editing files in your repository](https://help.github.com/articles/creating-and-editing-files-in-your-repository)
+
 [Collaboration on GitHub](https://help.github.com/categories/63/articles)
 
 * [Visit the standards]({{ site.baseurl }}/standards/)
