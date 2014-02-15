@@ -1,5 +1,6 @@
 ---
 layout: add
+name: add
 type: action
 title: Adding Extensions
 yaml: extension.yml

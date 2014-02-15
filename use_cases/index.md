@@ -1,5 +1,6 @@
 ---
 title: Use Cases
+name: index
 layout: base
 type: index
 

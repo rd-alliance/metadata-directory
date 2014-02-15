@@ -1,15 +1,13 @@
 ---
-title: {Title of the Standard}
-name: {Short name for references}
-layout: standard
-type: standard
+title: {Full name of the metadata standard}
+name: {Short filename to identify the metadata standard}
 subjects:
-  - Subject 1
-  - Subject 2
+  - {Subject 1}
+  - {Subject 2}
 disciplines:
   # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  - Discipline 1
-  - Discipline 2
+  - {Discipline 1}
+  - {Discipline 2}
 specification_url: http://url.to.specification
 website: http://url.to.project.website
 related_vocabularies:
@@ -27,8 +25,16 @@ mappings:
     name: {second name of metadata mapping}
     url: {second url of mappings}
 sponsor: {Sponsoring organization}
+sponsor_url: {Sponsoring organization}
+contact: {contact name}
+contact_email: {email address for contact}
 standard_update_date: {update date ISO date format}
 version: {version data }
 description: |
-  { two sentence summary }
+  {Multi line description of the extension which can span a section that needs
+  to indented if there is a need for an extended description. Try to limit to
+  two sentences}
+# The following are constants: do not modify
+layout: standard
+type: standard
 ---

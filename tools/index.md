@@ -1,5 +1,6 @@
 ---
 title: Tools
+name: index
 layout: base
 type: index
 

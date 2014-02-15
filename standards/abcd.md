@@ -29,7 +29,9 @@ mappings:
   - # mapping
     name: OECD Minimum Data Set
     url: http://www.bgbm.org/tdwg/codata/Schema/ABCD_1.30/OECD-MDS-2-ABCD130.pdf
-sponsor: Boidiversity Information Standards TDWG (Taxonomic Databases Working Group)
+sponsor: Biodiversity Information Standards TDWG (Taxonomic Databases Working Group)
+contact: Walter G. Berendsohn (TDWG)
+contact_email:
 standard_update_date: 2007
 description: |
   The Access to Biological Collections Data (ABCD) Schema is an evolving

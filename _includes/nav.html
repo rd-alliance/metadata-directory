@@ -34,7 +34,9 @@
               </ul>
             </li>
             {% if page.type %}
-            <li><a href="{{site.repourl}}/edit/gh-pages/{{page.type}}s/{{page.name}}.md">Edit</a></li>
+            <li>
+              <a href="{{site.repourl}}/edit/gh-pages/{{ page.path }}">Edit</a>
+            </li>
             {% endif %}
             <li>
               <a href="{{site.repourl}}">

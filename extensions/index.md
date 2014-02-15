@@ -1,5 +1,6 @@
 ---
 title: Extensions
+name: index
 layout: base
 type: index
 

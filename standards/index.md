@@ -1,5 +1,6 @@
 ---
 title: Standards
+name: index
 layout: base
 type: index
 

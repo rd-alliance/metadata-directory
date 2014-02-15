@@ -26,6 +26,10 @@
         <dt>Sponsor</dt>
         <dd>{{ page.sponsor }}</dd>
         {% endif %}
+        {% if page.contact %}
+        <dt>Contact</dt>
+        <dd><a href="mailto:{{ page.contact_email }}">{{ page.contact }}</a></dd>
+        {% endif %}
         {% if page.standard_update_date %}
         <dt>Standard Update Date</dt>
         <dd>{{ page.standard_update_date }}</dd>

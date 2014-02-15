@@ -1,5 +1,6 @@
 ---
 layout: add
+name: add
 type: action
 title: Adding Tools
 yaml: tool.yml
