@@ -54,3 +54,7 @@ requests can be generated using the existing GitHub and git workflows.
 
 The website is generated with [Jekyll](http://jekyllrb.com). The website uses
 Jekyll to process HTML, YAML, and Markdown files to generate a static website.
+
+If you choose to clone the repository running a local version of Jekyll is
+helpful for troubleshooting:
+[https://help.github.com/articles/using-jekyll-with-pages](https://help.github.com/articles/using-jekyll-with-pages)
