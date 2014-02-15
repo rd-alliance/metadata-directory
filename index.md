@@ -13,9 +13,27 @@ layout: base
 * [Visit the tools]({{ site.baseurl }}/tools/)
 * [Visit the use cases]({{ site.baseurl }}/use_cases/)
 
+## Structure of the Directory
+
+Standards are contained within the
+[`standards`]({{ site.repourl }}/tree/master/standards)
+file system directory with each standard encoded into a markdown file with a
+[YAML](http://en.wikipedia.org/wiki/YAML) preface. The YAML preface is
+structured to encode the various elements describing a metadata standard or its
+associated implementations. 
+
+Implementations come in three different categories
+[`extensions`]({{ site.repourl }}/tree/master/extensions),
+[`tools`]({{ site.repourl }}/tree/master/tools),
+and [`use_cases`]({{ site.repourl }}/tree/master/use_cases). Each grouping of
+implementations are contained in their own file system directories.
+
+Relationships between implementations and standards are created based on
+recording related standards within each of the implementation metadata records.
+
 ## Instructions
 
-### [Adding a Standard]({{ site.baseurl }}/standards/add.html)
+[__Adding a Standard__]({{ site.baseurl }}/standards/add.html)
 
 Adding a new standard is as simple as forking the repository creating a new
 standards file marked up with a simple YAML schema. Commiting your new
@@ -23,22 +41,22 @@ standard, and then submitting a
 [pull request](https://help.github.com/articles/using-pull-requests) to the
 origin repository.
 
-### [Adding an Extension]({{ site.baseurl }}/extensions/add.html)
+[__Adding an Extension__]({{ site.baseurl }}/extensions/add.html)
 
 An extension needs to reference an existing standard. Extensions are typically
 enhancements to a standard that provide additional functionality or meet some
 other requirements.
 
-### [Adding a Tool]({{ site.baseurl }}/tools/add.html)
+[__Adding a Tool__]({{ site.baseurl }}/tools/add.html)
 
 Tools are software tools or systems that support the use of the standard. Tools
 implement the standard.
 
-### [Adding a Use Case]({{ site.baseurl }}/use_cases/add.html)
+[__Adding a Use Case__]({{ site.baseurl }}/use_cases/add.html)
 
 Use cases are systems, organizations or projects which use the standard.
 
-### Editing
+## Editing
 
 Editing can take place within the GitHub editing tools. Or alternatively a fork
 of the repository can be cloned and editing can be done locally and pull
