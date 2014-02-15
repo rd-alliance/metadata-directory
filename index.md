@@ -1,11 +1,17 @@
 ---
 title: Metadata Directory
+name: index
 type: home
 layout: base
 
 ---
 
 [Prototype metadata directory]({{ site.baseurl }}/) for the Research Data Alliance.
+
+* [Visit the standards]({{ site.baseurl }}/standards/)
+* [Visit the extensions]({{ site.baseurl }}/extensions/)
+* [Visit the tools]({{ site.baseurl }}/tools/)
+* [Visit the use cases]({{ site.baseurl }}/use_cases/)
 
 ## Instructions
 
@@ -43,11 +49,6 @@ requests can be generated using the existing GitHub and git workflows.
 [Creating and editing files in your repository](https://help.github.com/articles/creating-and-editing-files-in-your-repository)
 
 [Collaboration on GitHub](https://help.github.com/categories/63/articles)
-
-* [Visit the standards]({{ site.baseurl }}/standards/)
-* [Visit the extensions]({{ site.baseurl }}/extensions/)
-* [Visit the tools]({{ site.baseurl }}/tools/)
-* [Visit the use cases]({{ site.baseurl }}/use_cases/)
 
 ## Jekyll
 

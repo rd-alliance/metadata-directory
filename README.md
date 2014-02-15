@@ -1,4 +1,10 @@
-[Prototype metadata directory](http://rd-alliance.github.io/metadata-directory/) for the Research Data Alliance.
+[Prototype metadata directory](http://rd-alliance.github.io/metadata-directory/)
+for the Research Data Alliance.
+
+* [Visit the standards](http://rd-alliance.github.io/metadata-directory/standards/)
+* [Visit the extensions](http://rd-alliance.github.io/metadata-directory/extensions/)
+* [Visit the tools](http://rd-alliance.github.io/metadata-directory/tools/)
+* [Visit the use cases](http://rd-alliance.github.io/metadata-directory/use_cases/)
 
 ## Instructions
 
@@ -36,11 +42,6 @@ requests can be generated using the existing GitHub and git workflows.
 [Creating and editing files in your repository](https://help.github.com/articles/creating-and-editing-files-in-your-repository)
 
 [Collaboration on GitHub](https://help.github.com/categories/63/articles)
-
-* [Visit the standards](http://rd-alliance.github.io/metadata-directory/standards/)
-* [Visit the extensions](http://rd-alliance.github.io/metadata-directory/extensions/)
-* [Visit the tools](http://rd-alliance.github.io/metadata-directory/tools/)
-* [Visit the use cases](http://rd-alliance.github.io/metadata-directory/use_cases/)
 
 ## Jekyll
 
