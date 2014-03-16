@@ -34,6 +34,10 @@
         <dt>Standard Update Date</dt>
         <dd>{{ page.standard_update_date }}</dd>
         {% endif %}
+        {% if page.status %}
+        <dt>Status</dt>
+        <dd>{{ page.status }}</dd>
+        {% endif %}
         {% if page.related_vocabularies %}
         <dt>Related Vocabularies</dt>
         {% for vocabulary in page.related_vocabularies %}
