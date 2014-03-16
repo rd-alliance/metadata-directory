@@ -25,8 +25,13 @@ mappings:
   - # mapping
     name: {second name of metadata mapping}
     url: {second url of mappings}
-sponsor: {Sponsoring organization}
-sponsor_url: {Sponsoring organization}
+sponsors: 
+  - # sponsor
+    name: {Sponsoring organization}
+    url: {url of sponsor}
+  - # sponsor
+    name: {Sponsoring organization}
+    url: {url of sponsor}
 contact: {contact name}
 contact_email: {email address for contact}
 standard_update_date: {update date ISO date format}

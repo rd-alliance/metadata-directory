@@ -22,9 +22,11 @@
         <dt>Specification</dt>
         <dd><a href="{{ page.specification_url }}">{{ page.specification_url }}</a></dd>
         {% endif %}
-        {% if page.sponsor %}
-        <dt>Sponsor</dt>
-        <dd>{{ page.sponsor }}</dd>
+        {% if page.sponsors %}
+        <dt>Sponsors</dt>
+        {% for sponsor in page.sponsors %}
+        <dd><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></dd>
+        {% endfor %}
         {% endif %}
         {% if page.contact %}
         <dt>Contact</dt>
@@ -55,7 +57,7 @@
         <dd>{{ page.subjects | join: ', '}}</dd>
         {% endif %}
         {% if page.disciplines %}
-        <dt>Subjects</dt>
+        <dt>Disciplines</dt>
         <dd>{{ page.disciplines | join: ', '}}</dd>
         {% endif %}
       </dl>
