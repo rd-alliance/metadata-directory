@@ -9,6 +9,7 @@ disciplines:
   - {Discipline 1}
   - {Discipline 2}
 specification_url: http://url.to.specification
+status: approval status if any
 website: http://url.to.project.website
 related_vocabularies:
   - # vocabulary
