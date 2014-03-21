@@ -1,18 +1,17 @@
 ---
 title: CESSDA Catalogue
 name: cessda-catalogue
-website: http://www.cessda.net/catalogue/
-description: | 
-  Provides a seamless interface to datasets from social science data archives
-  across Europe using the CESSDA MLI profile of DDI.
+website: http://www.cessda.org/accessing/catalogue/
+description: <p>Provides a seamless interface to datasets from social science data
+  archives across Europe using the CESSDA MLI profile of <a href="http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative">DDI</a>.</p>
+standards:
+- ddi-data-documentation-initiative
+disciplines:
+- Sociology
+- Planning (Urban, Rural and Regional)
+- Economics
+- Demography
 type: use_case
 layout: use_case
-subjects:
-  # From enumerated application specific subject list
-  - general
-disciplines:
-  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-standards:
-  # name of related standard 
-  - ddi
 ---
+

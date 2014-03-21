@@ -5,11 +5,9 @@ layout: base
 type: index
 
 ---
-{% for subject in site.data.subjects %}
-## {{ subject.label }}
 <dl>
 {% for page in site.pages %}
-{% if page.subjects contains subject.value and page.type contains 'standard' %}
+{% if page.type contains 'standard' %}
 <dt>
   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}.md"
@@ -20,5 +18,3 @@ type: index
 {% endif %}
 {% endfor %}
 </dl>
-{% endfor %}
-    
