@@ -6,7 +6,8 @@ type: index
 
 ---
 <dl>
-{% for page in site.pages %}
+{% assign sortedPages = site.pages| sort_by:name %}
+{% for page in sortedPages %}
 {% if page.type contains 'standard' %}
 <dt>
   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
