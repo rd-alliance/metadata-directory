@@ -6,7 +6,7 @@ type: index
 
 ---
 <dl>
-{% assign sortedPages = site.pages | sort_by:name %}
+{% assign sortedPages = site.pages | sort:"name" %}
 {% for page in sortedPages %}
 {% if page.type contains 'standard' %}
 <dt>
