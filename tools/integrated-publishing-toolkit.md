@@ -1,21 +1,23 @@
 ---
 title: Integrated Publishing Toolkit
 name: integrated-publishing-toolkit
-website: http://code.google.com/p/gbif-providertoolkit/
-description: <p>A software platform using <a href="http://www.dcc.ac.uk/resources/metadata-standards/darwin-core">Darwin
-  Core</a> and <a href="http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language">EML</a>
+description: <p>A software platform using <a href="/standards/darwin-core.html">Darwin
+  Core</a> and <a href="/standards/eml-ecological-metadata-language.html">EML</a>
   to facilitate the efficient publishing of biodiversity data on the Internet, using
   the GBIF network.</p>
+website: http://code.google.com/p/gbif-providertoolkit/
+subjects:
+- life-sciences
+disciplines:
+- biodiversity
+- botany
+- ecology
+- biogeography
+- zoology
 standards:
 - darwin-core
 - eml-ecological-metadata-language
-disciplines:
-- Zoology
-- Ecology
-- Botany
-- Biogeography
-- Biodiversity
-type: tool
 layout: tool
+type: tool
 ---
 

@@ -1,15 +1,17 @@
 ---
 title: Dryad Metadata Application Profile
 name: dryad-metadata-application-profile
-website: http://wiki.datadryad.org/Metadata_Profile
-description: <p>An application profile based on the <a href="http://www.dcc.ac.uk/resources/metadata-standards/dublin-core">Dublin
+description: <p>An application profile based on the <a href="/standards/dublin-core.html">Dublin
   Core</a> Metadata Initiative Abstract Model, used to describe multi-disciplinary
   data underlying peer-reviewed scientific and medical literature.</p>
+website: http://wiki.datadryad.org/Metadata_Profile
+subjects:
+- general
+disciplines:
+- multi-disciplinary
 standards:
 - dublin-core
-disciplines:
-- Multi-disciplinary
-type: extension
 layout: extension
+type: extension
 ---
 

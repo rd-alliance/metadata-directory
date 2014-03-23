@@ -1,17 +1,19 @@
 ---
 title: GFZ Information System and Data Center
 name: gfz-information-system-and-data-center
-website: https://gsa.confex.com/gsa/2008GE/finalprogram/abstract_142100.htm
-description: <p>A case study describing <a href="http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format">DIF</a>
+description: <p>A case study describing <a href="/standards/dif-directory-interchange-format.html">DIF</a>
   metadata use in the German Research Center for Geoscience.</p>
+website: https://gsa.confex.com/gsa/2008GE/finalprogram/abstract_142100.htm
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- cartography
+- climatology
+- topography
+- planetary-science
 standards:
 - dif-directory-interchange-format
-disciplines:
-- Topography
-- Planetary science
-- Climatology
-- Cartography
-type: use_case
 layout: use_case
+type: use_case
 ---
 

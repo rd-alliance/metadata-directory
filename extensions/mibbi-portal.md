@@ -1,16 +1,18 @@
 ---
 title: MIBBI Portal
 name: mibbi-portal
-website: http://mibbi.sourceforge.net/portal.shtml
 description: <p>A list of nearly 40 Minimum Information standards projects registered
-  with the <a href="http://www.dcc.ac.uk/resources/metadata-standards/mibbi-minimum-information-biological-and-biomedical-investigations">MIBBI</a>
+  with the <a href="/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI</a>
   initiative.</p>
+website: http://mibbi.sourceforge.net/portal.shtml
+subjects:
+- life-sciences
+disciplines:
+- genetics
+- genomics
 standards:
 - mibbi-minimum-information-biological-and-biomedical-investigations
-disciplines:
-- Genomics
-- Genetics
-type: extension
 layout: extension
+type: extension
 ---
 

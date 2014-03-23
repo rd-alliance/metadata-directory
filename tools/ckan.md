@@ -1,7 +1,6 @@
 ---
 title: CKAN
 name: ckan
-website: http://ckan.org
 description: <p>Tool which utilizes the DCAT standard. CKAN is a powerful data management
   system that makes data accessible &#8211; by providing tools to streamline publishing,
   sharing, finding and using data.</p><p>CKAN is aimed at data publishers (national
@@ -11,11 +10,12 @@ description: <p>Tool which utilizes the DCAT standard. CKAN is a powerful data m
   States <a href="http://data.gov">http://data.gov</a> uses a version of CKAN wrapped
   up as the <a href="https://github.com/opengovplatform/opengovplatform-beta">Open
   Government Platform</a>.</p>
+website: http://ckan.org
+subjects: !!set
+  general: null
 standards:
 - dcat-data-catalog-vocabulary
-disciplines:
-- Public administration
-type: tool
 layout: tool
+type: tool
 ---
 

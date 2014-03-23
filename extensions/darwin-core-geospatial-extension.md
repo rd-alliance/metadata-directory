@@ -1,17 +1,19 @@
 ---
 title: Darwin Core Geospatial Extension
 name: darwin-core-geospatial-extension
+description: <p>A protocol-independent XML schema for a geospatial extension to the
+  <a href="/standards/darwin-core.html">Darwin Core</a>.</p>
 website: http://wiki.tdwg.org/twiki/bin/view/DarwinCore/GeospatialExtension
-description: <p>A protocol-independent XML schema for a geospatial extension to
-  the <a href="http://www.dcc.ac.uk/resources/metadata-standards/darwin-core">Darwin
-  Core</a>.</p>
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+disciplines:
+- cartography
+- topography
+- biogeography
 standards:
 - darwin-core
-disciplines:
-- Topography
-- Cartography
-- Biogeography
-type: extension
 layout: extension
+type: extension
 ---
 

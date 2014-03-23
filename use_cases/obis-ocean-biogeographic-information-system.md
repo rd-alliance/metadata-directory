@@ -1,19 +1,21 @@
 ---
 title: OBIS - Ocean Biogeographic Information System
 name: obis-ocean-biogeographic-information-system
-website: http://iobis.org/node/304
 description: <p>A data repository for marine species datasets from all of the world's
-  oceans; it uses an extension of <a href="http://www.dcc.ac.uk/resources/metadata-standards/darwin-core">Darwin
+  oceans; it uses an extension of <a href="/standards/darwin-core.html">Darwin
   Core</a> 2 as its data standard.</p>
+website: http://iobis.org/node/304
+subjects:
+- life-sciences
+disciplines:
+- marine-science
+- maritime-geography
+- biogeography
+- zoology
+- marine-zoology
 standards:
 - darwin-core
-disciplines:
-- Zoology
-- Maritime Geography
-- Marine Zoology
-- Marine Science
-- Biogeography
-type: use_case
 layout: use_case
+type: use_case
 ---
 

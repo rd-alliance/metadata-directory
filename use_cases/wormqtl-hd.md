@@ -2,13 +2,14 @@
 title: WormQTL-HD
 name: wormqtl-hd
 website: http://www.wormqtl-hd.org/
-description: ''
+subjects:
+- life-sciences
+disciplines:
+- genetics
+- genomics
 standards:
 - observ-om
-disciplines:
-- Genetics
-- Genomics
-type: use_case
 layout: use_case
+type: use_case
 ---
 

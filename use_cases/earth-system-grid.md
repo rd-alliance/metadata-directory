@@ -1,16 +1,18 @@
 ---
 title: Earth System Grid
 name: earth-system-grid
-website: http://www.earthsystemgrid.org/
-description: <p>A gateway providing a discovery service for climate data held at
-  repositories across the globe. It supports use of the <a href="http://www.dcc.ac.uk/resources/metadata-standards/metafor-cim-common-information-model">Metafor
+description: <p>A gateway providing a discovery service for climate data held at repositories
+  across the globe. It supports use of the <a href="/standards/metafor-cim-common-information-model.html">Metafor
   CIM</a>.</p>
+website: http://www.earthsystemgrid.org/
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- climatology
+- environmental-science
 standards:
 - metafor-cim-common-information-model
-disciplines:
-- Environmental Science
-- Climatology
-type: use_case
 layout: use_case
+type: use_case
 ---
 

@@ -2,14 +2,15 @@
 title: MVID Patient Registry
 name: mvid-patient-registry
 website: http://www.mvid-central.org/
-description: ''
+subjects:
+- life-sciences
+disciplines:
+- genetics
+- bioinformatics
+- genomics
 standards:
 - observ-om
-disciplines:
-- Genetics
-- Genomics
-- Bioinformatics
-type: use_case
 layout: use_case
+type: use_case
 ---
 

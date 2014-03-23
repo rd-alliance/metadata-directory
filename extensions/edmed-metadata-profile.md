@@ -1,23 +1,26 @@
 ---
 title: EDMED Metadata Profile
 name: edmed-metadata-profile
-website: https://www.bodc.ac.uk/data/information_and_inventories/edmed/
-description: <p>The European Directory of Marine Environmental Datasets metadata
-  scheme, which is a profile of <a href="http://www.dcc.ac.uk/resources/metadata-standards/iso-19115">ISO
+description: <p>The European Directory of Marine Environmental Datasets metadata scheme,
+  which is a profile of <a href="/standards/iso-19115.html">ISO
   19115</a>.</p>
+website: https://www.bodc.ac.uk/data/information_and_inventories/edmed/
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+disciplines:
+- meteorology
+- ecology
+- climatology
+- glaciology
+- oceanography
+- soil-science
+- hydrogeology
+- hydrology
+- environmental-science
 standards:
 - iso-19115
-disciplines:
-- Soil Science
-- Oceanography
-- Meteorology
-- Hydrology
-- Hydrogeology
-- Glaciology
-- Environmental Science
-- Ecology
-- Climatology
-type: extension
 layout: extension
+type: extension
 ---
 

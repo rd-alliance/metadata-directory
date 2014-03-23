@@ -1,16 +1,18 @@
 ---
 title: SPASE Metadata Editor
 name: spase-metadata-editor
-website: http://www.spase-group.org/tools/editor/
-description: <p>A web-based editor for generating <a href="http://www.dcc.ac.uk/resources/metadata-standards/spase-data-model">SPASE</a>
+description: <p>A web-based editor for generating <a href="/standards/spase-data-model.html">SPASE</a>
   descriptions.</p>
+website: http://www.spase-group.org/tools/editor/
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- space-science
+- astronomy
+- solar-physics
 standards:
 - spase-data-model
-disciplines:
-- Space science
-- Solar physics
-- Astronomy
-type: tool
 layout: tool
+type: tool
 ---
 

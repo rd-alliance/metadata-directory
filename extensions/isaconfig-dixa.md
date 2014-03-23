@@ -2,13 +2,14 @@
 title: isaconfig-diXa
 name: isaconfig-dixa
 website: https://bitbucket.org/kanterae/isaconfig-dixa
-description: ''
+subjects:
+- life-sciences
+disciplines:
+- toxicology
+- genomics
 standards:
 - isa-tab
-disciplines:
-- Toxicology
-- Genomics
-type: extension
 layout: extension
+type: extension
 ---
 

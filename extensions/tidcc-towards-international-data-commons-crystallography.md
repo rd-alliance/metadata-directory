@@ -1,14 +1,16 @@
 ---
 title: TIDCC - Towards an International Data Commons for Crystallography
 name: tidcc-towards-international-data-commons-crystallography
-website: http://wiki.ecrystals.chem.soton.ac.uk/images/9/9d/ECrystals-WP4-PM-Final.pdf
-description: <p>A profile of the <a href="http://www.dcc.ac.uk/resources/metadata-standards/csmd-cclrc-core-scientific-metadata-model">CSMD</a>
+description: <p>A profile of the <a href="/standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>
   model for Australian crystallographic data.</p>
+website: http://wiki.ecrystals.chem.soton.ac.uk/images/9/9d/ECrystals-WP4-PM-Final.pdf
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- crystallography
 standards:
 - csmd-cclrc-core-scientific-metadata-model
-disciplines:
-- Crystallography
-type: extension
 layout: extension
+type: extension
 ---
 

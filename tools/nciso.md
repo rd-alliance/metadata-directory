@@ -1,15 +1,17 @@
 ---
 title: ncISO
 name: nciso
-website: https://geo-ide.noaa.gov/wiki/index.php?title=NcISO
-description: <p>A package of tools that facilitates the generation of <a href="http://www.dcc.ac.uk/resources/metadata-standards/iso-19115">ISO
+description: <p>A package of tools that facilitates the generation of <a href="/standards/iso-19115.html">ISO
   19115</a>-2 metadata from NetCDF data sources.</p>
+website: https://geo-ide.noaa.gov/wiki/index.php?title=NcISO
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- meteorology
+- climatology
 standards:
 - iso-19115
-disciplines:
-- Meteorology
-- Climatology
-type: tool
 layout: tool
+type: tool
 ---
 

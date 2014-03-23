@@ -1,19 +1,21 @@
 ---
 title: Marine Geoscience Data System
 name: marine-geoscience-data-system
-website: http://www.marine-geo.org/submit/guidelines.php
 description: <p>An online portal providing access to a number of NSF-supported marine
   geoscience projects, which has developed its own metadata requirements.</p>
+website: http://www.marine-geo.org/submit/guidelines.php
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- cartography
+- geology
+- topography
+- hydrography
+- oceanography
+- geoscience
 standards:
 - repository-developed-metadata-schemas
-disciplines:
-- Topography
-- Oceanography
-- Hydrography
-- Geoscience
-- Geology
-- Cartography
-type: use_case
 layout: use_case
+type: use_case
 ---
 

@@ -1,17 +1,19 @@
 ---
 title: CSMD Pilot Studies
 name: csmd-pilot-studies
+description: '<p>A desk study of <a href="/standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>
+  implementation in two facilities: the UK National Crystallography Service and the
+  ISIS Neutron Source.</p>'
 website: http://dx.doi.org/10.1016/j.future.2011.08.003
-description: '<p>A desk study of <a href="http://www.dcc.ac.uk/resources/metadata-standards/csmd-cclrc-core-scientific-metadata-model">CSMD</a>
-  implementation in two facilities: the UK National Crystallography Service and
-  the ISIS Neutron Source.</p>'
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- nuclear-and-particle-physics
+- crystallography
+- physics
 standards:
 - csmd-cclrc-core-scientific-metadata-model
-disciplines:
-- Physics
-- Nuclear and Particle Physics
-- Crystallography
-type: use_case
 layout: use_case
+type: use_case
 ---
 

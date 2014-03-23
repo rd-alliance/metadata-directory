@@ -1,17 +1,20 @@
 ---
 title: Cambridge Structural Database
 name: cambridge-structural-database
-website: http://www.ccdc.cam.ac.uk/products/csd/
 description: <p>A repository of small molecule crystal structures, many with accompanying
-  <a href="http://www.dcc.ac.uk/resources/metadata-standards/cif-crystallographic-information-framework">CIF</a>
+  <a href="/standards/cif-crystallographic-information-framework.html">CIF</a>
   files.</p>
+website: http://www.ccdc.cam.ac.uk/products/csd/
+subjects:
+- engineering
+- physical-sciences-and-mathematics
+disciplines:
+- materials-science
+- chemistry
+- crystallography
 standards:
 - cif-crystallographic-information-framework
-disciplines:
-- Materials Science
-- Crystallography
-- Chemistry
-type: use_case
 layout: use_case
+type: use_case
 ---
 

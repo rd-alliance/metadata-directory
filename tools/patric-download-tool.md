@@ -1,14 +1,16 @@
 ---
 title: PATRIC Download Tool
 name: patric-download-tool
-website: http://patricbrc.org/portal/portal/patric/Downloads?cType=taxon&cId=
 description: <p>Tool for downloading data from PATRIC.</p>
+website: http://patricbrc.org/portal/portal/patric/Downloads?cType=taxon&cId=
+subjects:
+- life-sciences
+disciplines:
+- genetics
+- genomics
 standards:
 - genome-metadata
-disciplines:
-- Genomics
-- Genetics
-type: tool
 layout: tool
+type: tool
 ---
 

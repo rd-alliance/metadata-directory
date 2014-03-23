@@ -1,18 +1,20 @@
 ---
 title: Discovery Metadata Service
 name: discovery-metadata-service
-website: http://location.defra.gov.uk/resources/discovery-metadata-service/
-description: <p>A geospatial data network requiring that metadata for datasets,
-  data series and online services are published to the UK Gemini v2.1 metadata standard,
-  itself an extension of <a href="http://www.dcc.ac.uk/resources/metadata-standards/iso-19115">ISO
+description: <p>A geospatial data network requiring that metadata for datasets, data
+  series and online services are published to the UK Gemini v2.1 metadata standard,
+  itself an extension of <a href="/standards/iso-19115.html">ISO
   19115</a>.</p>
+website: http://location.defra.gov.uk/resources/discovery-metadata-service/
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- cartography
+- topography
+- geography
 standards:
 - iso-19115
-disciplines:
-- Topography
-- Geography
-- Cartography
-type: use_case
 layout: use_case
+type: use_case
 ---
 

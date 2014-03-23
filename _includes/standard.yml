@@ -12,25 +12,19 @@ specification_url: http://url.to.specification
 status: approval status if any
 website: http://url.to.project.website
 related_vocabularies:
-  - # vocabulary
-    name: {name of related vocabulary}
+  - name: {name of related vocabulary}
     url: {url of related vocabulary}
-  - # vocabulary
-    name: {second name of related vocabulary}
+  - name: {second name of related vocabulary}
     url: {url of second related vocabulary}
 mappings:
-  - #mapping
-    name: {name of metadata mapping}
+  - name: {name of metadata mapping}
     url: {url of mapping}
-  - # mapping
-    name: {second name of metadata mapping}
+  - name: {second name of metadata mapping}
     url: {second url of mappings}
 sponsors: 
-  - # sponsor
-    name: {Sponsoring organization}
+  - name: {Sponsoring organization}
     url: {url of sponsor}
-  - # sponsor
-    name: {Sponsoring organization}
+  - name: {Sponsoring organization}
     url: {url of sponsor}
 contact: {contact name}
 contact_email: {email address for contact}

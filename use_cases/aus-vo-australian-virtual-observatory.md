@@ -1,15 +1,17 @@
 ---
 title: Aus-VO - Australian Virtual Observatory
 name: aus-vo-australian-virtual-observatory
+description: <p>An initiative to provide a distributed, uniform interface to the data
+  archives of Australia's major astronomical observatories, and to archives of astrophysical
+  simulations, as part of the international Virtual Observatory.</p>
 website: http://aus-vo.org.au/
-description: <p>An initiative to provide a distributed, uniform interface to the
-  data archives of Australia's major astronomical observatories, and to archives
-  of astrophysical simulations, as part of the international Virtual Observatory.</p>
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- astronomy
 standards:
 - international-virtual-observatory-alliance-technical-specifications
-disciplines:
-- Astronomy
-type: use_case
 layout: use_case
+type: use_case
 ---
 

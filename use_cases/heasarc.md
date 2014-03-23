@@ -2,15 +2,17 @@
 title: HEASARC
 name: heasarc
 description: <p>The High Energy Astrophysics Science Archive Research Center (HEASARC)
-  is the primary archive for NASA's (and other space agencies') missions dealing
-  with electromagnetic radiation from extremely energetic phenomena ranging from
-  black holes to the Big Bang.</p>
+  is the primary archive for NASA's (and other space agencies') missions dealing with
+  electromagnetic radiation from extremely energetic phenomena ranging from black
+  holes to the Big Bang.</p>
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- astrophysics
+- astronomy
 standards:
 - fits-flexible-image-transport-system
-disciplines:
-- Astrophysics
-- Astronomy
-type: use_case
 layout: use_case
+type: use_case
 ---
 

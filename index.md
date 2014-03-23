@@ -12,6 +12,7 @@ layout: base
 * [Visit the extensions]({{ site.baseurl }}/extensions/)
 * [Visit the tools]({{ site.baseurl }}/tools/)
 * [Visit the use cases]({{ site.baseurl }}/use_cases/)
+* [Browse by subject areas]({{ site.baseurl }}/subjects/)
 
 ## Structure of the Directory
 

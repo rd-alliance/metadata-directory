@@ -1,15 +1,17 @@
 ---
 title: 'The Cell: An Image Library'
 name: cell-image-library
+description: <p>A resource database of images, videos, and animations of cells, capturing
+  a wide diversity of organisms, cell types, and cellular processes. Its native metadata
+  format for images is <a href="/standards/ome-xml-open-microscopy-environment-xml.html">OME-XML</a>.</p>
 website: http://www.cellimagelibrary.org/
-description: <p>A resource database of images, videos, and animations of cells,
-  capturing a wide diversity of organisms, cell types, and cellular processes. Its
-  native metadata format for images is <a href="http://www.dcc.ac.uk/resources/metadata-standards/ome-xml-open-microscopy-environment-xml">OME-XML</a>.</p>
+subjects:
+- life-sciences
+disciplines:
+- cell-biology
 standards:
 - ome-xml-open-microscopy-environment-xml
-disciplines:
-- Cell Biology
-type: use_case
 layout: use_case
+type: use_case
 ---
 

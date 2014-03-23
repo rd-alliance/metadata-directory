@@ -1,15 +1,16 @@
 ---
 title: DCMI Tools and Software
 name: dcmi-tools-and-software
+description: <p>The DCMI Tools Community list of tools and software implementing <a
+  href="/standards/dublin-core.html">Dublin Core</a>.</p>
 website: http://dublincore.org/tools/
-description: <p>The DCMI Tools Community list of tools and software implementing
-  <a href="http://www.dcc.ac.uk/resources/metadata-standards/dublin-core">Dublin
-  Core</a>.</p>
+subjects:
+- general
+disciplines:
+- multi-disciplinary
 standards:
 - dublin-core
-disciplines:
-- Multi-disciplinary
-type: tool
 layout: tool
+type: tool
 ---
 

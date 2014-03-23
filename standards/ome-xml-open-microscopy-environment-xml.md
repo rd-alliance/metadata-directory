@@ -1,11 +1,6 @@
 ---
 title: OME-XML - Open Microscopy Environment XML
 name: ome-xml-open-microscopy-environment-xml
-specification_url: http://www.openmicroscopy.org/Schemas/
-website: http://www.openmicroscopy.org/site/support/file-formats
-mappings:
-- name: over 120 file formats
-  url: http://www.openmicroscopy.org/site/support/bio-formats/formats/
 description: <p><a href="http://www.openmicroscopy.org/Schemas/">OME-XML</a> is a
   vendor-neutral file format for biological image data, with an emphasis on metadata
   supporting light microscopy. It can be used as a data file format in its own right,
@@ -13,6 +8,19 @@ description: <p><a href="http://www.openmicroscopy.org/Schemas/">OME-XML</a> is 
   there is the <a href="http://www.openmicroscopy.org/site/support/file-formats/ome-tiff/ome-tiff-specification">OME-TIFF</a>
   specification).</p><p>The standard is maintained by the Open Microscopy Environment
   Consortium, and was last updated in June 2012.</p>
+website: http://www.openmicroscopy.org/site/support/file-formats
+subjects:
+- life-sciences
+disciplines:
+- animal-pathology
+- animal-physiology
+- plant-physiology
+- plant-pathology
+- cell-biology
+specification_url: http://www.openmicroscopy.org/Schemas/
+mappings:
+- name: over 120 file formats
+  url: http://www.openmicroscopy.org/site/support/bio-formats/formats/
 layout: standard
 type: standard
 ---

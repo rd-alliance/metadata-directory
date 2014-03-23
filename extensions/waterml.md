@@ -2,12 +2,13 @@
 title: WaterML
 name: waterml
 website: http://www.opengeospatial.org/standards/waterml
-description: ''
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- hydrology
 standards:
 - observations-and-measurements
-disciplines:
-- Hydrology
-type: extension
 layout: extension
+type: extension
 ---
 

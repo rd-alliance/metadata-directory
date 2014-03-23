@@ -1,19 +1,21 @@
 ---
 title: NASA EOSDIS - The Earth Observing System Data and Information System
 name: nasa-eosdis-earth-observing-system-data-and-information-system
-website: http://earthdata.nasa.gov/data/references/metadata-standards
 description: <p>EOSDIS provides online FTP access to thousands of Earth system science
-  data products described with <a href="http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format">DIF</a>
+  data products described with <a href="/standards/dif-directory-interchange-format.html">DIF</a>
   metadata.</p>
+website: http://earthdata.nasa.gov/data/references/metadata-standards
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- marine-science
+- meteorology
+- climatology
+- glaciology
+- oceanography
 standards:
 - dif-directory-interchange-format
-disciplines:
-- Oceanography
-- Meteorology
-- Marine Science
-- Glaciology
-- Climatology
-type: use_case
 layout: use_case
+type: use_case
 ---
 

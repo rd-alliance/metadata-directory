@@ -1,8 +1,6 @@
 ---
 title: AVM - Astronomy Visualization Metadata
 name: avm-astronomy-visualization-metadata
-specification_url: http://www.virtualastronomy.org/avm_metadata.php#2
-website: http://www.virtualastronomy.org/avm_metadata.php
 description: <p>The&#160;<a href="http://www.virtualastronomy.org/avm_metadata.php">AVM</a>&#160;scheme
   supports the cross-searching of collections of print-ready and screen-ready astronomical
   imagery rendered from telescopic observations (also known as &#8216;pretty pictures&#8217;).
@@ -14,6 +12,12 @@ description: <p>The&#160;<a href="http://www.virtualastronomy.org/avm_metadata.p
   the most general subset of this schema is also appropriate for describing artwork
   and illustrations of astronomical subject matter.</p><p>AVM is a proposed recommendation
   of the International Virtual Observatory Alliance and was last updated in 2011.</p>
+website: http://www.virtualastronomy.org/avm_metadata.php
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- astronomy
+specification_url: http://www.virtualastronomy.org/avm_metadata.php#2
 layout: standard
 type: standard
 ---

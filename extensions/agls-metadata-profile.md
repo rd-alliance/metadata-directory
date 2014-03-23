@@ -1,16 +1,18 @@
 ---
 title: AGLS Metadata Profile
 name: agls-metadata-profile
+description: <p>An application of <a href="/standards/dublin-core.html">Dublin
+  Core</a> designed to improve visibility and availability of online resources, originally
+  adapted from the Australian Government Locator Service metadata standard for use
+  in government agencies.</p>
 website: http://www.agls.gov.au
-description: <p>An application of <a href="http://www.dcc.ac.uk/resources/metadata-standards/dublin-core">Dublin
-  Core</a> designed to improve visibility and availability of online resources,
-  originally adapted from the Australian Government Locator Service metadata standard
-  for use in government agencies.</p>
+subjects:
+- general
+disciplines:
+- multi-disciplinary
 standards:
 - dublin-core
-disciplines:
-- Multi-disciplinary
-type: extension
 layout: extension
+type: extension
 ---
 

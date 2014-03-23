@@ -1,18 +1,15 @@
--
-  value: biology
-  label: Biology
--
-  value: earth science
-  label: Earth Science
--
-  value: humanities
-  label: Humanities
--
-  value: general
-  label: General
--
-  value: physical science
-  label: Physical Science
-- 
-  value: social science
-  label: Social Science
+# Field listing
+# http://sites.nationalacademies.org/PGA/Resdoc/PGA_044521
+
+- value: general
+  label: General Research Data
+- value: life-sciences
+  label: Life Sciences
+- value: physical-sciences-and-mathematics
+  label: Physical Sciences &amp; Mathematics
+- value: arts-and-humanities
+  label: Arts and Humanities
+- value: engineering
+  label: Engineering
+- value: social-and-behavioral-sciences
+  label: Social and Behavioral Sciences

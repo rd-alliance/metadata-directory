@@ -1,18 +1,20 @@
 ---
 title: PRIDE - PRoteomics IDEntifications database
 name: pride-proteomics-identifications-database
-website: http://www.ebi.ac.uk/pride/
-description: <p>A centralized, <a href="http://www.dcc.ac.uk/resources/metadata-standards/mibbi-minimum-information-biological-and-biomedical-investigations">MIBBI</a>
+description: <p>A centralized, <a href="/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI</a>
   standards compliant, public data repository for proteomics data, post-translational
   modifications and supporting spectral evidence.</p>
+website: http://www.ebi.ac.uk/pride/
+subjects:
+- life-sciences
+disciplines:
+- biochemistry
+- molecular-biology
+- proteomics
+- genomics
 standards:
 - mibbi-minimum-information-biological-and-biomedical-investigations
-disciplines:
-- Proteomics
-- Molecular biology
-- Genomics
-- Biochemistry
-type: use_case
 layout: use_case
+type: use_case
 ---
 

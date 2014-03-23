@@ -1,24 +1,26 @@
 ---
 title: ISO 19115-2 - Imagery and gridded data
 name: iso-19115-2-imagery-and-gridded-data
-website: http://www.iso.org/iso/catalogue_detail.htm?csnumber=39229
-description: <p>An extension of <a href="http://www.dcc.ac.uk/resources/metadata-standards/iso-19115">ISO
+description: <p>An extension of <a href="/standards/iso-19115.html">ISO
   19115</a> defining the schema required for describing imagery and gridded data.</p>
+website: http://www.iso.org/iso/catalogue_detail.htm?csnumber=39229
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- cartography
+- planning-urban-rural-and-regional
+- marine-science
+- meteorology
+- climatology
+- topography
+- hydrography
+- glaciology
+- oceanography
+- geoscience
+- geography
 standards:
 - iso-19115
-disciplines:
-- Topography
-- Planning (Urban, Rural and Regional)
-- Oceanography
-- Meteorology
-- Marine Science
-- Hydrography
-- Glaciology
-- Geoscience
-- Geography
-- Climatology
-- Cartography
-type: extension
 layout: extension
+type: extension
 ---
 

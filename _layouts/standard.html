@@ -68,15 +68,13 @@
       </h2>
       <dl>
       {% for implementation in site.pages %}
-      {% if implementation.type contains 'extension' %}
-      {% if implementation.standards contains page.name %}
+      {% if implementation.type == 'extension' and implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
         <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
-      {% endif %}
       {% endif %}
       {% endfor %}
       </dl>
@@ -87,15 +85,13 @@
       </h2>
       <dl>
       {% for implementation in site.pages %}
-      {% if implementation.type contains 'tool' %}
-      {% if implementation.standards contains page.name %}
+      {% if implementation.type == 'tool' and implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
         <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
-      {% endif %}
       {% endif %}
       {% endfor %}
       </dl>
@@ -106,15 +102,13 @@
       </h2>
       <dl>
       {% for implementation in site.pages %}
-      {% if implementation.type contains 'use_case' %}
-      {% if implementation.standards contains page.name %}
+      {% if implementation.type == 'use_case' and implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
         <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
-      {% endif %}
       {% endif %}
       {% endfor %}
       </dl>

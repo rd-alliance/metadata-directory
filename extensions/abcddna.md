@@ -1,18 +1,16 @@
 ---
 title: ABCDDNA
 name: abcddna
+description: <p>An extension of the <a href="/standards/abcd-access-biological-collection-data.html">ABCD</a>
+  standard for DNA data.</p>
 website: http://www.tdwg.org/standards/640/
-description: | 
-  An extension of the <a href="http://www.tdwg.org/standards/115/">ABCD</a> standard for DNA data.
-type: extension
-layout: extension
 subjects:
-  # From enumerated application specific subject list
-  - biology
+- life-sciences
 disciplines:
-  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  - genomics
+- genomics
 standards:
-  # name of related standard 
-  - abcd
+- abcd-access-biological-collection-data
+layout: extension
+type: extension
 ---
+

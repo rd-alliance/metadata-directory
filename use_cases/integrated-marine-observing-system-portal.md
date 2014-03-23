@@ -2,16 +2,18 @@
 title: Integrated Marine Observing System Portal
 name: integrated-marine-observing-system-portal
 website: http://imos.aodn.org.au/imos/
-description: ''
+subjects:
+- life-sciences
+- physical-sciences-and-mathematics
+disciplines:
+- marine-science
+- marine-biology
+- oceanography
+- maritime-geography
+- marine-zoology
 standards:
 - iso-19115
-disciplines:
-- Oceanography
-- Marine Biology
-- Marine Science
-- Marine Zoology
-- Maritime Geography
-type: use_case
 layout: use_case
+type: use_case
 ---
 

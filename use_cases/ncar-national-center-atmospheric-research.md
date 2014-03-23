@@ -1,15 +1,17 @@
 ---
 title: NCAR - National Center for Atmospheric Research
 name: ncar-national-center-atmospheric-research
-website: http://rda.ucar.edu
-description: <p>The NCAR Research Data Archive uses&#160;<a href="http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions">CF</a>-Compliant
+description: <p>The NCAR Research Data Archive uses&#160;<a href="/standards/cf-climate-and-forecast-metadata-conventions.html">CF</a>-Compliant
   NetCDF files.</p>
+website: http://rda.ucar.edu
+subjects:
+- physical-sciences-and-mathematics
+disciplines:
+- meteorology
+- climatology
 standards:
 - cf-climate-and-forecast-metadata-conventions
-disciplines:
-- Meteorology
-- Climatology
-type: use_case
 layout: use_case
+type: use_case
 ---
 
