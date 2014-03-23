@@ -5,6 +5,7 @@ for the Research Data Alliance.
 * [Visit the extensions](http://rd-alliance.github.io/metadata-directory/extensions/)
 * [Visit the tools](http://rd-alliance.github.io/metadata-directory/tools/)
 * [Visit the use cases](http://rd-alliance.github.io/metadata-directory/use_cases/)
+* [Browse by subject areas](http://rd-alliance.github.io/metadata-directory/subjects/)
 
 ## Instructions
 

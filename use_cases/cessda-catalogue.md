@@ -2,7 +2,7 @@
 title: CESSDA Catalogue
 name: cessda-catalogue
 description: <p>Provides a seamless interface to datasets from social science data
-  archives across Europe using the CESSDA MLI profile of <a href="/standards/ddi-data-documentation-initiative.html">DDI</a>.</p>
+  archives across Europe using the CESSDA MLI profile of <a href="../standards/ddi-data-documentation-initiative.html">DDI</a>.</p>
 website: http://www.cessda.org/accessing/catalogue/
 subjects:
 - social-and-behavioral-sciences

@@ -2,7 +2,7 @@
 title: MetaboLights
 name: metabolights
 description: <p>A database for metabolomics experiments and derived information in
-  <a href="/standards/isa-tab.html">ISA-Tab</a>
+  <a href="../standards/isa-tab.html">ISA-Tab</a>
   format.</p>
 website: http://www.ebi.ac.uk/metabolights/about
 subjects:

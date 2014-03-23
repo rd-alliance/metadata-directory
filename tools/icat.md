@@ -1,7 +1,7 @@
 ---
 title: ICAT
 name: icat
-description: <p>A metadata storage service that implements <a href="/standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>
+description: <p>A metadata storage service that implements <a href="../standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>
   Version 2.5 to record information about physical science experiments.</p>
 website: http://www.icatproject.org
 subjects:

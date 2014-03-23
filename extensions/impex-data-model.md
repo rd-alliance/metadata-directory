@@ -1,7 +1,7 @@
 ---
 title: IMPEx Data Model
 name: impex-data-model
-description: <p>A simulation extention to the <a href="/standards/spase-data-model.html">SPASE</a>
+description: <p>A simulation extention to the <a href="../standards/spase-data-model.html">SPASE</a>
   data model.</p>
 website: http://meetingorganizer.copernicus.org/EPSC2012/EPSC2012-360.pdf
 subjects:

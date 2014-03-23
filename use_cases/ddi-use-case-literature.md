@@ -1,7 +1,7 @@
 ---
 title: DDI Use Case Literature
 name: ddi-use-case-literature
-description: <p>Links to&#160;<a href="/standards/ddi-data-documentation-initiative.html">DDI</a>
+description: <p>Links to&#160;<a href="../standards/ddi-data-documentation-initiative.html">DDI</a>
   3 use case papers, which were the outcomes of a workshop held at the Schloss Dagstuhl
   - Leibniz Center for Informatics in Wadern, Germany, November 2-6, 2009.</p>
 website: http://www.ddialliance.org/resources/publications/working/usecases

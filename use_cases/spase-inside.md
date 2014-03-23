@@ -1,7 +1,7 @@
 ---
 title: SPASE Inside
 name: spase-inside
-description: <p>The <a href="/standards/spase-data-model.html">SPASE</a>
+description: <p>The <a href="../standards/spase-data-model.html">SPASE</a>
   website's list of systems that use SPASE compliant metadata to enable search services.</p>
 website: http://www.spase-group.org/spase-inside.jsp
 subjects:

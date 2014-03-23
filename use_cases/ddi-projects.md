@@ -2,7 +2,7 @@
 title: DDI Projects
 name: ddi-projects
 description: <p>The Data Documentation Initiative website's list of projects adopting
-  or encouraging <a href="/standards/ddi-data-documentation-initiative.html">DDI</a>
+  or encouraging <a href="../standards/ddi-data-documentation-initiative.html">DDI</a>
   as a standard.</p>
 website: http://www.ddialliance.org/ddi-at-work/projects
 subjects:

@@ -1,7 +1,7 @@
 ---
 title: eBank UK Metadata Application Profile
 name: ebank-uk-metadata-application-profile
-description: <p>A <a href="/standards/dublin-core.html">Dublin
+description: <p>A <a href="../standards/dublin-core.html">Dublin
   Core</a> Metadata Application Profile created for the eBank UK project, which provides
   access to the detailed results of scientific experiments in crystallography.</p>
 website: http://ecrystals.chem.soton.ac.uk

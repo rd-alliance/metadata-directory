@@ -2,7 +2,7 @@
 title: Bio-Formats
 name: bio-formats
 description: <p>Bio-Formats reads proprietary microscopy image data and metadata,
-  and converts them to OME-TIFF, a combination of TIFF and&#160;<a href="/standards/ome-xml-open-microscopy-environment-xml.html">OME-XML</a>.</p>
+  and converts them to OME-TIFF, a combination of TIFF and&#160;<a href="../standards/ome-xml-open-microscopy-environment-xml.html">OME-XML</a>.</p>
 website: http://www.openmicroscopy.org/site/products/bio-formats
 subjects:
 - life-sciences

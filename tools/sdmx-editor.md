@@ -2,7 +2,7 @@
 title: SDMX Editor
 name: sdmx-editor
 description: <p>A simple tool for managing and accessing statistical metadata, using
-  the <a href="/standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX</a>
+  the <a href="../standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX</a>
   framework.</p>
 website: http://www.sdmx.ch
 subjects:

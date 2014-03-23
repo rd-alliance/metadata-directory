@@ -2,7 +2,7 @@
 title: DDI Tools
 name: ddi-tools
 description: <p>The Data Documentaion Initiative website's list of tools to implement
-  the <a href="/standards/ddi-data-documentation-initiative.html">DDI</a>
+  the <a href="../standards/ddi-data-documentation-initiative.html">DDI</a>
   standard.</p>
 website: http://www.ddialliance.org/resources/tools
 subjects:

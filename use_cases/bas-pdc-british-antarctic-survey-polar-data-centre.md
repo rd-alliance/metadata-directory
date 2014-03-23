@@ -3,8 +3,8 @@ title: BAS PDC - British Antarctic Survey Polar Data Centre
 name: bas-pdc-british-antarctic-survey-polar-data-centre
 description: <p>An organisation coordinating the management of data collected by UK-funded
   scientists in the polar regions, using an application profile that is harmonious
-  with both <a href="/standards/iso-19115.html">ISO
-  19115</a> and <a href="/standards/dif-directory-interchange-format.html">DIF</a>.</p>
+  with both <a href="../standards/iso-19115.html">ISO
+  19115</a> and <a href="../standards/dif-directory-interchange-format.html">DIF</a>.</p>
 website: http://www.antarctica.ac.uk/dms/
 subjects:
 - life-sciences

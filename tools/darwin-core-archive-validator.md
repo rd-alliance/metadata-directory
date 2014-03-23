@@ -1,7 +1,7 @@
 ---
 title: Darwin Core Archive Validator
 name: darwin-core-archive-validator
-description: <p>A tool to validate XML metadata against the <a href="/standards/darwin-core.html">Darwin
+description: <p>A tool to validate XML metadata against the <a href="../standards/darwin-core.html">Darwin
   Core</a> Text Guidelines.</p>
 website: http://tools.gbif.org/dwca-validator/
 subjects:

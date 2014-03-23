@@ -1,7 +1,7 @@
 ---
 title: Marine Community Profile
 name: marine-community-profile
-description: <p>A profile developed in accordance with <a href="/standards/iso-19115.html">ISO
+description: <p>A profile developed in accordance with <a href="../standards/iso-19115.html">ISO
   19115</a> rules by the Australian Ocean Data Centre that supports the documentation
   and discovery of marine spatial datasets.</p>
 website: http://www.aodc.org.au/index.php?id=37
