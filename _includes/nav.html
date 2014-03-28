@@ -44,7 +44,7 @@
             </li>
             {% if page.type %}
             <li>
-              <a href="{{site.repourl}}/edit/master/{{ page.path }}">Edit</a>
+              <a href="{{ site.repourl }}/edit/{{ site.repobranch }}/{{ page.path }}">Edit</a>
             </li>
             {% endif %}
             <li>

@@ -17,16 +17,16 @@ layout: base
 ## Structure of the Directory
 
 Standards are contained within the
-[`standards`]({{ site.repourl }}/tree/master/standards)
+[`standards`]({{ site.repourl }}/tree/{{ site.repobranch }}/standards)
 file system directory with each standard encoded into a markdown file with a
 [YAML](http://en.wikipedia.org/wiki/YAML) preface. The YAML preface is
 structured to encode the various elements describing a metadata standard or its
 associated implementations. 
 
 Implementations come in three different categories
-[`extensions`]({{ site.repourl }}/tree/master/extensions),
-[`tools`]({{ site.repourl }}/tree/master/tools),
-and [`use_cases`]({{ site.repourl }}/tree/master/use_cases). Each grouping of
+[`extensions`]({{ site.repourl }}/tree/{{ site.repobranch }}/extensions),
+[`tools`]({{ site.repourl }}/tree/{{ site.repobranch }}/tools),
+and [`use_cases`]({{ site.repourl }}/tree/{{ site.repobranch }}/use_cases). Each grouping of
 implementations are contained in their own file system directories.
 
 Relationships between implementations and standards are created based on
