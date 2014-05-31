@@ -63,6 +63,8 @@ Editing can take place within the GitHub editing tools. Or alternatively a fork
 of the repository can be cloned and editing can be done locally and pull
 requests can be generated using the existing GitHub and git workflows.
 
+Experimenting with different workflows for editing is encouraged!
+
 ### Additional Help
 
 [Creating and editing files in your repository](https://help.github.com/articles/creating-and-editing-files-in-your-repository)
