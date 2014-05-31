@@ -1,3 +1,4 @@
 baseurl: http://rd-alliance.github.io/metadata-directory
 repourl: https://github.com/rd-alliance/metadata-directory
 repobranch: gh-pages
+markdown: kramdown
