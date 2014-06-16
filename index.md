@@ -8,10 +8,10 @@ layout: base
 
 [Prototype metadata directory]({{ site.baseurl }}/) for the Research Data Alliance.
 
-* [Visit the standards]({{ site.baseurl }}/standards/)
-* [Visit the extensions]({{ site.baseurl }}/extensions/)
-* [Visit the tools]({{ site.baseurl }}/tools/)
-* [Visit the use cases]({{ site.baseurl }}/use_cases/)
+* [View the standards]({{ site.baseurl }}/standards/)
+* [View the extensions]({{ site.baseurl }}/extensions/)
+* [View the tools]({{ site.baseurl }}/tools/)
+* [View the use cases]({{ site.baseurl }}/use_cases/)
 * [Browse by subject areas]({{ site.baseurl }}/subjects/)
 
 ## Structure of the Directory
@@ -62,6 +62,8 @@ Use cases are systems, organizations or projects which use the standard.
 Editing can take place within the GitHub editing tools. Or alternatively a fork
 of the repository can be cloned and editing can be done locally and pull
 requests can be generated using the existing GitHub and git workflows.
+
+Experimenting with different workflows for editing is encouraged!
 
 ### Additional Help
 

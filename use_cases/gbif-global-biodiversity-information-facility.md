@@ -7,7 +7,7 @@ description: <p>Established by a global network of countries and organizations, 
   is the <a href="../standards/darwin-core.html">Darwin
   Core</a> Archive, and its Integrated Publishing Toolkit uses <a href="../standards/eml-ecological-metadata-language.html">EML</a>
   as its data standard.</p>
-website: http://www.gbif.org/informatics/standards-and-tools/publishing-data/data-standards/
+website: http://www-old.gbif.org/informatics/standards-and-tools/publishing-data/data-standards
 subjects:
 - life-sciences
 disciplines:
