@@ -5,7 +5,7 @@ description: <p>KOMFOR provides access to data in the earth and environmental sc
   with special emphasis on geological disciplines The minimum set of metadata elements
   in KomFor is determined by the <a href="../standards/datacite-metadata-schema.html">DataCite</a>
   metadata schema.</p>
-website: http://www.komfor.net/helpdesk
+website: http://www.komfor.net/data-portal.html
 subjects:
 - physical-sciences-and-mathematics
 disciplines:
