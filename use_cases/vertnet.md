@@ -5,7 +5,7 @@ description: <p>Four distributed database networks (MaNIS, HerpNET, ORNIS and Fi
   using a <a href="../standards/darwin-core.html">Darwin
   Core</a> engine to make bioinformatics specimen data interoperable, mappable and
   publicly available.</p>
-website: http://vertnet.org/publishers/join.php
+website: http://www.vertnet.org/index.html 
 subjects:
 - life-sciences
 disciplines:
