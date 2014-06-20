@@ -7,7 +7,7 @@ description: <p>An early metadata initiative from the Earth sciences community, 
   with which the dataset is associated. It is defined as a W3C XML Schema.</p><p>Sponsored
   by the Global Change Master Directory, the DIF Writer's Guide Version 6 is from
   November 2010.</p>
-website: http://gcmd.gsfc.nasa.gov/add/difguide/index.html 
+website: http://gcmd.gsfc.nasa.gov/add/difguide/index.html
 subjects:
 - physical-sciences-and-mathematics
 disciplines:
