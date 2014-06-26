@@ -16,13 +16,13 @@ disciplines:
 - meteorology
 - climatology
 - oceanography
-specification_url: http://cf-pcmdi.llnl.gov/documents/cf-conventions/latest-cf-conventions-document-1
+specification_url: http://cfconventions.org/1.6.html
 related_vocabularies:
 - name: CF Standard Name Table
-  url: http://cf-pcmdi.llnl.gov/documents/cf-standard-names/about
+  url: http://cfconventions.org/standard-names-26.html
 mappings:
 - name: COARDS Conventions
-  url: http://cf-pcmdi.llnl.gov/documents/cf-conventions/1.0/ch01s04.html
+  url: http://cfconventions.org/1.6.html#coards-relationship
 layout: standard
 type: standard
 ---
