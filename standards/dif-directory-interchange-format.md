@@ -7,7 +7,7 @@ description: <p>An early metadata initiative from the Earth sciences community, 
   with which the dataset is associated. It is defined as a W3C XML Schema.</p><p>Sponsored
   by the Global Change Master Directory, the DIF Writer's Guide Version 6 is from
   November 2010.</p>
-website: http://gcmd.nasa.gov/User/difguide/
+website: http://gcmd.nasa.gov/add/difguide/
 subjects:
 - physical-sciences-and-mathematics
 disciplines:
@@ -22,7 +22,7 @@ disciplines:
 - agricultural-science
 - oceanography
 - hydrology
-specification_url: http://gcmd.nasa.gov/User/difguide/WRITEADIF.pdf
+specification_url: http://gcmd.nasa.gov/add/difguide/WRITEADIF.pdf
 related_vocabularies:
 - name: ODM Controlled Vocabulary Registry
   url: http://his.cuahsi.org/mastercvreg.html
@@ -30,7 +30,7 @@ related_vocabularies:
   url: http://www.bgs.ac.uk/data/vocabularies/home.html
 mappings:
 - name: ISO 19115
-  url: http://gcmd.nasa.gov/Aboutus/standards/difiso.html
+  url: http://gcmd.nasa.gov/add/standards/difiso.html
 layout: standard
 type: standard
 ---
