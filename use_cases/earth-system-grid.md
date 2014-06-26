@@ -11,7 +11,7 @@ disciplines:
 - climatology
 - environmental-science
 standards:
-- metafor-cim-common-information-model
+- cim-common-information-model
 layout: use_case
 type: use_case
 ---
