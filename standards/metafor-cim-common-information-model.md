@@ -10,7 +10,7 @@ subjects:
 - physical-sciences-and-mathematics
 disciplines:
 - climatology
-specification_url: https://earthsystemcog.org/projects/es-doc-models/cim
+specification_url: https://earthsystemcog.org/projects/es-doc-models/cim_versions#sthash.c0VRKWe9.dpuf
 layout: standard
 type: standard
 ---
