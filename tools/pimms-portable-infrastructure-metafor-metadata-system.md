@@ -10,7 +10,7 @@ subjects:
 disciplines:
 - climatology
 standards:
-- metafor-cim-common-information-model
+- cim-common-information-model
 layout: tool
 type: tool
 ---
