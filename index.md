@@ -32,7 +32,7 @@ implementations are contained in their own file system directories.
 Relationships between implementations and standards are created based on
 recording related standards within each of the implementation metadata records.
 
-## Instructions
+## Getting Started 
 
 [__Adding a Standard__]({{ site.baseurl }}/standards/add.html)
 
