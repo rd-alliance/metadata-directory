@@ -8,7 +8,11 @@ description: <p>The CF standard was originally framed as a standard for data wri
   both to distinguish quantities (such as physical description, units, and prior processing)
   and to locate the data in space&#8211;time.</p><p>Sponsored by the NetCDF Climate
   and Forecast Metadata Convention, the current version dates from December 2011.</p>
+<<<<<<< HEAD
 website: http://cfconventions.org/ 
+=======
+website: http://cfconventions.org/
+>>>>>>> master
 subjects:
 - physical-sciences-and-mathematics
 disciplines:
@@ -16,13 +20,13 @@ disciplines:
 - meteorology
 - climatology
 - oceanography
-specification_url: http://cf-pcmdi.llnl.gov/documents/cf-conventions/latest-cf-conventions-document-1
+specification_url: http://cfconventions.org/1.6.html
 related_vocabularies:
 - name: CF Standard Name Table
-  url: http://cf-pcmdi.llnl.gov/documents/cf-standard-names/about
+  url: http://cfconventions.org/standard-names-26.html
 mappings:
 - name: COARDS Conventions
-  url: http://cf-pcmdi.llnl.gov/documents/cf-conventions/1.0/ch01s04.html
+  url: http://cfconventions.org/1.6.html#coards-relationship
 layout: standard
 type: standard
 ---

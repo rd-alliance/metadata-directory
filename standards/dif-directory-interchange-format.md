@@ -30,7 +30,11 @@ related_vocabularies:
   url: http://www.bgs.ac.uk/data/vocabularies/home.html
 mappings:
 - name: ISO 19115
+<<<<<<< HEAD
   url: http://gcmd.nasa.gov/add/standards/difiso.html 
+=======
+  url: http://gcmd.nasa.gov/add/standards/difiso.html
+>>>>>>> master
 layout: standard
 type: standard
 ---
