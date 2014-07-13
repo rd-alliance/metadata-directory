@@ -8,11 +8,7 @@ description: <p>The CF standard was originally framed as a standard for data wri
   both to distinguish quantities (such as physical description, units, and prior processing)
   and to locate the data in space&#8211;time.</p><p>Sponsored by the NetCDF Climate
   and Forecast Metadata Convention, the current version dates from December 2011.</p>
-<<<<<<< HEAD
-website: http://cfconventions.org/ 
-=======
 website: http://cfconventions.org/
->>>>>>> master
 subjects:
 - physical-sciences-and-mathematics
 disciplines:
@@ -29,5 +25,6 @@ mappings:
   url: http://cfconventions.org/1.6.html#coards-relationship
 layout: standard
 type: standard
+
 ---
 
