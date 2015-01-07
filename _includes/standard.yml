@@ -1,39 +1,47 @@
 ---
-title: {Full name of the metadata standard}
-name: {Short filename to identify the metadata standard}
+title: Full name of the metadata standard
+name: file-name-without-extension
 subjects:
-  - {Subject 1}
-  - {Subject 2}
+  # One or more of the following:
+  - arts-and-humanities
+  - engineering
+  - general
+  - life-sciences
+  - physical-sciences-and-mathematics
+  - social-and-behavioral-sciences
 disciplines:
   # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  - {Discipline 1}
-  - {Discipline 2}
-specification_url: http://url.to.specification
+  # See also the file _data/disciplines.yaml. Examples:
+  - materials-science
+  - creative-art-and-design
+  - health-policy
+specification_url: URL to (full) specification
 status: approval status if any
-website: http://url.to.project.website
+website: URL of official website or introductory page
 related_vocabularies:
-  - name: {name of related vocabulary}
-    url: {url of related vocabulary}
-  - name: {second name of related vocabulary}
-    url: {url of second related vocabulary}
+  - name: Name of vocabulary 1
+    url: URL of vocabulary 1
+  - name: Name of vocabulary 2
+    url: URL of vocabulary 2
 mappings:
-  - name: {name of metadata mapping}
-    url: {url of mapping}
-  - name: {second name of metadata mapping}
-    url: {second url of mappings}
-sponsors: 
-  - name: {Sponsoring organization}
-    url: {url of sponsor}
-  - name: {Sponsoring organization}
-    url: {url of sponsor}
-contact: {contact name}
-contact_email: {email address for contact}
-standard_update_date: {update date ISO date format}
-version: {version data }
+  - name: Name of standard to which this one has been mapped
+    url: URL of mapping
+  - name: Name of second standard to which this one has been mapped
+    url: URL of second mapping
+sponsors:
+  - name: Organization name
+    url: URL of organization
+  - name: Second organization name
+    url: URL of second organization
+contact: Name of relevant contact for the standard
+contact_email: Email address for this contact
+standard_update_date: Date of last update in yyyy-mm-dd format
+version: Current version number(s) or code(s)
 description: |
-  {Multi line description of the extension which can span a section that needs
-  to indented if there is a need for an extended description. Try to limit to
-  two sentences}
+  <p>A few sentences describing the standard and for what it is meant to be
+  used. Use HTML tags to format the text if needed. You can optionally
+  include who developed and maintains the standard, and when it was last
+  revised, if the above fields need to be clarified.</p>
 # The following are constants: do not modify
 layout: standard
 type: standard
