@@ -82,10 +82,10 @@ The tools are kept in the 'tools' directory; please use the
 
 ### [Adding a Use Case](http://rd-alliance.github.io/metadata-directory/use_cases/add.html)
 
-By a use case, we specifically mean organizations or projects which use the
-standard. This information is intended to give users of the directory an
-impression of the level of adoption, and indicate possible sources of help
-using the standard.
+By a use case, we specifically mean a repository, data portal, organization,
+group, or project that uses the standard. This information is intended to give
+users of the directory an impression of the level of adoption, and indicate
+possible sources of help using the standard.
 
 The process for contributing a use case is the same as for standards.
 The use cases are kept in the 'use_cases' directory; please use the
