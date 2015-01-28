@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: add
 name: add
 type: action
 title: Adding Extensions
