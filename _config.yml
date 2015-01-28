@@ -1,4 +1,14 @@
+name: Metadata
+author: RDA
+markdown: redcarpet
+highlighter: true
 baseurl: http://rd-alliance.github.io/metadata-directory
+description: RDA | Metadata Directory
+github: http://www.github.com/rd-alliance/metadata-directory
+twitter: https://twitter.com/resdatall
+facebook: https://www.facebook.com/pages/Research-Data-Alliance/459608890798924
+linkedin: http://www.linkedin.com/profile/view?id=272003890&trk=nav_responsive_tab_profile
+email: rda-mdir-wg@rda-groups.org
 repourl: https://github.com/rd-alliance/metadata-directory
 repobranch: gh-pages
-markdown: kramdown
+

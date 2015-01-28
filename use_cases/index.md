@@ -1,7 +1,7 @@
 ---
 title: Use Cases
 name: index
-layout: base
+layout: links
 type: index
 
 ---

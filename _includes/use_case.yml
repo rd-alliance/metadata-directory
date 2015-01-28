@@ -1,28 +1,22 @@
 ---
-title: Full name of the organization or service using the standard
-name: file-name-without-extension
-website: URL of the organization or project website
+title: {Full name of the use case}
+name: {Short filename to identify the use case data}
+website: {URL to a website supporting the use case}
 description: |
-  <p>A sentence or two describing the organization or service and how it uses
-  the standard. Use HTML tags to format the text if needed.</p>
+  {Multiline description of the use case which can span a section that needs to
+  be indented if there is a need for an extended description}
 subjects:
-  # One or more of the following:
-  - arts-and-humanities
-  - engineering
-  - general
-  - life-sciences
-  - physical-sciences-and-mathematics
-  - social-and-behavioral-sciences
+  # From enumerated application specific subject list}
+  - {Subject 1}
+  - {Subject 2}
 disciplines:
-  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  # See also the file _data/disciplines.yaml. Examples:
-  - materials-science
-  - creative-art-and-design
-  - health-policy
+  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/}
+  - {Discipline 1}
+  - {Discipline 2}
 standards:
-  # (File) name of related standard(s)
-  - file-name-without-extension
-  - other-file-name-without-extension
+  # name of related standard }
+  - {Standard 1}
+  - {Standard 2}
 # The following are constants: do not modify
 type: use_case
 layout: use_case
