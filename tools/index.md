@@ -12,7 +12,7 @@ type: index
 {% if page.subjects contains subject.value and page.type == 'tool' %}
 <dt>
   <a href="{{ page.website | escape }}">{{ page.title }}</a>
-  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{page.name}}.md"
+  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{page.name}}"
      class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>
 </dt>
