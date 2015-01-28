@@ -13,10 +13,9 @@ yaml: tool.yml
 
 <h3>Instructions</h3>
 <ol>
-<li>Copy template: <button class="clip-button btn btn-primary"
-                           title="copy to clipboard"
-                           type="button" 
-                           data-clipboard-target="{% include {{page.yaml}} %}">
+<li>Copy template: <button class="clip-button btn btn-primary" title="copy to
+                         clipboard" type="button" 
+                         data-clipboard-text="{% include {{page.yaml}} %}">
     Copy to Clipboard</button></li>
 <li>Goto GitHub: <a href="{{ site.repourl }}/new/{{ site.repobranch }}/tools">
     Add a new file</a>
