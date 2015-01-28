@@ -16,8 +16,7 @@ yaml: use_case.yml
                            title="copy to clipboard"
                            type="button" 
                            data-clipboard-target="{% include {{page.yaml}} %}">
-    Copy to Clipboard</button>
-</li>
+    Copy to Clipboard</button></li>
 <li>Goto GitHub: <a href="{{ site.repourl }}/new/{{ site.repobranch }}/use_cases">
     Add a new file</a>
   <ol>
