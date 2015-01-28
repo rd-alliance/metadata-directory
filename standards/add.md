@@ -1,5 +1,5 @@
 ---
-layout: add
+layout: about
 type: action
 title: Adding Standards
 yaml: standard.yml
