@@ -12,11 +12,10 @@ yaml: use_case.yml
 {% include implementation.html type='use_case' %}
 <h3>Instructions</h3>
 <ol>
-<li>Copy template: <button class="clip-button btn btn-primary"
-                           title="copy to clipboard"
-                           type="button" 
-                           data-clipboard-target="{% include {{page.yaml}} %}">
-    Copy to Clipboard</button></li>
+<li>Copy template: <button class="clip-button btn btn-primary" title="copy to
+                         clipboard" type="button" 
+                         data-clipboard-text="{% include {{page.yaml}} %}">
+  Copy to Clipboard</button></li>
 <li>Goto GitHub: <a href="{{ site.repourl }}/new/{{ site.repobranch }}/use_cases">
     Add a new file</a>
   <ol>
