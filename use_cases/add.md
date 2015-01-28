@@ -1,5 +1,5 @@
 ---
-layout: add
+layout: about
 name: add
 type: action
 title: Adding Use Cases

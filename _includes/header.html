@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ site.description }}">
+  <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/hc.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif] d-->
+    </head>
+    <body>
+<div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> Metadata Directory </div>
+      <div id = "wrapper">
+
+
+<div class="navbar navbar-default" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <p class="navbar-brand">{{ site.name }}</p>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+          {% if page.type %}
+            <li>
+              <a href="{{ site.repourl }}/edit/{{ site.repobranch }}/{{ page.path }}">Edit this page</a>
+            </li>
+          {% endif %}
+          <li><a href="{{ site.baseurl }}/about/">Getting Started</a></li>
+          <li><a href="{{ site.baseurl }}/standards/">View the standards</a></li>
+          <li><a href="{{ site.baseurl }}/extensions/">View the extensions</a></li>
+          <li><a href="{{ site.baseurl }}/tools/">View the tools</a></li>
+		  <li><a href="{{ site.baseurl }}/use_cases/">View the use cases</a></li>
+	 	  <li><a href="{{ site.baseurl }}/subjects/">Browse by subject areas</a></li>
+          <li><a href="{{ site.baseurl }}/standards/add.html">Adding standards</a></li>
+          <li><a href="{{ site.baseurl }}/extensions/add.html">Adding extensions</a></li>
+          <li><a href="{{ site.baseurl }}/tools/add.html">Adding tools</a></li>
+          <li><a href="{{ site.baseurl }}/use_cases/add.html">Adding use cases</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+
+
+       <!-- Sidebar -->
+       <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+          <li class="sidebar-brand"><a href="{{ site.baseurl }}/"><h1 class="brand">{{ site.name }}</h1></a><h3>{{ site.description }}</h3></li>
+
+          <hr />
+        {% if page.type %}
+            <li>
+              <a href="{{ site.repourl }}/edit/{{ site.repobranch }}/{{ page.path }}">Edit this page</a>
+            </li>
+            {% endif %}
+
+          <hr />
+          <li><a href="{{ site.baseurl }}/about/">Getting Started</a></li>
+          <li><a href="{{ site.baseurl }}/standards/">View the standards</a></li>
+          <li><a href="{{ site.baseurl }}/extensions/">View the extensions</a></li>
+          <li><a href="{{ site.baseurl }}/tools/">View the tools</a></li>
+	  <li><a href="{{ site.baseurl }}/use_cases/">View the use cases</a></li>
+ 	  <li><a href="{{ site.baseurl }}/subjects/">Browse by subject areas</a></li>
+   	   <hr />
+
+          <li><a href="{{ site.baseurl }}/standards/add.html">Adding standards</a></li>
+          <li><a href="{{ site.baseurl }}/extensions/add.html">Adding extensions</a></li>
+          <li><a href="{{ site.baseurl }}/tools/add.html">Adding tools</a></li>
+          <li><a href="{{ site.baseurl }}/use_cases/add.html">Adding use cases</a></li>
+
+	   <hr />
+          <div id="social-wrapper">
+           <li> <a href="{{ site.github }}"><i class="fa fa-github-square"></i> github</a> </li>
+           <li> <a href="{{ site.twitter }}"><i class="fa fa-twitter-square"></i> @twitter</a></li>
+           <li> <a href="{{ site.linkedin }}"><i class="fa fa-linkedin-square"></i> linkedin</a> </li>
+           <li> <a href="{{ site.facebook }}"><i class="fa fa-facebook-square"></i> facebook</a></li>
+         </div>
+       </ul>
+     </div>
+
+
+
+     <div class="container">
+
