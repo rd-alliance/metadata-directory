@@ -11,7 +11,7 @@ type: index
 {% if page.type contains 'standard' %}
 <dt>
   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}.md"
+  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}"
      class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>
 </dt>

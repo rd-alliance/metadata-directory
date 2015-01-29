@@ -1,20 +1,7 @@
----
-
----
-<!DOCTYPE html>
-<html>
-  <head>
-{% include head.html %}
-  </head>
-
-  <body>
-{% include nav.html %}
-    <div class="container">
-      <h1>{{ page.title }}</h1>
+{% include header.html %}
       {{ content }}
-{% include footer.html %}
-    </div>
-
+      
+      
     <script type="text/javascript" src="../js/jquery.js"></script>
     <script type="text/javascript" src="../js/ZeroClipboard.js"></script>
     <script type="text/javascript" src="../js/bootstrap.min.js"></script>
@@ -35,7 +22,10 @@
         ZeroClipboard.destroy();
       } );
     </script>
+      
+{% include footer.html %}
+  
 
-  </body>
-</html>
+
+
 
