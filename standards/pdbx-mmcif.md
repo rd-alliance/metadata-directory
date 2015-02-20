@@ -29,7 +29,7 @@ version: Current Version 4.051
 description: |
  Protein Data Bank archive (PDB) is the single worldwide archival repository of information about the 3D structures 
  of proteins, nucleic acids, and complex assemblies. The Worldwide PDB (wwPDB) organization manages the PDB archive 
- and ensures that the PDB is freely and publicly available to the global community. The THe PDB Exchange Dictionary
+ and ensures that the PDB is freely and publicly available to the global community. The PDB Exchange Dictionary
  is used by the Worldwide Protein Data Bank (wwPDB) to define data content for depositon, annotation and archiving 
  of PDB entries.  
 # The following are constants: do not modify
