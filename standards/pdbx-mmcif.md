@@ -1,29 +1,34 @@
 ---
 title: PDBx/mmCIF - Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework 
-name: PDBx/mmCIF
+name: pdbx-mmcif
 subjects:
-  - Structural Biology
-  - Life Sciences
+ - life-sciences
+ - physical-sciences-and-mathematics
+ - engineering
+ - general
 disciplines:
   # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  - biology sciences
-  - physical sciences
-  - computer science
-  - engineering
-specification_url: http://mmcif.wwpdb.org
+ - Biology
+ - Chemistry
+ - Physics
+ - Molecular biology, biophysics & biochemistry
+ - Structural chemistry
+ - Biotechnology
+ - Bioinformatics
+specification_url: http://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v40.dic/Index/
 status: approval status if any
-website: http://url.to.project.website
+website: http://mmcif.wwpdb.org
 related_vocabularies:
-  - name: Crystallogarphic Information Framework
+  - name: Crystallographic Information Framework
     url: http://www.iucr.org/resources/cif
 mappings:
   - name: PDBML/XML 
-    url: pdbml.wwpdb.org
+    url: http://pdbml.wwpdb.org
   - name: RDF
-    url: rdf.wwpdb.org
+    url: http://rdf.wwpdb.org
 sponsors: 
   - name: Worldwide Protein Data Bank (wwPDB)
-    url: wwpdb.org
+    url: http://www.wwpdb.org
 contact_email: pdbx-mmcif-help@mail.wwpdb.org
 version: Current Version 4.051
 description: |
