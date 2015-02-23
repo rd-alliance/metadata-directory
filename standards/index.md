@@ -5,10 +5,13 @@ layout: links
 type: index
 
 ---
-<dl>
 {% assign sortedPages = site.pages | sort:"name" %}
+{% for area in sortedPages %}
+{% if area.type == 'subject' %}
+<h2>{{ area.title }}</h2>
+<dl>
 {% for page in sortedPages %}
-{% if page.type contains 'standard' %}
+{% if page.subjects contains area.name and page.type contains 'standard' %}
 <dt>
   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}"
@@ -19,3 +22,5 @@ type: index
 {% endif %}
 {% endfor %}
 </dl>
+{% endif %}
+{% endfor %}

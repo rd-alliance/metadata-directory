@@ -1,7 +1,7 @@
 
 {% include header.html %}
 
-
+      {% assign sortedPages = site.pages | sort:"name" %}
       <h1>{{ page.title }}</h1>
           <p>{{ page.description }}</p>
       <h2>Summary</h2>
@@ -46,11 +46,23 @@
         {% endif %}
         {% if page.subjects %}
         <dt>Subjects</dt>
-        <dd>{{ page.subjects | join: ', '}}</dd>
+        {% for area in sortedPages %}
+        {% if area.type == 'subject' and page.subjects contains area.name%}
+        <dd>
+          <a href="{{ site.baseurl }}{{ area.url }}">{{ area.title }}</a>
+        </dd>
+        {% endif %}
+        {% endfor %}
         {% endif %}
         {% if page.disciplines %}
         <dt>Disciplines</dt>
-        <dd>{{ page.disciplines | join: ', '}}</dd>
+        {% for area in sortedPages %}
+        {% if area.type == 'discipline' and page.disciplines contains area.name%}
+        <dd>
+          <a href="{{ site.baseurl }}{{ area.url }}">{{ area.title }}</a>
+        </dd>
+        {% endif %}
+        {% endfor %}
         {% endif %}
       </dl>
 
@@ -59,7 +71,7 @@
           <span class="glyphicon glyphicon-edit"></span> Add</a>
       </h2>
       <dl>
-      {% for implementation in site.pages %}
+      {% for implementation in sortedPages %}
       {% if implementation.type == 'extension' and implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
@@ -76,7 +88,7 @@
           <span class="glyphicon glyphicon-edit"></span> Add</a>
       </h2>
       <dl>
-      {% for implementation in site.pages %}
+      {% for implementation in sortedPages %}
       {% if implementation.type == 'tool' and implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
@@ -93,7 +105,7 @@
            <span class="glyphicon glyphicon-edit"></span> Add</a>
       </h2>
       <dl>
-      {% for implementation in site.pages %}
+      {% for implementation in sortedPages %}
       {% if implementation.type == 'use_case' and implementation.standards contains page.name %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>

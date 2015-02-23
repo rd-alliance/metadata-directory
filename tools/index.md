@@ -5,11 +5,13 @@ layout: links
 type: index
 
 ---
-{% for subject in site.data.subjects %}
-<h2>{{ subject.label }}</h2>
+{% assign sortedPages = site.pages | sort:"name" %}
+{% for area in sortedPages %}
+{% if area.type == 'subject' %}
+<h2>{{ area.title }}</h2>
 <dl>
-{% for page in site.pages %}
-{% if page.subjects contains subject.value and page.type == 'tool' %}
+{% for page in sortedPages %}
+{% if page.subjects contains area.name and page.type == 'tool' %}
 <dt>
   <a href="{{ page.website | escape }}">{{ page.title }}</a>
   <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{page.name}}"
@@ -20,6 +22,5 @@ type: index
 {% endif %}
 {% endfor %}
 </dl>
+{% endif %}
 {% endfor %}
-
-    

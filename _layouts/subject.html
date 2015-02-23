@@ -1,0 +1,92 @@
+{% include header.html %}
+      <h1>{{ page.title }}</h1>
+      
+      <h2>Standards
+        <a href="../standards/add.html" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Add</a>
+      </h2>
+      <dl>
+      {% for scheme in site.pages %}
+      {% if page.type == 'subject' %}
+      {% assign scope = scheme.subjects %}
+      {% else %}
+      {% assign scope = scheme.disciplines %}
+      {% endif %}
+      {% if scheme.type == 'standard' and scope contains page.name %}
+      <dt>
+        <a href="{{ site.baseurl }}{{ scheme.url }}">{{ scheme.title }}</a>
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{scheme.name}}" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </dt>
+      <dd>{{ scheme.description }}</dd>
+      {% endif %}
+      {% endfor %}
+      </dl>
+
+      <h2>Extensions
+        <a href="../extensions/add.html" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Add</a>
+      </h2>
+      <dl>
+      {% for implementation in site.pages %}
+      {% if page.type == 'subject' %}
+      {% assign scope = implementation.subjects %}
+      {% else %}
+      {% assign scope = implementation.disciplines %}
+      {% endif %}
+      {% if implementation.type == 'extension' and scope contains page.name %}
+      <dt>
+        <a href="{{ implementation.website }}">{{ implementation.title }}</a>
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </dt>
+      <dd>{{ implementation.description }}</dd>
+      {% endif %}
+      {% endfor %}
+      </dl>
+
+      <h2>Tools
+        <a href="../tools/add.html" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Add</a>
+      </h2>
+      <dl>
+      {% for implementation in site.pages %}
+      {% if page.type == 'subject' %}
+      {% assign scope = implementation.subjects %}
+      {% else %}
+      {% assign scope = implementation.disciplines %}
+      {% endif %}
+      {% if implementation.type == 'tool' and scope contains page.name %}
+      <dt>
+        <a href="{{ implementation.website }}">{{ implementation.title }}</a>
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </dt>
+      <dd>{{ implementation.description }}</dd>
+      {% endif %}
+      {% endfor %}
+      </dl>
+      
+      <h2>Use Cases
+        <a href="../use_cases/add.html" class="btn btn-default btn-xs" role="button">
+           <span class="glyphicon glyphicon-edit"></span> Add</a>
+      </h2>
+      <dl>
+      {% for implementation in site.pages %}
+      {% if page.type == 'subject' %}
+      {% assign scope = implementation.subjects %}
+      {% else %}
+      {% assign scope = implementation.disciplines %}
+      {% endif %}
+      {% if implementation.type == 'use_case' and scope contains page.name %}
+      <dt>
+        <a href="{{ implementation.website }}">{{ implementation.title }}</a>
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </dt>
+      <dd>{{ implementation.description }}</dd>
+      {% endif %}
+      {% endfor %}
+      </dl>
+{% include footer.html %}
+
