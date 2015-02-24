@@ -14,7 +14,7 @@ disciplines:
   # See the subjects folder for terms already in use. Examples:
   - chemistry
   - crystallography
-  - biology
+  - biochemistry
   - molecular-biology
 standards:
   # (File) name of related standard(s)
