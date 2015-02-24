@@ -10,7 +10,7 @@ disciplines:
  - chemistry
  - physics
  - molecular-biology
- - structural-chemistry
+ - crystallography
  - biotechnology
  - bioinformatics
 specification_url: http://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v40.dic/Index/

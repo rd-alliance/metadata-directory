@@ -16,7 +16,7 @@ disciplines:
  - chemistry
  - physics
  - molecular-biology
- - structural-chemistry
+ - crystallography
  - biotechnology
  - bioinformatics
 standards:
