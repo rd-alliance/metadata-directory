@@ -1,6 +1,6 @@
 ---
 title: Marine Geoscience Data System
-name: marine-geoscience-data-system
+slug: marine-geoscience-data-system
 description: <p>An online portal providing access to a number of NSF-supported marine
   geoscience projects, which has developed its own metadata requirements.</p>
 website: http://www.marine-geo.org/submit/guidelines.php

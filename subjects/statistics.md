@@ -1,6 +1,6 @@
 ---
 title: Statistics
-name: statistics
+slug: statistics
 subjects: physical-sciences-and-mathematics
 # The following are constants: do not modify
 layout: subject

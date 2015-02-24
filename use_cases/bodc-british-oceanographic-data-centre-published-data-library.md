@@ -1,6 +1,6 @@
 ---
 title: BODC - British Oceanographic Data Centre Published Data Library
-name: bodc-british-oceanographic-data-centre-published-data-library
+slug: bodc-british-oceanographic-data-centre-published-data-library
 description: <p>This national facility for looking after and distributing data concerning
   the marine environment requires that data sets use a well-documented format such
   as <a href="../standards/cf-climate-and-forecast-metadata-conventions.html">CF</a>-compliant

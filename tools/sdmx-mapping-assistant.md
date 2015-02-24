@@ -1,6 +1,6 @@
 ---
 title: SDMX Mapping Assistant
-name: sdmx-mapping-assistant
+slug: sdmx-mapping-assistant
 description: <p>A tool to facilitate the mapping between the structural metadata provided
   by an <a href="../standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX</a>-ML
   Data Structure Definition and those that reside in a database of a dissemination

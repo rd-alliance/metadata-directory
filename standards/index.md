@@ -1,6 +1,6 @@
 ---
 title: Standards
-name: index
+slug: index
 layout: links
 type: index
 
@@ -11,7 +11,7 @@ type: index
 <h2>{{ area.title }}</h2>
 <dl>
 {% for page in sortedPages %}
-{% if page.subjects contains area.name and page.type contains 'standard' %}
+{% if page.subjects contains area.slug and page.type contains 'standard' %}
 <dt>
   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}"

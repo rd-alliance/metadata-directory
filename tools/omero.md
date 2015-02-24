@@ -1,6 +1,6 @@
 ---
 title: OMERO
-name: omero
+slug: omero
 description: <p>Repository software for organising, viewing, analysing and sharing
   biological microscopy images. It supports proprietary file formats but normalises
   to OME-TIFF/<a href="../standards/ome-xml-open-microscopy-environment-xml.html">OME-XML</a>.</p>

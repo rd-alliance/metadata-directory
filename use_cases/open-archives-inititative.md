@@ -1,6 +1,6 @@
 ---
 title: Open Archives Inititative
-name: open-archives-inititative
+slug: open-archives-inititative
 description: <p>Develops and promotes interoperability standards that aim to facilitate
   the efficient dissemination of content.</p>
 website: http://www.openarchives.org/

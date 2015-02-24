@@ -1,6 +1,6 @@
 ---
 title: QuDEx - Qualitative Data Exchange Format
-name: qudex-qualitative-data-exchange-format
+slug: qudex-qualitative-data-exchange-format
 description: <p>The QuDEx standard/schema is a software-neutral format for qualitative
   data that preserves annotations of, and relationships between, data and other related
   objects. It can be viewed as the optimal baseline data exchange model for the archiving

@@ -1,6 +1,6 @@
 ---
 title: Hydrology
-name: hydrology
+slug: hydrology
 subjects: physical-sciences-and-mathematics
 # The following are constants: do not modify
 layout: subject

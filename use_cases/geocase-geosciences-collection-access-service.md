@@ -1,6 +1,6 @@
 ---
 title: GeoCASe - Geosciences Collection Access Service
-name: geocase-geosciences-collection-access-service
+slug: geocase-geosciences-collection-access-service
 description: <p>The GeoCASe Network provides access to a transnational network of
   palaeontological, mineralogical, and geological data; providers are required to
   use <a href="http://www.dcc.ac.uk/resources/implementations/abcdefg-access-biological-collection-databases-extended-geosciences">ABCDEFG</a>,

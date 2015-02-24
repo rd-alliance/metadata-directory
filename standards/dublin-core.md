@@ -1,6 +1,6 @@
 ---
 title: Dublin Core
-name: dublin-core
+slug: dublin-core
 description: <p>A basic, domain-agnostic standard which can be easily understood and
   implemented, and as such is one of the best known and most widely used metadata
   standards.</p><p>Sponsored by the Dublin Core Metadata Initiative, Dublin Core was

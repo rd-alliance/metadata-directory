@@ -1,6 +1,6 @@
 ---
 title: Fiji
-name: fiji
+slug: fiji
 description: <p><a href="http://fiji.sc/Fiji">Fiji</a> is an image processing package
   that supports the <a href="http://www.openmicroscopy.org/site/support/ome-model/">OME
   data model</a> for images </p>

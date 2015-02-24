@@ -1,6 +1,6 @@
 ---
 title: DCAT - Data Catalog Vocabulary
-name: dcat-data-catalog-vocabulary
+slug: dcat-data-catalog-vocabulary
 description: <p>By using DCAT to describe datasets in data catalogs, publishers increase
   discoverability and enable applications easily to consume metadata from multiple
   catalogs. It further enables decentralized publishing of catalogs and facilitates

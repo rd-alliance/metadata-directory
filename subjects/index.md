@@ -1,6 +1,6 @@
 ---
 title: Subject Areas
-name: index
+slug: index
 layout: links
 type: index
 ---
@@ -14,7 +14,7 @@ type: index
 </h2>
 <ul>
 {% for page in sortedPages %}
-{% if page.subjects contains area.name and page.type contains 'discipline' %}
+{% if page.subjects contains area.slug and page.type contains 'discipline' %}
 <li>
   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
   <a href="{{ site.repourl }}/edit/{{ site.repobranch }}/subjects/{{ page.name }}" class="btn btn-default btn-xs" role="button">

@@ -1,6 +1,6 @@
 ---
 title: NetCDF
-name: netcdf
+slug: netcdf
 description: <p>A set of software libraries and self-describing, machine-independent
   data formats that conform to the <a href="../standards/cf-climate-and-forecast-metadata-conventions.html">CF</a>
   metadata conventions. They support the creation, access, and sharing of array-oriented

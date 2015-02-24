@@ -1,6 +1,6 @@
 ---
 title: Tools
-name: index
+slug: index
 layout: links
 type: index
 
@@ -11,7 +11,7 @@ type: index
 <h2>{{ area.title }}</h2>
 <dl>
 {% for page in sortedPages %}
-{% if page.subjects contains area.name and page.type == 'tool' %}
+{% if page.subjects contains area.slug and page.type == 'tool' %}
 <dt>
   <a href="{{ page.website | escape }}">{{ page.title }}</a>
   <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{page.name}}"

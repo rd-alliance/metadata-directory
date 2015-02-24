@@ -1,6 +1,6 @@
 ---
 title: PATRIC Download Tool
-name: patric-download-tool
+slug: patric-download-tool
 description: <p>Tool for downloading data from PATRIC.</p>
 website: http://patricbrc.org/portal/portal/patric/Downloads?cType=taxon&cId=
 subjects:

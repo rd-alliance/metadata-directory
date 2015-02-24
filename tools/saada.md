@@ -1,6 +1,6 @@
 ---
 title: Saada
-name: saada
+slug: saada
 description: <p>A tool for publishing astronomical data files as online databases
   suitable for integration into the international Virtual Observatory.</p>
 website: http://saada.unistra.fr/saada/

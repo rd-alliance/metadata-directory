@@ -1,6 +1,6 @@
 ---
 title: Biomaterials
-name: biomaterials
+slug: biomaterials
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

@@ -1,6 +1,6 @@
 ---
 title: AVM Web Tool
-name: avm-web-tool
+slug: avm-web-tool
 description: <p>A web-based tool for assembling an <a href="../standards/avm-astronomy-visualization-metadata.html">AVM</a>-compliant
   <a href="http://www.adobe.com/products/xmp/">XMP</a> packet for insertion into an
   image file.</p>

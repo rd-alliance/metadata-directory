@@ -1,6 +1,6 @@
 ---
 title: DIF - Directory Interchange Format
-name: dif-directory-interchange-format
+slug: dif-directory-interchange-format
 description: <p>An early metadata initiative from the Earth sciences community, intended
   for the description of scientific data sets. It inlcudes elements focusing on instruments
   that capture data, temporal and spatial characteristics of the data, and projects

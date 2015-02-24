@@ -1,6 +1,6 @@
 ---
 title: VarioML
-name: varioml
+slug: varioml
 website: http://www.ncbi.nlm.nih.gov/pubmed/23031277
 subjects:
 - life-sciences

@@ -1,6 +1,6 @@
 ---
 title: MIDAS-Heritage
-name: midas-heritage
+slug: midas-heritage
 description: <p>A British cultural heritage standard for recording information on
   buildings, archaeological sites, shipwrecks, parks and gardens, battlefields, areas
   of interest and artefacts.</p><p>Sponsored by the Forum on Information Standards

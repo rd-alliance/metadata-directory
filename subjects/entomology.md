@@ -1,6 +1,6 @@
 ---
 title: Entomology
-name: entomology
+slug: entomology
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

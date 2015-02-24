@@ -1,6 +1,6 @@
 ---
 title: Metabolic biochemistry
-name: metabolic-biochemistry
+slug: metabolic-biochemistry
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

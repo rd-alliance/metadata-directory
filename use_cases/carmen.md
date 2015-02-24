@@ -1,6 +1,6 @@
 ---
 title: CARMEN
-name: carmen
+slug: carmen
 description: <p>A a virtual laboratory for neurophysiology, enabling sharing and collaborative
   exploitation of data, analysis, code and expertise. Metadata must include the <a
   href="/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI</a>-registered

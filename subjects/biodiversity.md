@@ -1,6 +1,6 @@
 ---
 title: Biodiversity
-name: biodiversity
+slug: biodiversity
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

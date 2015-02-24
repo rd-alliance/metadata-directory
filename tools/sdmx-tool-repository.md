@@ -1,6 +1,6 @@
 ---
 title: SDMX Tool Repository
-name: sdmx-tool-repository
+slug: sdmx-tool-repository
 description: <p>A list of software tools supporting the <a href="../standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX</a>
   standard.</p>
 website: http://www.sdmxtools.org/index.php

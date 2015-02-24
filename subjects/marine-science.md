@@ -1,6 +1,6 @@
 ---
 title: Marine Science
-name: marine-science
+slug: marine-science
 subjects: physical-sciences-and-mathematics
 # The following are constants: do not modify
 layout: subject

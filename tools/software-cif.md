@@ -1,6 +1,6 @@
 ---
 title: Software for CIF
-name: software-cif
+slug: software-cif
 description: <p>The International Union of Crystallography's list of programs and
   libraries available for use with <a href="../standards/cif-crystallographic-information-framework.html">CIF</a>
   files.</p>

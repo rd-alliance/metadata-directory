@@ -1,6 +1,6 @@
 ---
 title: The Institution for Social and Policy Studies (ISPS) Data Archive
-name: institution-social-and-policy-studies-isps-data-archive
+slug: institution-social-and-policy-studies-isps-data-archive
 description: <p>Provides members of the scholarly community with access to files associated
   with scholarly studies for the purpose of replication, for all studies conducted
   by ISPS-affiliated researchers. ISPS metadata records conform to <a href="../standards/ddi-data-documentation-initiative.html">DDI</a>

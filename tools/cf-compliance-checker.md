@@ -1,6 +1,6 @@
 ---
 title: CF Compliance Checker
-name: cf-compliance-checker
+slug: cf-compliance-checker
 description: <p>A utility that checks netCDF files for <a href="../standards/cf-climate-and-forecast-metadata-conventions.html">CF</a>-compliance.</p>
 website: http://cf-pcmdi.llnl.gov/conformance/compliance-checker/
 subjects:

@@ -1,6 +1,6 @@
 ---
 title: History
-name: history
+slug: history
 subjects: arts-and-humanities
 # The following are constants: do not modify
 layout: subject

@@ -1,6 +1,6 @@
 ---
 title: EDMED Metadata Profile
-name: edmed-metadata-profile
+slug: edmed-metadata-profile
 description: <p>The European Directory of Marine Environmental Datasets metadata scheme,
   which is a profile of <a href="../standards/iso-19115.html">ISO
   19115</a>.</p>

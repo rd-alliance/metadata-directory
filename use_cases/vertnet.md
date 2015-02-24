@@ -1,6 +1,6 @@
 ---
 title: VertNet
-name: vertnet
+slug: vertnet
 description: <p>Four distributed database networks (MaNIS, HerpNET, ORNIS and FishNet)
   using a <a href="../standards/darwin-core.html">Darwin
   Core</a> engine to make bioinformatics specimen data interoperable, mappable and

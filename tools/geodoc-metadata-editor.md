@@ -1,6 +1,6 @@
 ---
 title: Geodoc Metadata Editor
-name: geodoc-metadata-editor
+slug: geodoc-metadata-editor
 description: <p>The Geodoc metadata editor tool allows users to create, validate,
   edit and export geospatial metadata records. It also supports the creation and export
   of metadata records as XML output files compliant with a number of standards, including

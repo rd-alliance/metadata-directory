@@ -1,6 +1,6 @@
 ---
 title: Global Change Master Directory
-name: global-change-master-directory
+slug: global-change-master-directory
 description: <p>The GCMD uses <a href="../standards/dif-directory-interchange-format.html">DIF</a>
   metadata to promote the discovery, access, and use of Earth science data and data-related
   services worldwide, parcitularly focusing on NASA data.</p>

@@ -1,6 +1,6 @@
 ---
 title: Agricultural Science
-name: agricultural-science
+slug: agricultural-science
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

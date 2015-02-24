@@ -1,6 +1,6 @@
 ---
 title: CARARE metadata schema
-name: carare-metadata-schema
+slug: carare-metadata-schema
 description: <p>An application profile of the <a href="../standards/midas-heritage.html">MIDAS
   Heritage</a> standard intended for delivering metadata to the CARARE service environment
   about an organisation&#8217;s online collections, monument inventory database and

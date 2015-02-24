@@ -1,6 +1,6 @@
 ---
 title: CIF - Crystallographic Information Framework
-name: cif-crystallographic-information-framework
+slug: cif-crystallographic-information-framework
 description: <p>A well-established standard file structure for the archiving and distribution
   of crystallographic information, CIF is in regular use for reporting crystal structure
   determinations to Acta Crystallographica and other journals.</p><p>Sponsored by

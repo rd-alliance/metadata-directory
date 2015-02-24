@@ -1,6 +1,6 @@
 ---
 title: GAVO DaCHS - Data Center Helper Suite
-name: gavo-dachs-data-center-helper-suite
+slug: gavo-dachs-data-center-helper-suite
 description: <p>The software that underlies the German Astrophysical Virtual Observatory
   (GAVO), packaged so that it can be used to set up other Virtual Observatory-compliant
   data centres.</p>

@@ -12,7 +12,7 @@
       {% else %}
       {% assign scope = scheme.disciplines %}
       {% endif %}
-      {% if scheme.type == 'standard' and scope contains page.name %}
+      {% if scheme.type == 'standard' and scope contains page.slug %}
       <dt>
         <a href="{{ site.baseurl }}{{ scheme.url }}">{{ scheme.title }}</a>
         <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{scheme.name}}" class="btn btn-default btn-xs" role="button">
@@ -34,10 +34,10 @@
       {% else %}
       {% assign scope = implementation.disciplines %}
       {% endif %}
-      {% if implementation.type == 'extension' and scope contains page.name %}
+      {% if implementation.type == 'extension' and scope contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -56,10 +56,10 @@
       {% else %}
       {% assign scope = implementation.disciplines %}
       {% endif %}
-      {% if implementation.type == 'tool' and scope contains page.name %}
+      {% if implementation.type == 'tool' and scope contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -78,10 +78,10 @@
       {% else %}
       {% assign scope = implementation.disciplines %}
       {% endif %}
-      {% if implementation.type == 'use_case' and scope contains page.name %}
+      {% if implementation.type == 'use_case' and scope contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>

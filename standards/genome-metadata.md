@@ -1,6 +1,6 @@
 ---
 title: Genome Metadata
-name: genome-metadata
+slug: genome-metadata
 description: '<p>Genome metadata on PATRIC consists of 61 different metadata fields,
   called attributes, which are organized into the following seven broad categories:
   Organism Info, Isolate Info, Host Info, Sequence Info, Phenotype Info, Project Info,

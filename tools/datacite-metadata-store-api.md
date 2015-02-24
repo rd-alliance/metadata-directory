@@ -1,6 +1,6 @@
 ---
 title: DataCite Metadata Store API
-name: datacite-metadata-store-api
+slug: datacite-metadata-store-api
 description: <p>RESTFUL API for registering datasets with the DataCite organization.
   The interface uses the DataCite Metadata Schema.</p>
 website: https://mds.datacite.org/static/apidoc

@@ -1,6 +1,6 @@
 ---
 title: Metacat
-name: metacat
+slug: metacat
 description: <p>Metacat is a repository for data and metadata that helps scientists
   find, understand, and effectively use the data sets they manage or that have been
   created by others.</p>

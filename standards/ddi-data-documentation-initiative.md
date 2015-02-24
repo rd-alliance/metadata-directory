@@ -1,6 +1,6 @@
 ---
 title: DDI - Data Documentation Initiative
-name: ddi-data-documentation-initiative
+slug: ddi-data-documentation-initiative
 description: <p>A widely-used international standard for describing data from the
   social, behavioral, and economic sciences. Expressed in XML, the DDI metadata specification
   supports the entire research data life cycle.</p><p>Sponsored by the DDI Alliance,

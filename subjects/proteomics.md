@@ -1,6 +1,6 @@
 ---
 title: Proteomics
-name: proteomics
+slug: proteomics
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

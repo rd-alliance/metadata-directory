@@ -1,6 +1,6 @@
 ---
 title: MIBBI - Minimum Information for Biological and Biomedical Investigations
-name: mibbi-minimum-information-biological-and-biomedical-investigations
+slug: mibbi-minimum-information-biological-and-biomedical-investigations
 description: <p>A common portal to a group of nearly 40 checklists of Minimum Information
   for various biological disciplines. The MIBBI Foundry is developing a cross-analysis
   of these guidelines to create an intercompatible, extensible community of standards.</p><p>The

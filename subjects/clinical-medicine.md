@@ -1,6 +1,6 @@
 ---
 title: Clinical Medicine
-name: clinical-medicine
+slug: clinical-medicine
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

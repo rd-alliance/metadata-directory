@@ -1,6 +1,6 @@
 ---
 title: English Heritage Listed Buildings System
-name: english-heritage-listed-buildings-system
+slug: english-heritage-listed-buildings-system
 description: <p>A case study of the use of the <a href="../standards/midas-heritage.html">MIDAS</a>
   XML Monument schema as a vehicle for storing data exported from a major heritage
   sector information system, the English Heritage Listed Building System (LBS).</p>

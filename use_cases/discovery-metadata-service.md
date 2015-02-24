@@ -1,6 +1,6 @@
 ---
 title: Discovery Metadata Service
-name: discovery-metadata-service
+slug: discovery-metadata-service
 description: <p>A geospatial data network requiring that metadata for datasets, data
   series and online services are published to the UK Gemini v2.1 metadata standard,
   itself an extension of <a href="../standards/iso-19115.html">ISO

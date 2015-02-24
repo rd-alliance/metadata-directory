@@ -1,6 +1,6 @@
 ---
 title: Plant pathology
-name: plant-pathology
+slug: plant-pathology
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

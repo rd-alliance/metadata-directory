@@ -1,6 +1,6 @@
 ---
 title: Biology
-name: biology
+slug: biology
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

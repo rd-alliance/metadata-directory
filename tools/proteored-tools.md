@@ -1,6 +1,6 @@
 ---
 title: ProteoRed Tools
-name: proteored-tools
+slug: proteored-tools
 description: <p>Bioinformatics tools to create and extract metadata compliant with
   the <a href="../standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI</a>-registered
   MIAPE minimum requirements.</p>

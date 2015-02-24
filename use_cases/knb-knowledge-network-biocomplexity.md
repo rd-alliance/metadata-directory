@@ -1,6 +1,6 @@
 ---
 title: KNB - The Knowledge Network for Biocomplexity
-name: knb-knowledge-network-biocomplexity
+slug: knb-knowledge-network-biocomplexity
 description: <p>A network of federated institutions that have agreed to share data
   and metadata using a common framework, principally revolving around the use of the
   <a href="../standards/eml-ecological-metadata-language.html">Ecological

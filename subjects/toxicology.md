@@ -1,6 +1,6 @@
 ---
 title: Toxicology
-name: toxicology
+slug: toxicology
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

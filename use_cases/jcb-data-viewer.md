@@ -1,6 +1,6 @@
 ---
 title: JCB Data Viewer
-name: jcb-data-viewer
+slug: jcb-data-viewer
 description: <p>A repository for viewing and analysing multi-dimensional image data
   associated with articles published in The Journal of Cell Biology. Its native metadata
   format is <a href="../standards/ome-xml-open-microscopy-environment-xml.html">OME-XML</a>.</p>

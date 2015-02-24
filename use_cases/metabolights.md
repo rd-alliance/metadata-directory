@@ -1,6 +1,6 @@
 ---
 title: MetaboLights
-name: metabolights
+slug: metabolights
 description: <p>A database for metabolomics experiments and derived information in
   <a href="../standards/isa-tab.html">ISA-Tab</a>
   format.</p>

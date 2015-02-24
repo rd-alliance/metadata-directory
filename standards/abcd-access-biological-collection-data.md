@@ -1,6 +1,6 @@
 ---
 title: ABCD - Access to Biological Collection Data
-name: abcd-access-biological-collection-data
+slug: abcd-access-biological-collection-data
 description: <p>The <a href="http://www.tdwg.org/standards/115/">Access to Biological
   Collections Data (ABCD) Schema</a> is an evolving comprehensive standard for the
   access to and exchange of data about specimens and observations (a.k.a. primary

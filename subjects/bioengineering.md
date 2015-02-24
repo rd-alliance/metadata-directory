@@ -1,6 +1,6 @@
 ---
 title: Bioengineering
-name: bioengineering
+slug: bioengineering
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

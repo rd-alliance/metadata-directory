@@ -1,6 +1,6 @@
 ---
 title: Integrated Publishing Toolkit
-name: integrated-publishing-toolkit
+slug: integrated-publishing-toolkit
 description: <p>A software platform using <a href="../standards/darwin-core.html">Darwin
   Core</a> and <a href="../standards/eml-ecological-metadata-language.html">EML</a>
   to facilitate the efficient publishing of biodiversity data on the Internet, using

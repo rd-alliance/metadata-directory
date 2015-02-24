@@ -1,6 +1,6 @@
 ---
 title: DataCite Metadata Schema
-name: datacite-metadata-schema
+slug: datacite-metadata-schema
 description: <p>A set of mandatory metadata that must be registered with the DataCite
   Metadata Store when minting a DOI persistent identifier for a dataset. The domain-agnostic
   properties were chosen for their ability to aid in accurate and consistent identification

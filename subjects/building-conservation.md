@@ -1,6 +1,6 @@
 ---
 title: Building Conservation
-name: building-conservation
+slug: building-conservation
 subjects: engineering
 # The following are constants: do not modify
 layout: subject

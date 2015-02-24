@@ -1,6 +1,6 @@
 ---
 title: Biochemistry
-name: biochemistry
+slug: biochemistry
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

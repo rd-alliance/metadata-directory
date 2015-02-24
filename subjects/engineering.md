@@ -1,6 +1,6 @@
 ---
 title: Engineering
-name: engineering
+slug: engineering
 sort: engineering
 # The following are constants: do not modify
 layout: subject

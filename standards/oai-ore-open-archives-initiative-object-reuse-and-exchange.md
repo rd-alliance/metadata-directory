@@ -1,6 +1,6 @@
 ---
 title: OAI-ORE - Open Archives Initiative Object Reuse and Exchange
-name: oai-ore-open-archives-initiative-object-reuse-and-exchange
+slug: oai-ore-open-archives-initiative-object-reuse-and-exchange
 description: <p>The goal of these standards is to expose the rich content in aggregations
   of Web resources to applications that support authoring, deposit, exchange, visualization,
   reuse, and preservation. The standards support the changing nature of scholarship

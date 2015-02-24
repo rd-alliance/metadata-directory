@@ -1,6 +1,6 @@
 ---
 title: FITS World Coordinate System (WCS)
-name: fits-world-coordinate-system-wcs
+slug: fits-world-coordinate-system-wcs
 description: <p>An extension of FITS that enables data to be defined to specify physical,
   or world coordinates within each pixel in an image. The conventions were orignally
   proposed in 2002 then incorporated into the 3.0 release of the FITS standard.</p>

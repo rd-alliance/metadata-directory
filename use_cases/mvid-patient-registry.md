@@ -1,6 +1,6 @@
 ---
 title: MVID Patient Registry
-name: mvid-patient-registry
+slug: mvid-patient-registry
 website: http://www.mvid-central.org/
 subjects:
 - life-sciences

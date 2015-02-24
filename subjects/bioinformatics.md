@@ -1,6 +1,6 @@
 ---
 title: Bioinformatics
-name: bioinformatics
+slug: bioinformatics
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

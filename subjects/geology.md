@@ -1,6 +1,6 @@
 ---
 title: Geology
-name: geology
+slug: geology
 subjects: physical-sciences-and-mathematics
 # The following are constants: do not modify
 layout: subject

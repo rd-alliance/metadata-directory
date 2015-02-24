@@ -1,6 +1,6 @@
 ---
 title: SPASE Metadata Editor
-name: spase-metadata-editor
+slug: spase-metadata-editor
 description: <p>A web-based editor for generating <a href="../standards/spase-data-model.html">SPASE</a>
   descriptions.</p>
 website: http://www.spase-group.org/tools/editor/

@@ -1,6 +1,6 @@
 ---
 title: ISO 19115-2 - Imagery and gridded data
-name: iso-19115-2-imagery-and-gridded-data
+slug: iso-19115-2-imagery-and-gridded-data
 description: <p>An extension of <a href="../standards/iso-19115.html">ISO
   19115</a> defining the schema required for describing imagery and gridded data.</p>
 website: http://www.iso.org/iso/catalogue_detail.htm?csnumber=39229

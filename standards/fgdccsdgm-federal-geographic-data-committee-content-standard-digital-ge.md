@@ -1,7 +1,7 @@
 ---
 title: FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital
   Geospatial Metadata
-name: fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge
+slug: fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge
 description: <p>A widely-used, but no longer current standard defining the information
   content for a set of digital geospatial data required by the US Federal Government.</p><p>CSDGM
   was sponsored by the US Federal Geographic Data Committee. &#160;However, in September

@@ -1,6 +1,6 @@
 ---
 title: CMOR - Climate Model Output Rewriter
-name: cmor-climate-model-output-rewriter
+slug: cmor-climate-model-output-rewriter
 description: <p>A set of C-based functions, with bindings to both Python and FORTRAN
   90, that can be used to produce <a href="../standards/cf-climate-and-forecast-metadata-conventions.html">CF</a>-compliant
   netCDF files.</p>

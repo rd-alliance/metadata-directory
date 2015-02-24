@@ -1,6 +1,6 @@
 ---
 title: CEOS International Directory Network
-name: ceos-international-directory-network
+slug: ceos-international-directory-network
 description: <p>An international effort headed by the Committee on Earth Observation
   Satellites developed to assist users in locating Earth science data sets, data services,
   and visualizations using DIF metadata.</p>

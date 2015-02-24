@@ -1,6 +1,6 @@
 ---
 title: Archaeology
-name: archaeology
+slug: archaeology
 subjects: arts-and-humanities
 # The following are constants: do not modify
 layout: subject

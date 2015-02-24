@@ -1,6 +1,6 @@
 ---
 title: SDMX Implementations
-name: sdmx-implementations
+slug: sdmx-implementations
 description: <p>The <a href="../standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX</a>
   website's list of current and planned practical implimentations from national and
   international organisations.</p>

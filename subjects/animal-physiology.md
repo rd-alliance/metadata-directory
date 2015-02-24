@@ -1,6 +1,6 @@
 ---
 title: Animal physiology
-name: animal-physiology
+slug: animal-physiology
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

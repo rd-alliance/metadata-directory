@@ -1,6 +1,6 @@
 ---
 title: ICATLite
-name: icatlite
+slug: icatlite
 description: <p>A sister project of ICAT, consisting of a suite of <a href="../standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>-based
   software tools designed to&#160;support derived data management&#160;in the scientific
   research process.</p>

@@ -1,6 +1,6 @@
 ---
 title: GSIM - Generic Statistical Information Model
-name: gsim-generic-statistical-information-model
+slug: gsim-generic-statistical-information-model
 description: <p>A reference framework that provides a common terminology acroos and
   between statistical organisations; aligns with DDI and SDMX.</p>
 website: http://www1.unece.org/stat/platform/display/metis/Generic+Statistical+Information+Model

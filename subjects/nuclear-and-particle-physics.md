@@ -1,6 +1,6 @@
 ---
 title: Nuclear and Particle Physics
-name: nuclear-and-particle-physics
+slug: nuclear-and-particle-physics
 subjects: physical-sciences-and-mathematics
 # The following are constants: do not modify
 layout: subject

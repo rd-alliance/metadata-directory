@@ -1,6 +1,6 @@
 ---
 title: RDF Data Cube Vocabulary
-name: rdf-data-cube-vocabulary
+slug: rdf-data-cube-vocabulary
 description: <p>The standard provides a means to publish multi-dimensional data, such
   as statistics, on the web in such a way that it can be linked to related data sets
   and concepts using the W3C RDF (Resource Description Framework) standard. The model

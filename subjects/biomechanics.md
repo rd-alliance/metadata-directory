@@ -1,6 +1,6 @@
 ---
 title: Biomechanics
-name: biomechanics
+slug: biomechanics
 subjects: life-sciences
 # The following are constants: do not modify
 layout: subject

@@ -1,6 +1,6 @@
 ---
 title: Eurostat
-name: eurostat
+slug: eurostat
 description: <p>The statistical office of the European Union, which implementats <a
   href="/standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX</a>
   in a number of projects.</p>

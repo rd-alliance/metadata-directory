@@ -1,6 +1,6 @@
 ---
 title: Architecture
-name: architecture
+slug: architecture
 subjects: engineering
 # The following are constants: do not modify
 layout: subject

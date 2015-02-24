@@ -1,6 +1,6 @@
 ---
 title: ICPSR - Inter-university Consortium for Political and Social Research
-name: icpsr-inter-university-consortium-political-and-social-research
+slug: icpsr-inter-university-consortium-political-and-social-research
 description: <p>A data archive providing leadership and training in data access, curation,
   and methods of analysis for the social science research community; all metadata
   conforms to the <a href="../standards/ddi-data-documentation-initiative.html">DDI</a>

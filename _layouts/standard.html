@@ -47,7 +47,7 @@
         {% if page.subjects %}
         <dt>Subjects</dt>
         {% for area in sortedPages %}
-        {% if area.type == 'subject' and page.subjects contains area.name%}
+        {% if area.type == 'subject' and page.subjects contains area.slug%}
         <dd>
           <a href="{{ site.baseurl }}{{ area.url }}">{{ area.title }}</a>
         </dd>
@@ -57,7 +57,7 @@
         {% if page.disciplines %}
         <dt>Disciplines</dt>
         {% for area in sortedPages %}
-        {% if area.type == 'discipline' and page.disciplines contains area.name%}
+        {% if area.type == 'discipline' and page.disciplines contains area.slug%}
         <dd>
           <a href="{{ site.baseurl }}{{ area.url }}">{{ area.title }}</a>
         </dd>
@@ -72,10 +72,10 @@
       </h2>
       <dl>
       {% for implementation in sortedPages %}
-      {% if implementation.type == 'extension' and implementation.standards contains page.name %}
+      {% if implementation.type == 'extension' and implementation.standards contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -89,10 +89,10 @@
       </h2>
       <dl>
       {% for implementation in sortedPages %}
-      {% if implementation.type == 'tool' and implementation.standards contains page.name %}
+      {% if implementation.type == 'tool' and implementation.standards contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -106,10 +106,10 @@
       </h2>
       <dl>
       {% for implementation in sortedPages %}
-      {% if implementation.type == 'use_case' and implementation.standards contains page.name %}
+      {% if implementation.type == 'use_case' and implementation.standards contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>

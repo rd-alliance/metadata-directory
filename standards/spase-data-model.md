@@ -1,6 +1,6 @@
 ---
 title: SPASE Data Model
-name: spase-data-model
+slug: spase-data-model
 description: <p>An information model for describing the elements of the heliophysics
   data environment, and a set of resource types which can be used to describe data
   along with its scientific context, source, provenance, content and location. It

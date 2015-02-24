@@ -1,6 +1,6 @@
 ---
 title: Space science
-name: space-science
+slug: space-science
 subjects: physical-sciences-and-mathematics
 # The following are constants: do not modify
 layout: subject
