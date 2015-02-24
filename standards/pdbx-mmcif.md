@@ -16,8 +16,7 @@ disciplines:
  - biotechnology
  - bioinformatics
 specification_url: http://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v40.dic/Index/
-status: approval status if any
-website: http://mmcif.wwpdb.org
+website: http://mmcif.wwpdb.org/
 related_vocabularies:
   - name: Crystallographic Information Framework
     url: http://www.iucr.org/resources/cif
