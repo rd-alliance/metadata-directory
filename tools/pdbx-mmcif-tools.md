@@ -3,8 +3,8 @@ title: PDBx/mmCIF Software Resources
 slug: pdbx-mmcif-tools
 website: http://mmcif.wwpdb.org/docs/software-resources.html
 description: |
- Parsing, validation, and visualization tools and libraries supporting PDBx/mmCIF, the data standard used
- by the Worldwide Protein Data Bank.
+    Parsing, validation, and visualization tools and libraries supporting 
+    PDBx/mmCIF, the data standard used by the Worldwide Protein Data Bank.
 subjects:
  - life-sciences
  - physical-sciences-and-mathematics

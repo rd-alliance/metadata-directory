@@ -1,11 +1,12 @@
 ---
 title: Worldwide Protein Data Bank
 name: wwpdb-use-case
-website: http://www.wwpdb.org
+website: http://www.wwpdb.org/
 description: |
-  Protein Data Bank archive (PDB) is the single worldwide archival repository of information about the 3D structures 
-  of proteins, nucleic acids, and complex assemblies. The Worldwide PDB (wwPDB) organization manages the PDB archive 
-  and ensures that the PDB is freely and publicly available to the global community.
+    Protein Data Bank archive (PDB) is the single worldwide archival repository 
+    of information about the 3D structures of proteins, nucleic acids, and complex 
+    assemblies. The Worldwide PDB (wwPDB) organization manages the PDB archive and 
+    ensures that the PDB is freely and publicly available to the global community.
 subjects:
  - life-sciences
  - physical-sciences-and-mathematics
