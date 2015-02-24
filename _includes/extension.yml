@@ -1,6 +1,6 @@
 ---
 title: Full name of the extension
-name: file-name-without-file-extension
+slug: file-name-without-file-extension
 website: URL of a website supporting the extension
 description: |
   <p>A sentence or two describing the extension and in what context it is meant
@@ -15,7 +15,7 @@ subjects:
   - social-and-behavioral-sciences
 disciplines:
   # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  # See also the file _data/disciplines.yaml. Examples:
+  # See the subjects folder for terms already in use. Examples:
   - materials-science
   - creative-art-and-design
   - health-policy

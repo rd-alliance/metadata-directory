@@ -1,6 +1,6 @@
 ---
 title: Full name of the tool
-name: file-name-without-extension
+slug: file-name-without-extension
 website: URL of a website supporting the tool
 description: |
   <p>A sentence or two describing the tool and how it relates to the standard.
@@ -15,7 +15,7 @@ subjects:
   - social-and-behavioral-sciences
 disciplines:
   # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  # See also the file _data/disciplines.yaml. Examples:
+  # See the subjects folder for terms already in use. Examples:
   - materials-science
   - creative-art-and-design
   - health-policy

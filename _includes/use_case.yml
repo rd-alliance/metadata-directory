@@ -1,6 +1,6 @@
 ---
 title: Full name of the organization or service using the standard
-name: file-name-without-extension
+slug: file-name-without-extension
 website: URL of the organization or project website
 description: |
   <p>A sentence or two describing the organization or service and how it uses
@@ -15,7 +15,7 @@ subjects:
   - social-and-behavioral-sciences
 disciplines:
   # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  # See also the file _data/disciplines.yaml. Examples:
+  # See the subjects folder for terms already in use. Examples:
   - materials-science
   - creative-art-and-design
   - health-policy
