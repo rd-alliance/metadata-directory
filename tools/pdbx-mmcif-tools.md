@@ -8,8 +8,6 @@ description: |
 subjects:
  - life-sciences
  - physical-sciences-and-mathematics
- - engineering
- - general
 disciplines:
   # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
  - biology
