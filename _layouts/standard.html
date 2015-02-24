@@ -1,13 +1,16 @@
 
 {% include header.html %}
       {% assign subjectAreas = site.pages | where:'type','subject' | sort:"sort" %}
-      {% assign disciplines = site.pages | where:'type','discipline' | sort:"sort" %}
+      {% assign disciplines = site.pages | where:'type','discipline' | sort:"name" %}
       {% assign extensions = site.pages | where:'type','extension' | sort:"name" %}
       {% assign tools = site.pages | where:'type','tool' | sort:"name" %}
       {% assign usecases = site.pages | where:'type','use_case' | sort:"name" %}
       <h1>{{ page.title }}</h1>
           <p>{{ page.description }}</p>
-      <h2>Summary</h2>
+      <h2>Summary
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </h2>
       <dl>
         {% if page.website %}
         <dt>Standard Website</dt>
