@@ -5,22 +5,20 @@ layout: links
 type: index
 
 ---
-{% assign sortedPages = site.pages | sort:"name" %}
-{% for area in sortedPages %}
-{% if area.type == 'subject' %}
+{% assign subjectAreas = site.pages | where:'type','subject' | sort:"sort" %}
+{% assign tools = site.pages | where:'type','tool' | sort:"name" %}
+{% for area in subjectAreas %}
 <h2>{{ area.title }}</h2>
 <dl>
-{% for page in sortedPages %}
-{% if page.subjects contains area.slug and page.type == 'tool' %}
+{% for tool in tools %}
+{% if tool.subjects contains area.slug %}
 <dt>
-  <a href="{{ page.website | escape }}">{{ page.title }}</a>
-  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{page.name}}"
-     class="btn btn-default btn-xs" role="button">
+  <a href="{{ tool.website | escape }}">{{ tool.title }}</a>
+  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{tool.name}}" class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>
 </dt>
-<dd>{{ page.description }}</dd>
+<dd>{{ tool.description }}</dd>
 {% endif %}
 {% endfor %}
 </dl>
-{% endif %}
 {% endfor %}

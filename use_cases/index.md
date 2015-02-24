@@ -5,24 +5,20 @@ layout: links
 type: index
 
 ---
-{% assign sortedPages = site.pages | sort:"name" %}
-{% for area in sortedPages %}
-{% if area.type == 'subject' %}
+{% assign subjectAreas = site.pages | where:'type','subject' | sort:"sort" %}
+{% assign usecases = site.pages | where:'type','use_case' | sort:"name" %}
+{% for area in subjectAreas %}
 <h2>{{ area.title }}</h2>
 <dl>
-<h2>{{ subject.label }}</h2>
-<dl>
-{% for page in sortedPages %}
-{% if page.subjects contains area.slug and page.type contains 'use_case' %}
+{% for usecase in usecases %}
+{% if usecase.subjects contains area.slug %}
 <dt>
-  <a href="{{ page.website | escape }}">{{ page.title }}</a>
-  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{page.name}}"
-     class="btn btn-default btn-xs" role="button">
+  <a href="{{ usecase.website | escape }}">{{ usecase.title }}</a>
+  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{usecase.name}}" class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>
 </dt>
-<dd>{{ page.description }}</dd>
+<dd>{{ usecase.description }}</dd>
 {% endif %}
 {% endfor %}
 </dl>
-{% endif %}
 {% endfor %}
