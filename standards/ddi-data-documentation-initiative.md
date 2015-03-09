@@ -4,7 +4,7 @@ slug: ddi-data-documentation-initiative
 description: <p>A widely-used international standard for describing data from the
   social, behavioral, and economic sciences. Expressed in XML, the DDI metadata specification
   supports the entire research data life cycle.</p><p>Sponsored by the DDI Alliance,
-  DDI version 3.1 was released in 2009.</p>
+  DDI version 3.2 was released in 2014.</p>
 website: http://www.ddialliance.org/
 subjects:
 - arts-and-humanities
