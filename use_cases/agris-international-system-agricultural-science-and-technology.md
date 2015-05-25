@@ -1,6 +1,6 @@
 ---
 title: AGRIS  - International System for Agricultural Science and Technology
-name: agris-international-system-agricultural-science-and-technology
+slug: agris-international-system-agricultural-science-and-technology
 description: <p>A global public domain database using the <a href="../standards/agmes-agricultural-metadata-element-set.html">AgMES</a>
   standard to describe structured bibliographical records on agricultural science
   and technology.</p>

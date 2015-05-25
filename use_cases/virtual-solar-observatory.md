@@ -1,6 +1,6 @@
 ---
 title: Virtual Solar Observatory
-name: virtual-solar-observatory
+slug: virtual-solar-observatory
 website: http://sdac.virtualsolar.org/cgi/search
 subjects:
 - physical-sciences-and-mathematics

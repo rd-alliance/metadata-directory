@@ -1,6 +1,6 @@
 ---
 title: WiscLINC Metadata Tools Review
-name: wisclinc-metadata-tools-review
+slug: wisclinc-metadata-tools-review
 description: <p>The Wisconsin Land INformation Clearinghouse review of metadata tools
   used for documenting geospatial data and serving geospatial metadata. It includes
   tools for <a href="../standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge.html">CSDGM</a>,

@@ -1,6 +1,6 @@
 ---
 title: UK Gemini
-name: uk-gemini
+slug: uk-gemini
 description: <p>A specification for a set of metadata elements describing geospatial
   data resources for discovery purposes, based on <a href="../standards/iso-19115.html">ISO
   19115</a>.</p>

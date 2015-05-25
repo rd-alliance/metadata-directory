@@ -1,6 +1,6 @@
 ---
 title: CKAN
-name: ckan
+slug: ckan
 description: <p>Tool which utilizes the DCAT standard. CKAN is a powerful data management
   system that makes data accessible &#8211; by providing tools to streamline publishing,
   sharing, finding and using data.</p><p>CKAN is aimed at data publishers (national

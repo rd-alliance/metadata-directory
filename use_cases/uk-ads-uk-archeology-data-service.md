@@ -1,6 +1,6 @@
 ---
 title: UK ADS - UK Archeology Data Service
-name: uk-ads-uk-archeology-data-service
+slug: uk-ads-uk-archeology-data-service
 description: <p>The ADS collects, catalogues, manages, preserves, and encourages re-use
   of digital resources created by archaeologists. It promotes good&#160;practice in
   the use of digital data in archaeology, provides technical&#160;advice to the research

@@ -1,6 +1,6 @@
 ---
 title: GoGeo Portal
-name: gogeo-portal
+slug: gogeo-portal
 description: <p>The GoGeo Portal enables users to discover geospatial information
   and services for education and research. It uses <a href="http://www.gogeo.ac.uk/gogeo/metadata/agmap.htm">UK
   Agmap</a>, a profile based on <a href="../standards/iso-19115.html">ISO

@@ -1,22 +1,23 @@
 ---
 title: Extensions
-name: index
+slug: index
 layout: links
 type: index
 
 ---
-{% for subject in site.data.subjects %}
-## {{ subject.label }}
+{% assign subjectAreas = site.pages | where:'type','subject' | sort:"sort" %}
+{% assign extensions = site.pages | where:'type','extension' | sort:"name" %}
+{% for area in subjectAreas %}
+<h2>{{ area.title }}</h2>
 <dl>
-{% for page in site.pages %}
-{% if page.subjects contains subject.value and page.type contains 'extension' %}
+{% for extension in extensions %}
+{% if extension.subjects contains area.slug %}
 <dt>
-  <a href="{{ page.website | escape }}">{{ page.title }}</a>
-  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{page.name}}"
-     class="btn btn-default btn-xs" role="button">
+  <a href="{{ extension.website | escape }}">{{ extension.title }}</a>
+  <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{extension.name}}" class="btn btn-default btn-xs" role="button">
     <span class="glyphicon glyphicon-edit"></span> Edit</a>
 </dt>
-<dd>{{ page.description }}</dd>
+<dd>{{ extension.description }}</dd>
 {% endif %}
 {% endfor %}
 </dl>

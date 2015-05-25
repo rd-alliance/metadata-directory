@@ -1,6 +1,6 @@
 ---
 title: ICAT Implementations
-name: icat-implementations
+slug: icat-implementations
 description: <p>The ICAT website's list of the facilities and organisations usingthe
   <a href="../standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>-based
   ICAT software.</p>

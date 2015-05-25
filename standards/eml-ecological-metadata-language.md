@@ -1,6 +1,6 @@
 ---
 title: EML - Ecological Metadata Language
-name: eml-ecological-metadata-language
+slug: eml-ecological-metadata-language
 description: <p>Ecological Metadata Language (EML) is a metadata specification particularly
   developed for the ecology discipline. It is based on prior work done by the Ecological
   Society of America and associated efforts (Michener et al., 1997, Ecological Applications).</p><p>Sponsored

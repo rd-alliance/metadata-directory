@@ -1,6 +1,6 @@
 ---
 title: FITS Image Software Packages
-name: fits-image-software-packages
+slug: fits-image-software-packages
 website: http://fits.gsfc.nasa.gov/fits_viewer.html
 subjects:
 - physical-sciences-and-mathematics

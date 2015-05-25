@@ -1,6 +1,6 @@
 ---
 title: AgMES - Agricultural Metadata Element Set
-name: agmes-agricultural-metadata-element-set
+slug: agmes-agricultural-metadata-element-set
 description: <p>A semantic standard developed by the Food and Agriculture Organization
   (FAO) of the United Nations, AgMES enables description, resource discovery, interoperability
   and data exchange of different types of information resources in all areas relevant

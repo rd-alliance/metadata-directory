@@ -1,6 +1,6 @@
 ---
 title: CSMD Pilot Studies
-name: csmd-pilot-studies
+slug: csmd-pilot-studies
 description: '<p>A desk study of <a href="../standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>
   implementation in two facilities: the UK National Crystallography Service and the
   ISIS Neutron Source.</p>'

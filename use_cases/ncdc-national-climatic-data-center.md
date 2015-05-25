@@ -1,6 +1,6 @@
 ---
 title: NCDC - National Climatic Data Center
-name: ncdc-national-climatic-data-center
+slug: ncdc-national-climatic-data-center
 description: <p>The world's largest climate data archive, providing climatological
   services and data worldwide. It currently promotes the <a href="../standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge.html">FGDC/CSDGM</a>
   metadata standard for its datasets.</p>

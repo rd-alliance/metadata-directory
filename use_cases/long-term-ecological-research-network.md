@@ -1,6 +1,6 @@
 ---
 title: Long Term Ecological Research Network
-name: long-term-ecological-research-network
+slug: long-term-ecological-research-network
 description: <p>A network providing the scientific expertise, research platforms,
   and long-term datasets necessary to document and analyze environmental change, it
   uses the <a href="../standards/eml-ecological-metadata-language.html">Ecological

@@ -1,6 +1,6 @@
 ---
 title: Protocol Data Element Definitions
-name: protocol-data-element-definitions
+slug: protocol-data-element-definitions
 description: A draft set of data elements required by the National Institues
   of Health (U.S.) for the submission of trial information to the
   <a href="http://clinicaltrials.gov/ct2/home">CLincalTrials.gov</a> registry

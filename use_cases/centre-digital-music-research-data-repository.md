@@ -1,6 +1,6 @@
 ---
 title: The Centre for Digital Music Research Data Repository
-name: centre-digital-music-research-data-repository
+slug: centre-digital-music-research-data-repository
 description: <p>Used by researchers at C4DM to share their research data with their
   colleagues and others in the digital music research community, this repository uses
   the <a href="../standards/datacite-metadata-schema.html">DataCite</a>

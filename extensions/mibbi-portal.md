@@ -1,6 +1,6 @@
 ---
 title: MIBBI Portal
-name: mibbi-portal
+slug: mibbi-portal
 description: <p>A list of nearly 40 Minimum Information standards projects registered
   with the <a href="../standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI</a>
   initiative.</p>

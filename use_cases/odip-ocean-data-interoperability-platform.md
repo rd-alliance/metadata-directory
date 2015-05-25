@@ -1,6 +1,6 @@
 ---
 title: ODIP -Ocean Data Interoperability Platform
-name: odip-ocean-data-interoperability-platform
+slug: odip-ocean-data-interoperability-platform
 website: http://www.odip.org/welcome.asp
 subjects:
 - physical-sciences-and-mathematics

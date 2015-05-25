@@ -1,6 +1,6 @@
 ---
 title: Resource Metadata for the Virtual Observatory
-name: resource-metadata-virtual-observatory
+slug: resource-metadata-virtual-observatory
 description: <p>Defines metadata terms and concepts necessary for discovery and use
   of astronomical data collections and services.</p><p>The extension is based on Dublin
   Core, but with astronomy-specific extensions.  Resource Metadata are collected in

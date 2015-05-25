@@ -1,6 +1,6 @@
 ---
 title: WaterML
-name: waterml
+slug: waterml
 website: http://www.opengeospatial.org/standards/waterml
 subjects:
 - physical-sciences-and-mathematics

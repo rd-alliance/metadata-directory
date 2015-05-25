@@ -1,6 +1,6 @@
 ---
 title: Observations and Measurements
-name: observations-and-measurements
+slug: observations-and-measurements
 description: <p>This encoding is an essential dependency for the OGC Sensor Observation
   Service (SOS) Interface Standard. More specifically, this standard defines XML schemas
   for observations, and for features involved in sampling when making observations.

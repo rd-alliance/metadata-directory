@@ -2,7 +2,7 @@ name: Metadata
 author: RDA
 markdown: redcarpet
 highlighter: pygments
-baseurl: https://rd-alliance.github.io/metadata-directory
+baseurl: /metadata-directory
 description: RDA | Metadata Directory
 github: http://www.github.com/rd-alliance/metadata-directory
 twitter: https://twitter.com/resdatall

@@ -1,3 +1,5 @@
+## Using the Metadata Standards Directory
+
 This is the source code repository for the
 [prototype metadata directory](http://rd-alliance.github.io/metadata-directory/)
 set up by the Metadata Standards Directory Working Group of the Research Data Alliance.

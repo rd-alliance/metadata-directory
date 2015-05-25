@@ -1,6 +1,6 @@
 ---
 title: Darwin Core
-name: darwin-core
+slug: darwin-core
 description: <p>A body of standards, including a glossary of terms (in other contexts
   these might be called properties, elements, fields, columns, attributes, or concepts)
   intended to facilitate the sharing of information about biological diversity by

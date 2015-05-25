@@ -1,6 +1,6 @@
 ---
 title: CF (Climate and Forecast) Metadata Conventions
-name: cf-climate-and-forecast-metadata-conventions
+slug: cf-climate-and-forecast-metadata-conventions
 description: <p>The CF standard was originally framed as a standard for data written
   in netCDF format, with model-generated climate forecast data particularly in mind.
   However, it is equally applicable to observational datasets, and can be used to

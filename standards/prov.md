@@ -1,6 +1,6 @@
 ---
 title: PROV
-name: prov
+slug: prov
 description: <p>Provenance is information about entities, activities, and people involved
   in producing a piece of data or thing, which can be used to form assessments about
   its quality, reliability or trustworthiness. The PROV Family of Documents defines

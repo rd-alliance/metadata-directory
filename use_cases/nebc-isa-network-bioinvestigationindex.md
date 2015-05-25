@@ -1,6 +1,6 @@
 ---
 title: NEBC ISA Network BioInvestigationIndex
-name: nebc-isa-network-bioinvestigationindex
+slug: nebc-isa-network-bioinvestigationindex
 description: <p>The NERC Environmental Bioinformatics Centre ISA Network's index of
   <a href="../standards/isa-tab.html">ISA-Tab</a>
   and <a href="../standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI</a>-compliant

@@ -1,7 +1,7 @@
 ---
 title: CESSDA MLI - Council of European Social Science Data Archives Minimum Level
   of Information
-name: cessda-mli-council-european-social-science-data-archives-minimum-level-inf
+slug: cessda-mli-council-european-social-science-data-archives-minimum-level-inf
 description: <p>A common base profile of <a href="../standards/ddi-data-documentation-initiative.html">DDI</a>
   for use by the member archives of CESSDA.</p>
 website: http://www.cessda.org/sharing/managing/3/

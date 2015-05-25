@@ -1,5 +1,5 @@
 ---
-name: index
+slug: index
 #layout: post
 layout: about
 title:  "Getting Started"

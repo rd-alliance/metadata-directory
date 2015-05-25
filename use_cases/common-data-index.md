@@ -1,6 +1,6 @@
 ---
 title: Common Data Index
-name: common-data-index
+slug: common-data-index
 description: <p>A web service allowing users to access the availability and geographical
   spreading of marine data sets managed by the SeaDataNet data centres, using metadata
   based on the <a href="../standards/iso-19115.html">ISO

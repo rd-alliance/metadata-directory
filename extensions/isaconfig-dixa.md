@@ -1,6 +1,6 @@
 ---
 title: isaconfig-diXa
-name: isaconfig-dixa
+slug: isaconfig-dixa
 website: https://bitbucket.org/kanterae/isaconfig-dixa
 subjects:
 - life-sciences

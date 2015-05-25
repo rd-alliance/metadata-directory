@@ -1,6 +1,6 @@
 ---
 title: WormQTL-HD
-name: wormqtl-hd
+slug: wormqtl-hd
 website: http://www.wormqtl-hd.org/
 subjects:
 - life-sciences

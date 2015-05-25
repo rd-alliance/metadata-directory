@@ -1,6 +1,6 @@
 ---
 layout: add
-name: add
+slug: add
 type: action
 title: Adding Use Cases
 yaml: use_case.yml

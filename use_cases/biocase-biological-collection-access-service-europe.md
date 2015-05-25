@@ -1,6 +1,6 @@
 ---
 title: BioCASE - Biological Collection Access Service for Europe
-name: biocase-biological-collection-access-service-europe
+slug: biocase-biological-collection-access-service-europe
 description: <p>The BioCASE Biological Unit Network provides access to a transnational
   network of biological collections; its protocol requires providers to use the <a
   href="/standards/abcd-access-biological-collection-data.html">ABCD</a>

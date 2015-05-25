@@ -1,6 +1,6 @@
 ---
 title: CIM Search Portal 
-name: cim-search-portal 
+slug: cim-search-portal 
 description: <p>The CIM Portal enables users to discover information and services about Earth and climate systems.</p>
 website: http://search.es-doc.org/
 subjects:

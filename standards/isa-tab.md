@@ -1,6 +1,6 @@
 ---
 title: ISA-Tab
-name: isa-tab
+slug: isa-tab
 description: <p>The Investigation/Study/Assay (ISA)&#160;tab-delimited (TAB) format
   is a general purpose framework with which to collect and communicate complex metadata
   (i.e. sample characteristics, technologies used, type of measurements made) from

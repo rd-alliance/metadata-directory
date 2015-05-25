@@ -1,6 +1,6 @@
 ---
 title: Integrated Marine Observing System Portal
-name: integrated-marine-observing-system-portal
+slug: integrated-marine-observing-system-portal
 website: http://imos.aodn.org.au/imos/
 subjects:
 - life-sciences

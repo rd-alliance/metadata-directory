@@ -1,10 +1,16 @@
 
 {% include header.html %}
-
-
+      {% assign subjectAreas = site.pages | where:'type','subject' | sort:"sort" %}
+      {% assign disciplines = site.pages | where:'type','discipline' | sort:"name" %}
+      {% assign extensions = site.pages | where:'type','extension' | sort:"name" %}
+      {% assign tools = site.pages | where:'type','tool' | sort:"name" %}
+      {% assign usecases = site.pages | where:'type','use_case' | sort:"name" %}
       <h1>{{ page.title }}</h1>
           <p>{{ page.description }}</p>
-      <h2>Summary</h2>
+      <h2>Summary
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/standards/{{page.name}}" class="btn btn-default btn-xs" role="button">
+          <span class="glyphicon glyphicon-edit"></span> Edit</a>
+      </h2>
       <dl>
         {% if page.website %}
         <dt>Standard Website</dt>
@@ -46,11 +52,23 @@
         {% endif %}
         {% if page.subjects %}
         <dt>Subjects</dt>
-        <dd>{{ page.subjects | join: ', '}}</dd>
+        {% for area in subjectAreas %}
+        {% if page.subjects contains area.slug%}
+        <dd>
+          <a href="{{ site.baseurl }}{{ area.url }}">{{ area.title }}</a>
+        </dd>
+        {% endif %}
+        {% endfor %}
         {% endif %}
         {% if page.disciplines %}
         <dt>Disciplines</dt>
-        <dd>{{ page.disciplines | join: ', '}}</dd>
+        {% for area in disciplines %}
+        {% if page.disciplines contains area.slug%}
+        <dd>
+          <a href="{{ site.baseurl }}{{ area.url }}">{{ area.title }}</a>
+        </dd>
+        {% endif %}
+        {% endfor %}
         {% endif %}
       </dl>
 
@@ -59,11 +77,11 @@
           <span class="glyphicon glyphicon-edit"></span> Add</a>
       </h2>
       <dl>
-      {% for implementation in site.pages %}
-      {% if implementation.type == 'extension' and implementation.standards contains page.name %}
+      {% for implementation in extensions %}
+      {% if implementation.standards contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/extensions/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -76,11 +94,11 @@
           <span class="glyphicon glyphicon-edit"></span> Add</a>
       </h2>
       <dl>
-      {% for implementation in site.pages %}
-      {% if implementation.type == 'tool' and implementation.standards contains page.name %}
+      {% for implementation in tools %}
+      {% if implementation.standards contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/tools/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>
@@ -93,11 +111,11 @@
            <span class="glyphicon glyphicon-edit"></span> Add</a>
       </h2>
       <dl>
-      {% for implementation in site.pages %}
-      {% if implementation.type == 'use_case' and implementation.standards contains page.name %}
+      {% for implementation in usecases %}
+      {% if implementation.standards contains page.slug %}
       <dt>
         <a href="{{ implementation.website }}">{{ implementation.title }}</a>
-        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}.md" class="btn btn-default btn-xs" role="button">
+        <a href="{{site.repourl}}/edit/{{ site.repobranch }}/use_cases/{{implementation.name}}" class="btn btn-default btn-xs" role="button">
           <span class="glyphicon glyphicon-edit"></span> Edit</a>
       </dt>
       <dd>{{ implementation.description }}</dd>

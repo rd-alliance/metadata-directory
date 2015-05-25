@@ -1,6 +1,6 @@
 ---
 title: DdiEditor
-name: ddieditor
+slug: ddieditor
 description: <p>DdiEditor is a DDI-Lifecycle Editing Framework developed by the DDA
   - Danish Data Archive.</p>
 website: http://code.google.com/p/ddieditor/

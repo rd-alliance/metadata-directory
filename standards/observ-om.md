@@ -1,6 +1,6 @@
 ---
 title: Observ-OM
-name: observ-om
+slug: observ-om
 description: '<p>Observ-OM is founded on four basic concepts to represent any kind
   of observation: Targets, Features, Protocols (and their Applications), and Values.
   It is intended to lower the barrier for future data sharing and facilitate integrated
