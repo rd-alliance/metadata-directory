@@ -1,9 +1,12 @@
 ---
 title: DDI on Rails
 slug: ddionrails
-description: <p>General purpose data portal with a focus on panel data.
-  Used in production on <a href="https://paneldata.org">paneldata.org</a>.</p>
-website: http://www.ddionrails.org
+description: |
+  <p>Server-side software for building a data portal, with a particular
+  focus on survey datasets. It uses DDI to provide access to the data at
+  the level of concepts and variables. For an example of it in use, see
+  the <a href="https://paneldata.org/">SOEPinfo data portal</a>.</p>
+website: http://www.ddionrails.org/
 subjects:
 - social-and-behavioral-sciences
 disciplines:
