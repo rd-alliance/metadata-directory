@@ -1,9 +1,9 @@
 ---
-title: Elsevier Pure
+title: Pure
 slug: elsevier-pure
 website: http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure
 description: |
-  <p>Current research information system implementing the CERIF standard.</p>
+  <p>Current research information system developed by Elsevier that implements the CERIF standard.</p>
 subjects:
   # One or more of the following:
   - general
