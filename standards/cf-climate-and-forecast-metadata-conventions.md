@@ -16,13 +16,13 @@ disciplines:
 - meteorology
 - climatology
 - oceanography
-specification_url: http://cfconventions.org/1.6.html
+specification_url: http://cfconventions.org/documents.html
 related_vocabularies:
 - name: CF Standard Name Table
-  url: http://cfconventions.org/standard-names-26.html
+  url: http://cfconventions.org/standard-names.html
 mappings:
 - name: COARDS Conventions
-  url: http://cfconventions.org/1.6.html#coards-relationship
+  url: http://ferret.wrc.noaa.gov/noaa_coop/coop_cdf_profile.html
 layout: standard
 type: standard
 
