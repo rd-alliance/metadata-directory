@@ -1,10 +1,18 @@
 ---
 title: DDI - Data Documentation Initiative
 slug: ddi-data-documentation-initiative
-description: <p>A widely-used international standard for describing data from the
-  social, behavioral, and economic sciences. Expressed in XML, the DDI metadata specification
-  supports the entire research data life cycle.</p><p>Sponsored by the DDI Alliance,
-  DDI version 3.2 was released in 2014.</p>
+description: |
+  <p>A widely used, international standard for describing data from the
+  social, behavioral, and economic sciences. Two versions of the standard
+  are currently maintained in parallel:</p><ul><li>DDI Codebook (or DDI
+  version 2) is the simpler of the two, and intended for documenting
+  simple survey data for exchange or archiving. Version 2.5 was released in
+  January 2014.</li><li>DDI Lifecycle (or DDI version 3) is richer and may
+  be used to document datasets at each stage of their lifecycle from
+  conceptualization through to publication and reuse. It is modular and
+  extensible. Version 3.2 was published in March 2014.</li></ul><p>Both
+  versions are XML-based and defined using XML Schemas. They were developed
+  and are maintained by the DDI Alliance.</p>
 website: http://www.ddialliance.org/
 subjects:
 - arts-and-humanities
