@@ -14,7 +14,7 @@ disciplines:
 - economics
 - demography
 - human-and-social-geography
-specification_url: http://sdmx.org/?page_id=10
+specification_url: http://sdmx.org/?page_id=5008
 related_vocabularies:
 - name: SDMX Content-Oriented Guidelines
   url: http://sdmx.org/?page_id=11
