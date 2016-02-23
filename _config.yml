@@ -1,7 +1,7 @@
 name: Metadata
 author: RDA
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 baseurl: /metadata-directory
 description: RDA | Metadata Directory
 github: http://www.github.com/rd-alliance/metadata-directory
