@@ -1,5 +1,5 @@
 ---
-title: SOS -Sensor Observation Service
+title: SOS - Sensor Observation Service
 slug: sos-sensor-observation-service
 description: <p>This tool uses the Observations and Measurements standard to define
   a Web service interface which allows querying observations, sensor metadata, as
@@ -13,6 +13,11 @@ disciplines:
 - geology
 - meteorology
 - remote-sensing
+- climatology
+- hydrology
+- oceanographic survey & monitoring
+- applied environmental sciences
+version: 2.0
 standards:
 - observations-and-measurements
 layout: tool
