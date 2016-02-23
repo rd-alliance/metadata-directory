@@ -1,7 +1,7 @@
 name: Metadata
 author: RDA
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rogue
 baseurl: /metadata-directory
 description: RDA | Metadata Directory
 github: http://www.github.com/rd-alliance/metadata-directory
