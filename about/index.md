@@ -1,6 +1,5 @@
 ---
 slug: index
-#layout: post
 layout: about
 title:  "Getting Started"
 date:   2014-08-03 19:55:16
