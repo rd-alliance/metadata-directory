@@ -162,25 +162,6 @@ p
     padding-top: 10px;
   }
 
-.brand
-{
-  font-weight:800;
-  color:#6c7077;
-  font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
-  font-size:1.4em;
-  text-shadow:1px 1px #fff
-}
-
-.brand:hover
-{
-  color:#d90006;
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition:.5s
-}
-
 .sidebar-nav > .sidebar-brand a
 {
   color:#999
@@ -190,6 +171,25 @@ p
 {
   color:#fff;
   background:none
+}
+
+.sidebar-nav > .sidebar-brand .brand a
+{
+  font-weight:800;
+  color:#6c7077;
+  font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
+  font-size: 28px;
+  text-shadow:1px 1px #fff
+}
+
+.sidebar-nav > .sidebar-brand .brand a:hover
+{
+  color:#d90006;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s
 }
 
 .content-header
