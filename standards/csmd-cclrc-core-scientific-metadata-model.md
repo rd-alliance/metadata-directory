@@ -7,7 +7,7 @@ description: <p>A study-data oriented model, primarily in support of the ICAT da
   also designed to be generic across scientific disciplines.</p><p>Sponsored by the
   Science and Technologies Facilities Council, there is reference to CSMD 3.0 development
   in 2010; however, the latest full specification available is v 2.0, from 2004.</p>
-website: http://code.google.com/p/icatproject/wiki/CSMD
+website: http://icatproject-contrib.github.io/CSMD/
 subjects:
 - engineering
 - physical-sciences-and-mathematics
@@ -16,7 +16,6 @@ disciplines:
 - biochemistry
 - chemistry
 - crystallography
-specification_url: http://code.google.com/p/icatproject/wiki/CSMDSpecification
 layout: standard
 type: standard
 ---
