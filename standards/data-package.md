@@ -5,7 +5,7 @@ subjects:
   - general
 disciplines:
   - multi-disciplinary
-specification_url: http://dataprotocols.org/data-packages/
+specification_url: http://specs.frictionlessdata.io/data-packages/
 # status: approval status if any
 website: http://frictionlessdata.io/data-packages/
 related_vocabularies:
