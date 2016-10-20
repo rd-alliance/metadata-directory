@@ -220,6 +220,11 @@ ul,ol
   font-weight:lighter
 }
 
+dd
+{
+  padding-left:20px;
+}
+
 pre
 {
   background:#f5f5f8
