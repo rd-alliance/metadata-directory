@@ -10,7 +10,7 @@ disciplines:
 - multi-disciplinary
 standards:
 - dcat-data-catalog-vocabulary
-- dublin-core.md
+- dublin-core
 - fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge
 - iso-19115
 # The following are constants: do not modify
