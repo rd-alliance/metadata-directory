@@ -8,7 +8,7 @@ subjects:
 - life-sciences
 disciplines:
 - genetics
-- biology-0
+- biology
 standards:
 - observ-om
 layout: tool

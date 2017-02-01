@@ -11,7 +11,7 @@ website: http://www.molgenis.org/wiki/ObservStart
 subjects:
 - life-sciences
 disciplines:
-- biology-0
+- biology
 layout: standard
 type: standard
 ---
