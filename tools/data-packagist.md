@@ -2,7 +2,7 @@
 title: Data Packagist
 slug: data-packagist
 website: http://datapackagist.okfnlabs.org/
-description: |
+description: >
   <p>The Data Packagist is a Web-based tool for writing a Data Package
   descriptor file (datapackage.json).</p>
 subjects:

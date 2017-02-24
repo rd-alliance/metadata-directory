@@ -1,5 +1,5 @@
 ---
-title: ANZ-MEST - Metadata Entry and Search Tool
+title: ANZ-MEST (Metadata Entry and Search Tool)
 slug: anz-mest-metadata-entry-and-search-tool
 description: '<p>A GeoNetwork web application for metadata management and searching,
   with profiles available for two extensions of <a href="../standards/iso-19115.html">ISO

@@ -1,5 +1,5 @@
 ---
-title: BAV - Biblioteca Apoltolica Vaticana
+title: BAV (Biblioteca Apoltolica Vaticana)
 slug: bav-biblioteca-apoltolica-vaticana
 description: <p>The <a href="http://www.vaticanlibrary.va">Vatican Library</a> uses
   FITS as the digital image format for the digitization of its manuscript collection.</p>

@@ -1,5 +1,5 @@
 ---
-title: CERIF - Common European Research Information Format
+title: CERIF (Common European Research Information Format)
 slug: cerif
 subjects:
   # One or more of the following:

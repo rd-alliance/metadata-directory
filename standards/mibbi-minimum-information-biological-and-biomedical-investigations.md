@@ -1,5 +1,5 @@
 ---
-title: MIBBI - Minimum Information for Biological and Biomedical Investigations
+title: MIBBI (Minimum Information for Biological and Biomedical Investigations)
 slug: mibbi-minimum-information-biological-and-biomedical-investigations
 description: <p>A common portal to a group of nearly 40 checklists of Minimum Information
   for various biological disciplines. The MIBBI Foundry is developing a cross-analysis

@@ -1,5 +1,5 @@
 ---
-title: GBIF - Global Biodiversity Information Facility
+title: GBIF (Global Biodiversity Information Facility)
 slug: gbif-global-biodiversity-information-facility
 description: <p>Established by a global network of countries and organizations, GBIF
   is a web portal promoting and facilitating the mobilization, access, discovery and

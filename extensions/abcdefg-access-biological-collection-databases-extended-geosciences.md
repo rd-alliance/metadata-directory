@@ -1,5 +1,5 @@
 ---
-title: ABCDEFG - Access to Biological Collection Databases Extended for Geosciences
+title: ABCDEFG (Access to Biological Collection Databases Extended for Geosciences)
 slug: abcdefg-access-biological-collection-databases-extended-geosciences
 description: <p>An extension of the <a href="../standards/abcd-access-biological-collection-data.html">ABCD</a>
   standard for Geosciences data.</p>

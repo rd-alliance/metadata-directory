@@ -1,5 +1,6 @@
 ---
-title: PDBx/mmCIF - Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework 
+title: PDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular
+  Crystallographic Information Framework)
 slug: pdbx-mmcif
 subjects:
  - life-sciences
@@ -20,8 +21,9 @@ sponsors:
     url: http://www.wwpdb.org/
 contact: wwPDB (Worldwide Protein Data Bank)
 contact_email: pdbx-mmcif-help@mail.wwpdb.org
-description: |
-    Protein Data Bank archive (PDB) is the single worldwide archival repository 
+version: 4.051
+description: >
+    <p>Protein Data Bank archive (PDB) is the single worldwide archival repository 
     of information about the 3D structures of proteins, nucleic acids, and complex 
     assemblies, managed by the Worldwide PDB (wwPDB). The PDB Exchange Dictionary 
     (PDBx) is used by the wwPDB to define data content for deposition, annotation 
@@ -31,7 +33,7 @@ description: |
     Crystallography (IUCr). PDBx has been extended by the wwPDB to include 
     descriptions of other experimental methods that produce 3D macromolecular 
     structure models such as Nuclear Magnetic Resonance Spectroscopy, 3D Electron 
-    Microscopy and Tomography.
+    Microscopy and Tomography.</p>
 # The following are constants: do not modify
 layout: standard
 type: standard

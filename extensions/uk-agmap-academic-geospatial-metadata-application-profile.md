@@ -1,5 +1,5 @@
 ---
-title: UK AGMAP - Academic Geospatial Metadata Application Profile
+title: UK AGMAP (Academic Geospatial Metadata Application Profile)
 slug: uk-agmap-academic-geospatial-metadata-application-profile
 description: <p>A profile of <a href="../standards/iso-19115.html">ISO
   19115</a> designed to support the documentation and discovery of spatial datasets,

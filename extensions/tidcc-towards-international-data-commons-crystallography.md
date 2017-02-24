@@ -1,5 +1,5 @@
 ---
-title: TIDCC - Towards an International Data Commons for Crystallography
+title: TIDCC (Towards an International Data Commons for Crystallography)
 slug: tidcc-towards-international-data-commons-crystallography
 description: <p>A profile of the <a href="../standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD</a>
   model for Australian crystallographic data.</p>

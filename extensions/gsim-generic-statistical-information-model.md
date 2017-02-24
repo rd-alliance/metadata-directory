@@ -1,5 +1,5 @@
 ---
-title: GSIM - Generic Statistical Information Model
+title: GSIM (Generic Statistical Information Model)
 slug: gsim-generic-statistical-information-model
 description: <p>A reference framework that provides a common terminology acroos and
   between statistical organisations; aligns with DDI and SDMX.</p>

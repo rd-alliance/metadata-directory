@@ -1,7 +1,7 @@
 ---
 title: INSPIRE Metadata Regulation
 slug: inspire-metadata-regulation
-description: |
+description: >
   <p>A profile of <a href="../standards/iso-19115.html">ISO 19115</a>:2003,
   adopted in 2007 as the common metadata standard for the Infrastructure for
   Spatial Information in the European Community (INSPIRE). The other profiles

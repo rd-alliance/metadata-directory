@@ -1,5 +1,5 @@
 ---
-title: UKDA - UK Data Archive
+title: UKDA (UK Data Archive)
 slug: ukda-uk-data-archive
 description: <p>Curator of the largest collection of digital data in the social sciences
   and humanities in the United Kingdom, the archive uses DDI as the basis for its

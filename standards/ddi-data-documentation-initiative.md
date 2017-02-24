@@ -1,7 +1,7 @@
 ---
-title: DDI - Data Documentation Initiative
+title: DDI (Data Documentation Initiative)
 slug: ddi-data-documentation-initiative
-description: |
+description: >
   <p>A widely used, international standard for describing data from the
   social, behavioral, and economic sciences. Two versions of the standard
   are currently maintained in parallel:</p><ul><li>DDI Codebook (or DDI

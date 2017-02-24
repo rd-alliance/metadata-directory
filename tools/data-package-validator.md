@@ -2,7 +2,7 @@
 title: Data Package Validator
 slug: data-package-validator
 website: http://data.okfn.org/tools/validate
-description: |
+description: >
   <p>The Data Package Validator takes the URL of a Data Package and checks
   whether it conforms to the Data Package specification.</p>
 subjects:

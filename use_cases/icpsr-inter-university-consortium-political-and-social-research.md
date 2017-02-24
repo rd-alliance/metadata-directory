@@ -1,5 +1,5 @@
 ---
-title: ICPSR - Inter-university Consortium for Political and Social Research
+title: ICPSR (Inter-university Consortium for Political and Social Research)
 slug: icpsr-inter-university-consortium-political-and-social-research
 description: <p>A data archive providing leadership and training in data access, curation,
   and methods of analysis for the social science research community; all metadata

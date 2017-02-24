@@ -1,5 +1,5 @@
 ---
-title: KNB - The Knowledge Network for Biocomplexity
+title: KNB (The Knowledge Network for Biocomplexity)
 slug: knb-knowledge-network-biocomplexity
 description: <p>A network of federated institutions that have agreed to share data
   and metadata using a common framework, principally revolving around the use of the

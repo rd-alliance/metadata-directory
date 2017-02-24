@@ -1,5 +1,5 @@
 ---
-title: JAXA - Japan Aerospace Exploration Agency
+title: JAXA (Japan Aerospace Exploration Agency)
 slug: jaxa-japan-aerospace-exploration-agency
 description: <p>Japan's independent administrative institution that handles research
   and development in space and aviation areas.</p>

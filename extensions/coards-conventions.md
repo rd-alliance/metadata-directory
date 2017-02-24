@@ -2,7 +2,7 @@
 title: COARDS Conventions
 slug: coards-conventions
 website: http://ferret.wrc.noaa.gov/noaa_coop/coop_cdf_profile.html
-description: |
+description: >
   <p>Developed by the Cooperative Ocean-Atmosphere Research Data Service (COARDS),
   these conventions constitute a standard set of metadata to include in netCDF
   files, allowing them to be shared and interchanged.</p><p>The COARDS

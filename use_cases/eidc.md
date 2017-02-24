@@ -2,7 +2,7 @@
 title: Environmental Information Data Centre (EIDC)
 slug: eidc
 website: http://eidc.ceh.ac.uk/
-description: |
+description: >
   <p>The Environmental Information Data Centre (EIDC) is a Natural Environment Research Council Data Centre hosted by the Centre for Ecology &amp; Hydrology (CEH). It manages nationally-important datasets concerned with the terrestrial and freshwater sciences.</p>
 subjects:
   - life-sciences

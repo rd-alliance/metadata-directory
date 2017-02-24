@@ -1,5 +1,5 @@
 ---
-title: ESA - European Space Agency
+title: ESA (European Space Agency)
 slug: esa-european-space-agency
 description: <p>ESA is an international organisation with 20 Member States that coordinates
   the financial and intellectual resources of it's members to facilitate space related

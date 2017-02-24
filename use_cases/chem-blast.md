@@ -2,7 +2,7 @@
 title: Chem-BLAST
 slug: chem-blast
 website: http://xpdb.nist.gov/chemblast/pdb.pl
-description: |
+description: >
   A Web-based service for searching for and visualizing chemical structures.
   It uses data from the Protein Data Bank that has been transformed to RDF.
 subjects:

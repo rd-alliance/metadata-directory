@@ -16,7 +16,7 @@ sponsors:
     url: http://okfn.org/
 standard_update_date: 2016-03-23
 version: 1.0.0-beta.17
-description: |
+description: >
   <p>The Data Package specification is a generic wrapper format for exchanging
   data. Although it supports arbitrary metadata, the format defines required,
   recommended, and optional fields for both the package as a whole and the

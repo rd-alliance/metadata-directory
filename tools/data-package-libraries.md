@@ -2,7 +2,7 @@
 title: Data Package libraries
 slug: data-package-libraries
 website: http://frictionlessdata.io/tools/
-description: |
+description: >
   <p>A collection of libraries for working with Data Packages in various
   programming languages, and scripts for importing them into databases.</p>
 subjects:

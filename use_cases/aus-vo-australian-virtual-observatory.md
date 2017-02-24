@@ -1,5 +1,5 @@
 ---
-title: Aus-VO - Australian Virtual Observatory
+title: Aus-VO (Australian Virtual Observatory)
 slug: aus-vo-australian-virtual-observatory
 description: <p>An initiative to provide a distributed, uniform interface to the data
   archives of Australia's major astronomical observatories, and to archives of astrophysical

@@ -1,5 +1,5 @@
 ---
-title: SDAC - Standard for Documentation of Astronomical Catalogues
+title: SDAC (Standard for Documentation of Astronomical Catalogues)
 slug: sdac
 subjects:
   # One or more of the following:

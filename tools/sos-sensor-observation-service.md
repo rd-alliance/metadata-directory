@@ -1,5 +1,5 @@
 ---
-title: SOS - Sensor Observation Service
+title: SOS (Sensor Observation Service)
 slug: sos-sensor-observation-service
 description: <p>This tool uses the Observations and Measurements standard to define
   a Web service interface which allows querying observations, sensor metadata, as

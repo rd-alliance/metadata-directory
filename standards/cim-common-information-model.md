@@ -1,5 +1,5 @@
 ---
-title: CIM - Common Information Model
+title: CIM (Common Information Model)
 slug: cim-common-information-model
 description: >
   <p>The Common Information Model (<a href="https://earthsystemcog.org/projects/es-doc-models/cim">CIM</a>)

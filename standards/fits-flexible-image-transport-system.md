@@ -1,5 +1,5 @@
 ---
-title: 'FITS - Flexible Image Transport System '
+title: FITS (Flexible Image Transport System)
 slug: fits-flexible-image-transport-system
 description: <p><a href="http://fits.gsfc.nasa.gov/fits_home.html">FITS</a> is an
   image data file format for encoding astronomical data. The WCS (World Coordinate

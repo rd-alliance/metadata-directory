@@ -1,5 +1,5 @@
 ---
-title: IVOA - International Virtual Observatory Alliance
+title: IVOA (International Virtual Observatory Alliance)
 slug: ivoa-international-virtual-observatory-alliance
 description: <p>The International Virtual Observatory Alliance (IVOA) is an organisation
   that debates and agrees to technical standards that are needed to make the Virtual

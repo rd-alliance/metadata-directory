@@ -1,5 +1,5 @@
 ---
-title: SDMX - Statistical Data and Metadata Exchange
+title: SDMX (Statistical Data and Metadata Exchange)
 slug: sdmx-statistical-data-and-metadata-exchange
 description: <p>A set of common technical and statistical standards and guidelines
   to be used for the efficient exchange and sharing of statistical data and metadata.</p><p>Sponsoring

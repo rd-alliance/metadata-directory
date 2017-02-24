@@ -1,5 +1,5 @@
 ---
-title: CSMD-CCLRC Core Scientific Metadata Model
+title: CSMD (Core Scientific Metadata Model)
 slug: csmd-cclrc-core-scientific-metadata-model
 description: >
   <p>A study-data oriented model, primarily in support of the ICAT data

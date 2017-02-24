@@ -1,5 +1,5 @@
 ---
-title: BADC - British Atmospheric Data Centre
+title: BADC (British Atmospheric Data Centre)
 slug: badc-british-atmospheric-data-centre
 description: <p>The Natural Environment Research Council's (NERC) Designated Data
   Centre for the Atmospheric Sciences. It uses the <a href="../standards/cf-climate-and-forecast-metadata-conventions.html">CF</a>-Compliant

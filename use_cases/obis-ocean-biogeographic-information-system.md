@@ -1,5 +1,5 @@
 ---
-title: OBIS - Ocean Biogeographic Information System
+title: OBIS (Ocean Biogeographic Information System)
 slug: obis-ocean-biogeographic-information-system
 description: <p>A data repository for marine species datasets from all of the world's
   oceans; it uses an extension of <a href="../standards/darwin-core.html">Darwin

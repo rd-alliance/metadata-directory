@@ -1,5 +1,5 @@
 ---
-title: BODC - British Oceanographic Data Centre Published Data Library
+title: BODC (British Oceanographic Data Centre Published Data Library)
 slug: bodc-british-oceanographic-data-centre-published-data-library
 description: <p>This national facility for looking after and distributing data concerning
   the marine environment requires that data sets use a well-documented format such

@@ -1,5 +1,5 @@
 ---
-title: GeoCASe - Geosciences Collection Access Service
+title: GeoCASe (Geosciences Collection Access Service)
 slug: geocase-geosciences-collection-access-service
 description: <p>The GeoCASe Network provides access to a transnational network of
   palaeontological, mineralogical, and geological data; providers are required to

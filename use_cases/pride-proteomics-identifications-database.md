@@ -1,5 +1,5 @@
 ---
-title: PRIDE - PRoteomics IDEntifications database
+title: PRIDE (Proteomics Identifications Database)
 slug: pride-proteomics-identifications-database
 description: <p>A centralized, <a href="../standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI</a>
   standards compliant, public data repository for proteomics data, post-translational

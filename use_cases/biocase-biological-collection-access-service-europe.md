@@ -1,5 +1,5 @@
 ---
-title: BioCASE - Biological Collection Access Service for Europe
+title: BioCASE (Biological Collection Access Service for Europe)
 slug: biocase-biological-collection-access-service-europe
 description: <p>The BioCASE Biological Unit Network provides access to a transnational
   network of biological collections; its protocol requires providers to use the <a

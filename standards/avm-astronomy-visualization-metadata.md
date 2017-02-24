@@ -1,7 +1,7 @@
 ---
-title: AVM - Astronomy Visualization Metadata
+title: AVM (Astronomy Visualization Metadata)
 slug: avm-astronomy-visualization-metadata
-description: <p>The&#160;<a href="http://www.virtualastronomy.org/avm_metadata.php">AVM</a>&#160;scheme
+description: <p>The <a href="http://www.virtualastronomy.org/avm_metadata.php">AVM</a> scheme
   supports the cross-searching of collections of print-ready and screen-ready astronomical
   imagery rendered from telescopic observations (also known as &#8216;pretty pictures&#8217;).
   The scheme is compatible with the <a href="http://www.adobe.com/products/xmp/">Adobe

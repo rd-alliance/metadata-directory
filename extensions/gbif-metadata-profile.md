@@ -2,7 +2,7 @@
 title: GBIF Metadata Profile
 slug: gbif-metadata-profile
 website: http://rs.gbif.org/schema/eml-gbif-profile/
-description: |
+description: >
   <p>Established by a global network of countries and organizations, GBIF is a
   web portal promoting and facilitating the mobilization, access, discovery and
   use of biodiversity data. The portal uses a profile of

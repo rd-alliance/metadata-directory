@@ -1,5 +1,5 @@
 ---
-title: PIMMS - Portable Infrastructure for the Metafor Metadata System
+title: PIMMS (Portable Infrastructure for the Metafor Metadata System)
 slug: pimms-portable-infrastructure-metafor-metadata-system
 description: <p>A methodology and toolset for documenting climatology simulation experiments
   using the <a href="../standards/cim-common-information-model.html">Metafor

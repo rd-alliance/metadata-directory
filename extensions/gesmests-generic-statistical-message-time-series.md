@@ -1,5 +1,5 @@
 ---
-title: GESMES/TS - GEneric Statistical MESsage for Time Series
+title: GESMES/TS (Generic Statistical Message for Time Series)
 slug: gesmests-generic-statistical-message-time-series
 description: <p>An extension of SDMX used to exchange statistical data and metadata.</p>
 website: http://www.ecb.int/stats/services/sdmx/html/index.en.html

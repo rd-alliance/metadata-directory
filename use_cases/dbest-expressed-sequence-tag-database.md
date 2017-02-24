@@ -1,5 +1,5 @@
 ---
-title: dbEST - Expressed Sequence Tag Database
+title: dbEST (Expressed Sequence Tag Database)
 slug: dbest-expressed-sequence-tag-database
 description: <p>A <a href="../standards/repository-developed-metadata-schemas.html">repository-developed</a>
   metadata schema for EST data in Genbank.</p>
