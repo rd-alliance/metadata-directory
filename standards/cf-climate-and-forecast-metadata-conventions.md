@@ -20,9 +20,6 @@ specification_url: http://cfconventions.org/documents.html
 related_vocabularies:
 - name: CF Standard Name Table
   url: http://cfconventions.org/standard-names.html
-mappings:
-- name: COARDS Conventions
-  url: http://ferret.wrc.noaa.gov/noaa_coop/coop_cdf_profile.html
 layout: standard
 type: standard
 
