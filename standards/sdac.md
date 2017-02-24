@@ -15,11 +15,11 @@ related_vocabularies:
   - name: Astrophysics Data System Keywords
     url: http://cds.u-strasbg.fr/doc/ADCkwds.htx
 sponsors:
-  - name: Centre de Données astronomiques de Strasbourg (CDS)
+  - name: CDS (Centre de Données astronomiques de Strasbourg)
     url: http://cdsweb.u-strasbg.fr/
 standard_update_date: 2000-02
 version: 2.0
-description: |
+description: >
   <p>The Standard for Documentation of Astronomical Catalogues is a set of
   conventions for archiving astronomical data. As well as path, filename and
   data format conventions, it also specifies how to construct a plain text

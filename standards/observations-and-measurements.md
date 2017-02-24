@@ -17,9 +17,6 @@ disciplines:
 - meteorology
 - remote-sensing
 specification_url: http://portal.opengeospatial.org/files/?artifact_id=41579
-mappings:
-- name: XML Implementation
-  url: http://portal.opengeospatial.org/files/?artifact_id=41510
 sponsors:
 - name: Open Geospatial Consortium
   url: None

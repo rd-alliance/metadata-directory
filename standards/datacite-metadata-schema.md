@@ -15,11 +15,11 @@ specification_url: http://schema.datacite.org/meta/kernel-3/index.html
 mappings:
 - name: Dublin Core
   url: http://schema.datacite.org/meta/kernel-2.1/doc/DataCite-MetadataKernel_v2.1.pdf
-- name: IDF Metadata Kernel
+- name: IDF (International DOI Foundation) Metadata Kernel
   url: http://schema.datacite.org/meta/kernel-2.1/doc/DataCite-MetadataKernel_v2.1.pdf
-- name: OECD
+- name: OECD Dataset Metadata
   url: http://schema.datacite.org/meta/kernel-2.1/doc/DataCite-MetadataKernel_v2.1.pdf
-- name: DDI
+- name: DDI (Data Documentation Initiative)
   url: http://schema.datacite.org/meta/kernel-2.1/doc/DataCite-MetadataKernel_v2.1.pdf
 layout: standard
 type: standard

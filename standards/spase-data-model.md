@@ -22,7 +22,7 @@ related_vocabularies:
 - name: SPASE Dictionary
   url: http://www.spase-group.org/data/dictionary/
 mappings:
-- name: OAI
+- name: Dublin Core
   url: http://www.spase-group.org/tools/stylesheet/oai/
 layout: standard
 type: standard

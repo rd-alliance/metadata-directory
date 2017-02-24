@@ -13,8 +13,8 @@ subjects:
 disciplines:
 - statistics
 sponsors:
-- name: http://www.w3.org
-  url: http://www.w3.org
+- name: W3C (World Wide Web Consortium)
+  url: http://www.w3.org/
 - name: Government Linked Data Working Group
   url: http://www.w3.org/2011/gld/
 layout: standard

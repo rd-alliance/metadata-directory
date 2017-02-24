@@ -1,7 +1,7 @@
 ---
 title: ISA-Tab
 slug: isa-tab
-description: <p>The Investigation/Study/Assay (ISA)&#160;tab-delimited (TAB) format
+description: <p>The Investigation/Study/Assay (ISA) tab-delimited (TAB) format
   is a general purpose framework with which to collect and communicate complex metadata
   (i.e. sample characteristics, technologies used, type of measurements made) from
   'omics-based' experiments employing a combination of technologies.</p><p>Created
@@ -23,8 +23,8 @@ disciplines:
 - bioengineering
 specification_url: http://isatab.sourceforge.net/docs/ISA-TAB_release-candidate-1_v1.0_24nov08.pdf
 mappings:
-- name: isatools conversions to MAGE-TAB, OWL, RDF
-  url: http://www.isa-tools.org
+- name: MAGE-TAB
+  url: https://github.com/ISA-tools/MAGEtoISAconverter/
 layout: standard
 type: standard
 ---

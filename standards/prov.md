@@ -14,7 +14,7 @@ disciplines:
 - general
 specification_url: http://www.w3.org/TR/prov-overview/
 sponsors:
-- name: W3C
+- name: W3C (World Wide Web Consortium)
   url: http://www.w3.org/
 layout: standard
 type: standard

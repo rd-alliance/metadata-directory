@@ -1,6 +1,6 @@
 ---
-title: FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital
-  Geospatial Metadata
+title: FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital
+  Geospatial Metadata)
 slug: fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge
 description: <p>A widely-used, but no longer current standard defining the information
   content for a set of digital geospatial data required by the US Federal Government.</p><p>CSDGM
@@ -26,7 +26,7 @@ specification_url: http://www.fgdc.gov/standards/projects/FGDC-standards-project
 mappings:
 - name: ISO 19115
   url: http://www.ncddc.noaa.gov/metadata-standards/metadata-xml/
-- name: DIF
+- name: DIF (Directory Interchange Format)
   url: http://gcmd.nasa.gov/Aboutus/standards/fgdc_to_dif.html
 layout: standard
 type: standard

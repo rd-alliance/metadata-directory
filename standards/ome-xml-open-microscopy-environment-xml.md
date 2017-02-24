@@ -1,5 +1,5 @@
 ---
-title: OME-XML - Open Microscopy Environment XML
+title: OME-XML (Open Microscopy Environment XML)
 slug: ome-xml-open-microscopy-environment-xml
 description: <p><a href="http://www.openmicroscopy.org/Schemas/">OME-XML</a> is a
   vendor-neutral file format for biological image data, with an emphasis on metadata
@@ -18,9 +18,6 @@ disciplines:
 - plant-pathology
 - cell-biology
 specification_url: http://www.openmicroscopy.org/Schemas/
-mappings:
-- name: over 120 file formats
-  url: http://www.openmicroscopy.org/site/support/bio-formats/formats/
 layout: standard
 type: standard
 ---

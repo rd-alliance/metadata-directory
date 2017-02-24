@@ -1,5 +1,5 @@
 ---
-title: QuDEx - Qualitative Data Exchange Format
+title: QuDEx (Qualitative Data Exchange Format)
 slug: qudex-qualitative-data-exchange-format
 description: <p>The QuDEx standard/schema is a software-neutral format for qualitative
   data that preserves annotations of, and relationships between, data and other related
@@ -12,7 +12,7 @@ disciplines:
 - general
 specification_url: http://data-archive.ac.uk/create-manage/projects/qudex?index=1
 sponsors:
-- name: UK Data Archive
+- name: UKDA (UK Data Archive)
   url: http://data-archive.ac.uk/
 layout: standard
 type: standard

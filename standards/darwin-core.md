@@ -30,7 +30,7 @@ related_vocabularies:
 - name: GBIF Vocabularies
   url: http://vocabularies.gbif.org
 mappings:
-- name: ABCD
+- name: ABCD (Access to Biological Collection Data)
   url: http://rs.tdwg.org/dwc/terms/history/dwctoabcd/index.htm
 layout: standard
 type: standard

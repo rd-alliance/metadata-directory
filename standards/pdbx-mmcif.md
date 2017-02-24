@@ -15,16 +15,11 @@ disciplines:
  - bioinformatics
 specification_url: http://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v40.dic/Index/
 website: http://mmcif.wwpdb.org/
-mappings:
-  - name: PDBML/XML 
-    url: http://pdbml.wwpdb.org/
-  - name: RDF
-    url: http://rdf.wwpdb.org/
 sponsors: 
-  - name: Worldwide Protein Data Bank (wwPDB)
+  - name: wwPDB (Worldwide Protein Data Bank)
     url: http://www.wwpdb.org/
+contact: wwPDB (Worldwide Protein Data Bank)
 contact_email: pdbx-mmcif-help@mail.wwpdb.org
-version: Current Version 4.051
 description: |
     Protein Data Bank archive (PDB) is the single worldwide archival repository 
     of information about the 3D structures of proteins, nucleic acids, and complex 
