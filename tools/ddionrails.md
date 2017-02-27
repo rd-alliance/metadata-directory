@@ -1,7 +1,7 @@
 ---
 title: DDI on Rails
 slug: ddionrails
-description: >
+description: >-
   <p>Server-side software for building a data portal, with a particular
   focus on survey datasets. It uses DDI to provide access to the data at
   the level of concepts and variables. For an example of it in use, see

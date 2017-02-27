@@ -2,7 +2,7 @@
 title: Esri Geoportal Server
 slug: Geoportal Server
 website: http://esri.github.io/geoportal-server/
-description: >
+description: >-
   <p>Geoportal Server is a standards-based, open source product that enables discovery and use of geospatial resources including data and services.</p>
 subjects:
   - general

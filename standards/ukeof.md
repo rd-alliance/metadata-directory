@@ -39,7 +39,7 @@ contact: Centre for Ecology & Hydrology
 contact_email: enquiries@ceh.ac.uk
 standard_update_date: 2014-03-31
 version: 1.0
-description: >
+description: >-
   <p>A metadata standard for describing environmental monitoring activities, programmes, networks and facilities published by the UK Environmental Observation Framework (UKEOF).</p>
 # The following are constants: do not modify
 layout: standard

@@ -17,7 +17,7 @@ contact: PREMIS Implementors' Group
 contact_email: pig@loc.gov
 standard_update_date: 2015-06-10
 version: 3.0
-description: >
+description: >-
   <p>The PREMIS (Preservation Metadata: Implementation Strategies) Data
   Dictionary defines a set of metadata that most repositories of digital objects
   would need to record and use in order to preserve those objects over the long

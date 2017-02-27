@@ -2,7 +2,7 @@
 title: Data Package Viewer
 slug: data-package-viewer
 website: http://data.okfn.org/tools/view
-description: >
+description: >-
   <p>The Data Package Viewer takes the URL of a Data Package and provides a
   human-friendly view of it.</p>
 subjects:

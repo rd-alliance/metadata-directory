@@ -2,7 +2,7 @@
 title: Symplectic Elements
 slug: symplectic-elements
 website: http://symplectic.co.uk/products/elements/
-description: >
+description: >-
   <p>Current research information system implementing the CERIF standard.</p>
 subjects:
   # One or more of the following:

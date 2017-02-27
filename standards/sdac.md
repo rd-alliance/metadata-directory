@@ -19,7 +19,7 @@ sponsors:
     url: http://cdsweb.u-strasbg.fr/
 standard_update_date: 2000-02
 version: 2.0
-description: >
+description: >-
   <p>The Standard for Documentation of Astronomical Catalogues is a set of
   conventions for archiving astronomical data. As well as path, filename and
   data format conventions, it also specifies how to construct a plain text

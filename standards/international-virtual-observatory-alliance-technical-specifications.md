@@ -1,7 +1,7 @@
 ---
 title: International Virtual Observatory Alliance Technical Specifications
 slug: international-virtual-observatory-alliance-technical-specifications
-description: >
+description: >-
   <p>The technical specifications defined by the IVOA (International Virtual
   Observatory Alliance) enable interoperability between and the integration of
   astronomical archives across the world into an international virtual

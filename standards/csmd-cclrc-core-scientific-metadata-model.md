@@ -1,7 +1,7 @@
 ---
 title: CSMD (Core Scientific Metadata Model)
 slug: csmd-cclrc-core-scientific-metadata-model
-description: >
+description: >-
   <p>A study-data oriented model, primarily in support of the ICAT data
   managment infrastructure software. The CSMD is designed to support data collected
   within a large-scale facility&#8217;s scientific workflow; however the model is

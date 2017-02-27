@@ -2,7 +2,7 @@
 title: SDAC Tools
 slug: sdac-tools
 website: http://cds.u-strasbg.fr/doc/catstd.htx
-description: >
+description: >-
   <p>A set of four tools for working with SDAC-compliant archives:
   <tt>acut</tt> can be used to edit text files in a columnar fashion;
   <tt>trcol</tt> removes or transforms columns from a text file;

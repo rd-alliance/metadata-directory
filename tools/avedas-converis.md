@@ -2,7 +2,7 @@
 title: Converis
 slug: avedas-converis
 website: http://converis.thomsonreuters.com/
-description: >
+description: >-
   <p>Current research information system implementing the CERIF standard.
   Originally developed by Avedas but now a product of Thomson Reuters.</p>
 subjects:

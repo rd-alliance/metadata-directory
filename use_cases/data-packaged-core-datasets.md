@@ -2,7 +2,7 @@
 title: Data Packaged Core Datasets
 slug: data-packaged-core-datasets
 website: https://github.com/datasets
-description: >
+description: >-
   <p>A collection of commonly used and example data sets packaged using the
   Data Package specification.</p>
 subjects:
