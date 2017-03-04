@@ -13,8 +13,8 @@ subjects:
 disciplines:
 - multi-disciplinary
 standards:
-- dublin-core
-- datacite metadata schema
+- Dublin Core
+- DataCite metadata schema
 - CERIF
 layout: extension
 type: extension
