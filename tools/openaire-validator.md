@@ -9,9 +9,9 @@ subjects:
 disciplines:
 - multi-disciplinary
 standards:
-- Dublin Core
-- DataCite Metadata Schema
-- CERIF
+- dublin-core
+- datacite-metadata-schema
+- cerif
 layout: tool
 type: tool
 ---
