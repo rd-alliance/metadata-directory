@@ -12,7 +12,7 @@ disciplines:
 - multi-disciplinary
 standards:
 - Dublin Core
-- DdataCite metadata schema
+- DataCite metadata schema
 - CERIF
 layout: use_case
 type: use_case
