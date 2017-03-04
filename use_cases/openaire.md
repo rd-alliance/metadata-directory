@@ -11,9 +11,9 @@ subjects:
 disciplines:
 - multi-disciplinary
 standards:
-- Dublin Core
-- DataCite metadata schema
-- CERIF
+- dublin-core
+- datacite-metadata-schema
+- cerif
 layout: use_case
 type: use_case
 ---
