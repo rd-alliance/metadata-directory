@@ -4,11 +4,8 @@ slug: ead
 subjects:
   - arts-and-humanities
 disciplines:
-  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
-  # See the subjects folder for terms already in use. Examples:
-  - materials-science
-  - creative-art-and-design
-  - health-policy
+  # From https://www.hesa.ac.uk/support/documentation/jacs/jacs3-principal:
+  - (G) Historical & philosophical studies
 specification_url: https://www.loc.gov/ead/ead3schema.html
 website: https://www.loc.gov/ead/
 sponsors:
