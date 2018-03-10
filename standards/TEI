@@ -1,0 +1,32 @@
+
+
+---
+title: TEI - Text Encoding Initiative
+slug: file-name-without-extension
+subjects:
+  - arts-and-humanities
+disciplines:
+  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
+  # See the subjects folder for terms already in use. Examples:
+  - materials-science
+  - creative-art-and-design
+  - health-policy
+specification_url: http://www.tei-c.org/Guidelines/P5/
+website: http://www.tei-c.org/Guidelines/P5/
+sponsors:
+  - name: Text Encoding Initiative
+    url: http://tei-c.org
+contact: TEI-C Council http://www.tei-c.org/Activities/Council/index.xml
+contact_email: Email address for this contact
+standard_update_date: 2018-01-31
+version: 3.3.0.
+description: |
+  <p>A few sentences describing the standard and for what it is meant to be
+  used. Use HTML tags to format the text if needed. You can optionally
+  include who developed and maintains the standard, and when it was last
+  revised, if the above fields need to be clarified.</p>
+# The following are constants: do not modify
+layout: standard
+type: standard
+---
+
