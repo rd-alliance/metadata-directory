@@ -1,9 +1,9 @@
 ---
 slug: index
 layout: about
+type: index
 title:  "Getting Started"
 date:   2014-08-03 19:55:16
-categories: jekyll update
 ---
 
 ## Structure of the Directory
