@@ -97,8 +97,8 @@ GEM
     minitest (5.8.4)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.6.7.2)
-      mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.8.1)
+      mini_portile2 (~> 2.3.0)
     octokit (4.2.0)
       sawyer (~> 0.6.0, >= 0.5.3)
     public_suffix (1.5.3)
@@ -125,6 +125,3 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-
-BUNDLED WITH
-   1.11.2
