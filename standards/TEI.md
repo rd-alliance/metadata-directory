@@ -1,6 +1,6 @@
 ---
 title: TEI - Text Encoding Initiative
-slug: file-name-without-extension
+slug: TEI-Text-Encoding-Initiative
 subjects:
   - arts-and-humanities
 disciplines:
