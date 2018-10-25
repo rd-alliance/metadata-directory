@@ -1,6 +1,6 @@
 ---
 title: UK Polar Data Centre
-slug: uk-pdc
+slug: uk-polar-data-centre
 description: <p>An organisation coordinating the management of data collected by UK-funded
   scientists in the polar regions, using an application profile that is harmonious
   with both <a href="../standards/iso-19115.html">ISO
