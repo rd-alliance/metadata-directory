@@ -11,4 +11,4 @@ linkedin: http://www.linkedin.com/profile/view?id=272003890&trk=nav_responsive_t
 email: mscwg@rda-groups.org
 repourl: https://github.com/rd-alliance/metadata-directory
 repobranch: gh-pages
-
+exclude: [vendor]

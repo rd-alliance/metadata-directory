@@ -37,3 +37,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Bundle
+vendor
+/.bundle/config
