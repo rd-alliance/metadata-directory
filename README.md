@@ -1,5 +1,13 @@
 ## Using the Metadata Standards Directory
 
+Please the Metadata Standards Directory Working Group was succeeded by the
+Metadata Standards Catalog Working Group, and this Directory has been superseded
+by the [Metadata Standards Catalog], with source code available from its
+[development repository].
+
+[Metadata Standards Catalog]: https://rdamsc.bath.ac.uk/
+[development repository]: https://github.com/rd-alliance/metadata-catalog-dev
+
 This is the source code repository for the
 [prototype metadata directory](http://rd-alliance.github.io/metadata-directory/)
 set up by the Metadata Standards Directory Working Group of the Research Data Alliance.
@@ -24,11 +32,11 @@ this:
  1. If you have not done so already,
     [set up a GitHub account](https://github.com/join).
 
- 2. Fork this repository using the button at the top right. It looks like this:  
+ 2. Fork this repository using the button at the top right. It looks like this:\
     ![Fork button](images/fork-button.png)
 
  3. In your forked copy, navigate to the 'standards' directory. To add a file,
-    use the plus sign that appears after the path at the top of the page:  
+    use the plus sign that appears after the path at the top of the page:\
     ![Adding a file](images/add-button.png)
 
  4. Give your file a sensible file name (lowercase, hyphens instead of spaces,
@@ -43,7 +51,7 @@ this:
 
  5. Commit the new file with a message like "Add *(standard name)*".
 
- 6. Press the pull request button when it appears:  
+ 6. Press the pull request button when it appears:\
     ![Button to create pull request](images/pull-request.png)
 
  7. You might be asked to provide a title and description for your pull request.
