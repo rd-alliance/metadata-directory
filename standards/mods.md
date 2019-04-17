@@ -30,10 +30,7 @@ contact_email: ndmso@loc.gov
 standard_update_date: 2018-01-04
 version: 3.7
 description: |
-  <p>A few sentences describing the standard and for what it is meant to be
-  used. Use HTML tags to format the text if needed. You can optionally
-  include who developed and maintains the standard, and when it was last
-  revised, if the above fields need to be clarified.</p>
+  <p>The Library of Congress' Network Development and MARC Standards Office, with interested experts, developed the Metadata Object Description Schema (MODS) in 2002 for a bibliographic element set that may be used for a variety of purposes, and particularly for library applications. As an XML schema it is intended to be able to carry selected data from existing MARC 21 records as well as to enable the creation of original resource description records. It includes a subset of MARC fields and uses language-based tags rather than numeric ones, in some cases regrouping elements from the MARC 21 bibliographic format.</p>
 # The following are constants: do not modify
 layout: standard
 type: standard
