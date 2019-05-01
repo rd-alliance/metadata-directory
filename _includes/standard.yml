@@ -10,7 +10,7 @@ subjects:
   - physical-sciences-and-mathematics
   - social-and-behavioral-sciences
 disciplines:
-  # From HESA JACS Codes: http://www.hesa.ac.uk/content/view/1776/649/
+  # From HESA JACS Codes: https://www.hesa.ac.uk/support/documentation/jacs/jacs3-principal
   # See the subjects folder for terms already in use. Examples:
   - materials-science
   - creative-art-and-design
