@@ -30,9 +30,12 @@ contact: ANDS Services
 contact_email: services@ands.org.au
 standard_update_date: 2017-11-23
 version: v1.6.2
-description: 
-<p>The Registry Interchange Format - Collections and Services (RIF-CS) schema was developed as a data interchange format for supporting the electronic exchange of collection and service descriptions.
-It organises information about collections and services into the format required by the Research Data Australia (RDA) Registry.</p>
+description: >-
+  <p>The Registry Interchange Format - Collections and Services (RIF-CS) schema
+  was developed as a data interchange format for supporting the electronic
+  exchange of collection and service descriptions. It organises information
+  about collections and services into the format required by the Research Data
+  Australia (RDA) Registry.</p>
 # The following are constants: do not modify
 layout: standard
 type: standard
