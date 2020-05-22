@@ -2,12 +2,7 @@
 title: Registry Interchange Format - Collections and Services
 slug: RIF-CS
 subjects:
-  - arts-and-humanities
-  - engineering
   - general
-  - life-sciences
-  - physical-sciences-and-mathematics
-  - social-and-behavioral-sciences
 specification_url: http://services.ands.org.au/documentation/rifcs/schemadocs/registryObjects.html
 status: published
 website: http://www.ands.org.au/online-services/rif-cs-schema
@@ -19,7 +14,7 @@ mappings:
     url: http://www.ands.org.au/__data/assets/file/0003/397236/ckan-rifcs.xml
   - name: ISO 19115:2003/ANZLIC v1.2
     url: http://www.ands.org.au/__data/assets/file/0011/397235/anzlic-rifcs.zip
-  - name: ISO 19115:2003/ANZLIC v1.2 Marine Community Profile
+  - name: ISO 19115:2003/Marine Community Profile
     url: http://www.ands.org.au/__data/assets/file/0005/397238/mcp-rifcs.zip
   - name: Dublin Core Qualified
     url: http://www.ands.org.au/__data/assets/file/0004/397237/dublincore-rifcs.zip
