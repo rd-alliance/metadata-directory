@@ -8,7 +8,7 @@ description: <p>A common portal to a group of nearly 40 checklists of Minimum In
   Initiative, the Genomic Standards Consortium and the MGED RSBI Working Groups. The
   latest project to register with MIBBI is the MIABie guidelines for reporting biofilm
   research, as of January 2012.</p>
-website: http://mibbi.sourceforge.net/portal.shtml
+website: https://fairsharing.org/collection/MIBBI
 subjects:
 - engineering
 - life-sciences
