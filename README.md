@@ -7,7 +7,7 @@ by the [Metadata Standards Catalog], with source code available from its
 [development repository].
 
 [Metadata Standards Catalog]: https://rdamsc.bath.ac.uk/
-[development repository]: https://github.com/rd-alliance/metadata-catalog-dev
+[development repository]: https://github.com/rd-alliance/metadata-catalog-v2
 
 This is the source code repository for the
 [prototype metadata directory](http://rd-alliance.github.io/metadata-directory/)
