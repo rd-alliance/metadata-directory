@@ -11,11 +11,20 @@ description: |
   released under an MIT license, and runs on all major platforms (Windows,
   Linux, Mac OS X)</p>
 subjects:
-  # One or more of the following:
-  - engineering
-  - general
+- physical-sciences-and-mathematics
 disciplines:
-- multi-disciplinary
+- cartography
+- marine-science
+- meteorology
+- climatology
+- topography
+- hydrography
+- glaciology
+- oceanography
+- hydrogeology
+- geoscience
+- geography
+- geology
 standards:
 - dif-directory-interchange-format
 - dublin-core

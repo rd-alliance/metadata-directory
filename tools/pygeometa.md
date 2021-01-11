@@ -6,11 +6,20 @@ description: |
   <p>pygeometa is a Python package to generate metadata for geospatial
   datasets</p>
 subjects:
-  # One or more of the following:
-  - engineering
-  - general
+- physical-sciences-and-mathematics
 disciplines:
-- multi-disciplinary
+- cartography
+- marine-science
+- meteorology
+- climatology
+- topography
+- hydrography
+- glaciology
+- oceanography
+- hydrogeology
+- geoscience
+- geography
+- geology
 standards:
 - iso-19115
 # The following are constants: do not modify
