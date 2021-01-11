@@ -5,7 +5,7 @@ description: <p>This service validates OAI-PMH metadata records against the
   <a href="../extensions/openaire-guidelines.html">OpenAIRE Guidelines</a> for
   publication repositories, data archives and current research information
   systems.</p>
-website: https://validator.openaire.eu/
+website: https://www.openaire.eu/validator-registration-guide
 subjects:
 - general
 disciplines:
