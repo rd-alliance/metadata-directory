@@ -1,0 +1,18 @@
+---
+title: ODAM Software Suite
+slug: odam-tools
+description: <p>Experimental data table management software to make research data accessible and available for reuse with minimal effort on the part of the data provider. Designed to manage experimental data tables in an easy way for users, ODAM provides a model for structuring both data and metadata that facilitates data handling and analysis. It also encourages data dissemination according to FAIR principles by making the data interoperable and reusable by both humans and machines, allowing the dataset to be explored and then extracted in whole or in part as needed.</p>
+website: https://inrae.github.io/ODAM/
+subjects:
+- life-sciences
+disciplines:
+- biochemistry
+- molecular-biology
+- metabolic-biochemistry
+- biomaterials
+- bioengineering
+standards:
+- odam-datapackage
+layout: tool
+type: tool
+---
