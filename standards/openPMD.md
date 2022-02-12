@@ -37,7 +37,7 @@ contact_email: axelhuebl@lbl.gov
 standard_update_date: 2018-02-06
 version: 1.1.0
 description: |
-  <p>OpenPMD provides naming and attribute conventions that allow the exchange
+  <p>openPMD provides naming and attribute conventions that allow the exchange
     of particle and mesh based data from scientific simulations and experiments.
     The primary goal is to define a minimal set/kernel of meta information that
     enables the sharing and exchange of data to achieve</p>
@@ -46,7 +46,7 @@ description: |
     <li>a unified open-access description for scientific data (publishing and archiving);</li>
     <li>a unified description for post-processing, visualization and analysis.</li>
   </ul>
-  <p>OpenPMD suits any kind of hierarchical, self-describing data format, such
+  <p>openPMD suits any kind of hierarchical, self-describing data format, such
      as, but not limited to ADIOS1 (BP3), ADIOS2 (BP4), HDF5, JSON, and XML.</p>
 # The following are constants: do not modify
 layout: standard
