@@ -48,11 +48,13 @@
           <li><a href="{{ site.baseurl }}/tools/">View the tools</a></li>
           <li><a href="{{ site.baseurl }}/use_cases/">View the use cases</a></li>
           <li><a href="{{ site.baseurl }}/subjects/">Browse by subject areas</a></li>
+          <!--
           <li><a href="{{ site.baseurl }}/about/">Contribute</a></li>
           <li><a href="{{ site.baseurl }}/standards/add.html">Add standards</a></li>
           <li><a href="{{ site.baseurl }}/extensions/add.html">Add extensions</a></li>
           <li><a href="{{ site.baseurl }}/tools/add.html">Add tools</a></li>
           <li><a href="{{ site.baseurl }}/use_cases/add.html">Add use cases</a></li>
+          -->
         </ul>
       </div><!--/.nav-collapse -->
     </div>
@@ -65,10 +67,12 @@
       </li>
       <hr />
       {% if page.type %}
+      <!--
       <li>
         <a href="{{ site.repourl }}/edit/{{ site.repobranch }}/{{ page.path }}">Edit this page</a>
       </li>
       <hr />
+      -->
       {% endif %}
       <li><a href="{{ site.baseurl }}/standards/">View the standards</a></li>
       <li><a href="{{ site.baseurl }}/extensions/">View the extensions</a></li>
@@ -76,11 +80,13 @@
       <li><a href="{{ site.baseurl }}/use_cases/">View the use cases</a></li>
       <li><a href="{{ site.baseurl }}/subjects/">Browse by subject areas</a></li>
       <hr />
-      <li><a href="{{ site.baseurl }}/about/">Contribute</a></li>
+      <li><a href="{{ site.baseurl }}/about/">How contributing worked</a></li>
+      <!--
       <li><a href="{{ site.baseurl }}/standards/add.html">Add standards</a></li>
       <li><a href="{{ site.baseurl }}/extensions/add.html">Add extensions</a></li>
       <li><a href="{{ site.baseurl }}/tools/add.html">Add tools</a></li>
       <li><a href="{{ site.baseurl }}/use_cases/add.html">Add use cases</a></li>
+      -->
       <hr />
       <div id="social-wrapper">
         <li> <a href="{{ site.github }}"><i class="fa fa-github-square"></i> github</a> </li>
@@ -92,3 +98,14 @@
   </div>
   <!-- Main page content -->
   <div class="container">
+    <div class="alert alert-warning" role="alert">
+      <div class="media">
+        <div class="pull-left">
+          <span class="fa fa-exclamation-triangle fa-2x"></span>
+        </div>
+        <div class="media-body">
+          This directory has been superseded by the <a href="https://rdamsc.bath.ac.uk/">RDA Metadata Standards Catalog</a> and is no longer maintained.
+          {% if page.layout == "about" %}Please check the Catalog for up-to-date information and make contributions there instead of following the instructions on this page.{% endif %}
+        </div>
+      </div>
+    </div>
