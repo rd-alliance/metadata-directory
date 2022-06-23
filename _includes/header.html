@@ -22,7 +22,7 @@
   </script>
 </head>
 <body>
-  <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> Metadata Directory </div>
+  <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i>{{ site.name }}</div>
   <div id = "wrapper">
   <!-- Small screen navigation -->
   <div class="navbar navbar-default" role="navigation">
@@ -62,15 +62,14 @@
     <ul class="sidebar-nav">
       <li class="sidebar-brand">
         <h1 class="brand"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-        <h3>{{ site.description }}</h3>
       </li>
       <hr />
       {% if page.type %}
       <li>
         <a href="{{ site.repourl }}/edit/{{ site.repobranch }}/{{ page.path }}">Edit this page</a>
       </li>
-      {% endif %}
       <hr />
+      {% endif %}
       <li><a href="{{ site.baseurl }}/standards/">View the standards</a></li>
       <li><a href="{{ site.baseurl }}/extensions/">View the extensions</a></li>
       <li><a href="{{ site.baseurl }}/tools/">View the tools</a></li>

@@ -1,9 +1,9 @@
-name: Metadata
+name: Metadata Standards Directory
 author: RDA
 markdown: kramdown
 highlighter: rouge
 baseurl: /metadata-directory
-description: RDA | Metadata Directory
+description: An output of the Research Data Alliance Metadata Standards Directory Working Group
 github: http://www.github.com/rd-alliance/metadata-directory
 twitter: https://twitter.com/resdatall
 facebook: https://www.facebook.com/pages/Research-Data-Alliance/459608890798924

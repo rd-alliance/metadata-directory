@@ -116,11 +116,15 @@ p
 .sidebar-nav li
 {
   line-height:30px;
-  text-indent:40px;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
   color:#9c9c9c;
   text-shadow:1px 1px #fff
+}
+
+.sidebar-nav li > *
+{
+  padding-left:40px;
 }
 
 .sidebar-nav li a
@@ -239,7 +243,6 @@ pre
 #social-wrapper a
 {
   font-size:15px;
-  text-indent:20px
 }
 
 #social-wrapper li
