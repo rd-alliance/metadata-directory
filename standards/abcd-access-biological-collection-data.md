@@ -7,9 +7,10 @@ description: <p>The <a href="http://www.tdwg.org/standards/115/">Access to Biolo
   biodiversity data). The ABCD Schema attempts to be comprehensive and highly structured,
   supporting data from a wide variety of databases. It is compatible with several
   existing data standards. Parallel structures exist so that either (or both) atomised
-  data and free-text can be accommodated.</p><p>Sponsored by Biodiversity Information
-  Standards TDWG - the Taxonomic Databases Working Group, the current specification
-  was last modified in 2007.</p>
+  data and free-text can be accommodated.</p><p>The ABCD Schema was ratified as
+  a standard by the Biodiversity Information Standards Taxonomic Databases Working
+  Group (TDWG) in 2005. It was developed as a community-driven effort, with
+  contributions from CODATA, BioCASE and GBIF among other organizations.</p>
 website: http://wiki.tdwg.org/ABCD
 subjects:
 - life-sciences
