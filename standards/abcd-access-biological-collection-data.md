@@ -11,7 +11,7 @@ description: <p>The <a href="http://www.tdwg.org/standards/115/">Access to Biolo
   a standard by the Biodiversity Information Standards Taxonomic Databases Working
   Group (TDWG) in 2005. It was developed as a community-driven effort, with
   contributions from CODATA, BioCASE and GBIF among other organizations.</p>
-website: http://wiki.tdwg.org/ABCD
+website: https://abcd.tdwg.org/
 subjects:
 - life-sciences
 disciplines:
