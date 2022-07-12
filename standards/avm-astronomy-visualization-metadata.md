@@ -17,7 +17,7 @@ subjects:
 - physical-sciences-and-mathematics
 disciplines:
 - astronomy
-specification_url: http://www.virtualastronomy.org/avm_metadata.php#2
+specification_url: https://www.virtualastronomy.org/AVM_DRAFTVersion12_rlh02.pdf
 layout: standard
 type: standard
 ---
