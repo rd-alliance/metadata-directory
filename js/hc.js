@@ -24,7 +24,7 @@ $('.nav-toggle').on('click', function () {
 */
 
 $(function() {
-    $('.project-box').click(function() {
+    $('.project-box').on("click", function() {
         $(this).find('.post').slideToggle();
     });
 });
