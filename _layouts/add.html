@@ -1,31 +1,8 @@
 {% include header.html %}
-      {{ content }}
-      
-      
-    <script type="text/javascript" src="../js/jquery.js"></script>
-    <script type="text/javascript" src="../js/ZeroClipboard.js"></script>
-    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
- 
+{{ content }}
+    <script src="{{ site.baseurl }}/js/clipboard.min.js"></script>
     <script type="text/javascript">
-      var client = new ZeroClipboard( $('button.clip-button'),
-                       {moviePath: "../swf/ZeroClipboard.swf" });
-
-      client.on( 'load', function(client) {
-        // alert( "movie is loaded" );
-
-        client.on( 'complete', function(client, args) {
-          alert("Copied template!");
-        } );
-      } );
-
-      client.on( 'wrongflash noflash', function() {
-        ZeroClipboard.destroy();
-      } );
+      new ClipboardJS('.btn');
     </script>
-      
+
 {% include footer.html %}
-  
-
-
-
-
