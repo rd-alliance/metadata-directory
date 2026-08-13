@@ -1,10 +1,10 @@
 ## Using the Metadata Standards Directory
 
-:warning:
-Please note that the Metadata Standards Directory Working Group was succeeded by the
-Metadata Standards Catalog Working Group, and this Directory has been superseded
-by the [Metadata Standards Catalog], with source code available from its
-[development repository].
+> [!WARNING]
+> Please note that the Metadata Standards Directory Working Group was succeeded
+> by the Metadata Standards Catalog Working Group, and this Directory has been
+> superseded by the [Metadata Standards Catalog], with source code available
+> from its [development repository].
 
 [Metadata Standards Catalog]: https://rdamsc.bath.ac.uk/
 [development repository]: https://github.com/rd-alliance/metadata-catalog-v2
