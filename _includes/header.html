@@ -7,7 +7,7 @@
   <meta name="description" content="{{ site.description }}">
   <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/css/hc.css" rel="stylesheet">
-  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -22,7 +22,7 @@
   </script>
 </head>
 <body>
-  <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i>{{ site.name }}</div>
+  <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i>{{ site.title }}</div>
   <div id = "wrapper">
   <!-- Small screen navigation -->
   <div class="navbar navbar-default" role="navigation">
@@ -34,7 +34,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <p class="navbar-brand">{{ site.name }}</p>
+        <p class="navbar-brand">{{ site.title }}</p>
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
@@ -63,7 +63,7 @@
   <div id="sidebar-wrapper">
     <ul class="sidebar-nav">
       <li class="sidebar-brand">
-        <h1 class="brand"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <h1 class="brand"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
       </li>
       <hr />
       {% if page.type %}

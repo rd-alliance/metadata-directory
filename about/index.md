@@ -13,7 +13,7 @@ Standards are contained within the
 file system directory with each standard encoded into a markdown file with a
 [YAML](http://en.wikipedia.org/wiki/YAML) preface. The YAML preface is
 structured to encode the various elements describing a metadata standard or its
-associated implementations. 
+associated implementations.
 
 Implementations come in three different categories
 [`extensions`]({{ site.repourl }}/tree/{{ site.repobranch }}/extensions),
@@ -24,7 +24,7 @@ implementations are contained in their own file system directories.
 Relationships between implementations and standards are created based on
 recording related standards within each of the implementation metadata records.
 
-## Getting Started 
+## Getting Started
 
 [__Adding a Standard__]({{ site.baseurl }}/standards/add.html)
 
@@ -59,9 +59,9 @@ Experimenting with different workflows for editing is encouraged!
 
 ### Additional Help
 
-[Creating and editing files in your repository](https://help.github.com/articles/creating-and-editing-files-in-your-repository)
+[Creating and editing files in your repository](https://docs.github.com/en/repositories/working-with-files/managing-files)
 
-[Collaboration on GitHub](https://help.github.com/categories/63/articles)
+[Collaboration on GitHub](https://docs.github.com/en/get-started/using-github/communicating-on-github)
 
 ## Jekyll
 
@@ -70,5 +70,4 @@ Jekyll to process HTML, YAML, and Markdown files to generate a static website.
 
 If you choose to clone the repository running a local version of Jekyll is
 helpful for troubleshooting:
-[https://help.github.com/articles/using-jekyll-with-pages](https://help.github.com/articles/using-jekyll-with-pages)
-
+<https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll>

@@ -1,14 +1,27 @@
-name: Metadata Standards Directory
-author: RDA
-markdown: kramdown
-highlighter: rouge
+# Site settings
+title: Metadata Standards Directory
+email: mscwg@rda-groups.org
+description: >-
+  An output of the Research Data Alliance Metadata Standards Directory Working
+  Group
 baseurl: /metadata-directory
-description: An output of the Research Data Alliance Metadata Standards Directory Working Group
+url: https://rd-alliance.github.io/metadata-directory/
 github: http://www.github.com/rd-alliance/metadata-directory
 twitter: https://twitter.com/resdatall
 facebook: https://www.facebook.com/pages/Research-Data-Alliance/459608890798924
 linkedin: http://www.linkedin.com/profile/view?id=272003890&trk=nav_responsive_tab_profile
-email: mscwg@rda-groups.org
+
+# Build settings
 repourl: https://github.com/rd-alliance/metadata-directory
 repobranch: gh-pages
-exclude: [vendor]
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+- .sass-cache/
+- .jekyll-cache/
+- vendor/
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
